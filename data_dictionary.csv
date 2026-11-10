@@ -1,0 +1,17 @@
+field,description,data_type
+client_id,Unique synthetic buyer identifier,Identifier
+client_type,Individual or Corporate,Categorical
+gender,Self-reported gender category,Categorical
+country,Country of residence,Categorical
+region,Broad geographic region,Categorical
+date_of_birth,Date of birth used to derive age,Date
+acquisition_purpose,"Investment, Personal Use, or Business Use",Categorical
+loan_applied,Whether buyer applied for financing,Binary
+referral_channel,Customer acquisition source,Categorical
+satisfaction_score,Satisfaction rating from 1 to 5,Numeric
+income_bracket,Synthetic income category; added to support profiling,Ordinal categorical
+property_budget_usd,Synthetic indicative property budget in USD,Numeric
+units_interested,Number of units buyer is interested in,Numeric
+age,"Derived age at 2026-11-04, included in cleaned dataset",Numeric
+cluster,K-Means cluster identifier,Model output
+buyer_segment,Descriptive label derived from cluster profile,Model interpretation

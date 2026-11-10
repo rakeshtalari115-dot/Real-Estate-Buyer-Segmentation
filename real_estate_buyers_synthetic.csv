@@ -1,0 +1,1513 @@
+client_id,client_type,gender,country,region,date_of_birth,acquisition_purpose,loan_applied,referral_channel,satisfaction_score,income_bracket,property_budget_usd,units_interested
+CL100001,Corporate,Female,Canada,North America,1990-12-10,Investment,No,Corporate Network,2.0,Very High,238597.0,4
+CL100002,Individual,,UAE,Middle East,2005-04-06,Personal Use,No,Referral,3.0,Medium,131084.78,1
+CL100003,Individual,Male,United Kingdom,Europe,1972-11-20,Investment,No,Private Banker,4.0,Very High,720654.1,1
+CL100004,Corporate,Male,Sri Lanka,South Asia,1992-03-05,Business Use,No,Corporate Network,4.0,Very High,250920.15,6
+CL100005,Individual,Male,France,Europe,1981-03-15,Investment,No,Website,3.0,High,326654.32,1
+CL100006,Individual,Male,Netherlands,Europe,1977-09-01,Personal Use,No,Broker,5.0,High,580055.27,2
+CL100007,Corporate,Male,Germany,Europe,1981-05-19,Investment,No,Referral,3.0,High,279141.66,6
+CL100008,Corporate,Female,Oman,Middle East,1982-03-06,Investment,No,Corporate Network,4.0,Very High,188197.22,5
+CL100009,Individual,Male,Japan,East Asia,1993-05-09,Investment,Yes,Investment Event,4.0,High,367362.58,1
+CL100010,Individual,Male,Sri Lanka,South Asia,1999-10-21,Personal Use,No,Social Media,3.0,Medium,81259.29,1
+CL100011,Individual,Male,Sri Lanka,South Asia,2003-11-25,Personal Use,Yes,Website,4.0,Medium,28999.52,1
+CL100012,Individual,,Sri Lanka,South Asia,1975-09-19,Investment,No,Referral,4.0,Very High,518491.18,1
+CL100013,Corporate,Female,France,Europe,1982-05-11,Investment,No,Corporate Network,3.0,Very High,761991.83,4
+CL100014,Individual,Female,United States,North America,1976-05-23,Investment,No,Broker,5.0,Very High,648885.44,3
+CL100015,Individual,Female,India,South Asia,1995-02-02,Personal Use,No,Broker,1.0,Low,67329.07,1
+CL100016,Individual,Male,United States,North America,1991-01-24,Investment,No,Referral,4.0,High,289925.96,3
+CL100017,Individual,Male,United Kingdom,Europe,2005-10-24,Personal Use,Yes,Social Media,4.0,Low,64132.74,1
+CL100018,Individual,Prefer not to say,Malaysia,East Asia,1969-10-25,Investment,No,Investment Event,4.0,High,126092.41,2
+CL100019,Corporate,Female,Saudi Arabia,Middle East,1960-08-13,Investment,No,Broker,3.0,High,706742.36,2
+CL100020,Corporate,Female,Canada,North America,1996-08-14,Investment,No,Website,3.0,Very High,386664.16,3
+CL100021,Corporate,Male,Oman,Middle East,1982-11-09,Investment,No,Website,4.0,High,207977.76,6
+CL100022,Individual,Male,United States,North America,1981-05-21,Personal Use,Yes,,3.0,Low,42413.26,1
+CL100023,Individual,Female,United Kingdom,Europe,1972-06-19,Personal Use,No,,4.0,Very High,821770.22,1
+CL100024,Individual,Male,Oman,Middle East,1985-02-21,Investment,Yes,Referral,4.0,High,1008010.35,1
+CL100025,Corporate,Female,Singapore,East Asia,1985-08-12,Investment,No,Referral,4.0,High,229394.74,3
+CL100026,Individual,Female,United States,North America,1992-08-25,Investment,No,Broker,3.0,High,293965.75,1
+CL100027,Individual,Male,UAE,Middle East,1992-04-17,Personal Use,Yes,Website,2.0,Medium,43881.54,1
+CL100028,Individual,Male,Sri Lanka,South Asia,1990-06-15,Investment,Yes,Broker,3.0,High,168891.35,2
+CL100029,Corporate,Male,France,Europe,1970-06-19,Investment,No,Broker,4.0,High,154099.85,2
+CL100030,Corporate,Male,Germany,Europe,1974-05-21,Business Use,No,Corporate Network,4.0,High,720317.46,2
+CL100031,Corporate,Male,India,South Asia,1985-07-05,Business Use,Yes,Broker,4.0,Very High,547095.26,5
+CL100032,Individual,Male,United Kingdom,Europe,1974-01-27,Personal Use,No,Broker,4.0,Very High,625940.7,1
+CL100033,Individual,Prefer not to say,France,Europe,1991-11-07,Personal Use,Yes,Website,4.0,Medium,46264.27,1
+CL100034,Individual,Female,Japan,East Asia,1991-07-18,Personal Use,Yes,Social Media,3.0,Medium,72774.12,1
+CL100035,Individual,Male,Netherlands,Europe,1999-05-03,Personal Use,Yes,Social Media,2.0,Low,37269.08,1
+CL100036,Individual,Female,Nepal,South Asia,1975-01-23,Investment,No,Referral,3.0,High,345397.58,1
+CL100037,Individual,Female,United Kingdom,Europe,1990-06-19,Investment,No,Investment Event,3.0,Very High,273964.76,1
+CL100038,Individual,Female,United Kingdom,Europe,1999-10-10,Personal Use,Yes,Website,5.0,High,33191.92,1
+CL100039,Individual,Male,India,South Asia,1985-05-02,Investment,No,Investment Event,4.0,Very High,158165.64,2
+CL100040,Corporate,Male,United States,North America,1999-06-06,Investment,Yes,Referral,3.0,High,549876.51,3
+CL100041,Individual,Female,Bangladesh,South Asia,2002-12-06,Personal Use,Yes,Referral,3.0,Medium,53399.53,1
+CL100042,Individual,Male,Canada,North America,1965-07-13,Investment,No,Referral,3.0,Very High,339151.4,1
+CL100043,Corporate,Female,Oman,Middle East,1992-12-26,Investment,Yes,Website,3.0,High,364497.8,8
+CL100044,Individual,Female,Canada,North America,2000-07-05,Personal Use,Yes,Broker,1.0,High,65068.08,1
+CL100045,Individual,Male,Netherlands,Europe,1981-05-22,Personal Use,No,Referral,4.0,Very High,477030.39,1
+CL100046,Individual,Male,Nepal,South Asia,1973-09-12,Investment,No,Private Banker,4.0,Very High,769687.16,1
+CL100047,Individual,Female,Bangladesh,South Asia,1985-01-10,Personal Use,Yes,Website,4.0,Medium,32447.87,1
+CL100048,Individual,Female,United States,North America,1995-11-12,Personal Use,Yes,Social Media,3.0,Medium,56871.15,1
+CL100049,Corporate,Male,Canada,North America,1982-12-20,Investment,No,Referral,5.0,High,511878.19,5
+CL100050,Individual,Male,United Kingdom,Europe,1978-02-27,Investment,No,Broker,3.0,High,154829.69,3
+CL100051,Individual,Male,UAE,Middle East,1966-01-27,Investment,No,Website,3.0,High,331649.08,3
+CL100052,Individual,Female,United States,North America,1994-03-01,Investment,No,Broker,4.0,High,205841.68,4
+CL100053,Corporate,Male,Qatar,Middle East,1976-09-03,Investment,Yes,Broker,3.0,High,607324.18,5
+CL100054,Corporate,Male,Oman,Middle East,1983-04-22,Investment,Yes,Website,4.0,High,771657.29,3
+CL100055,Corporate,Male,United States,North America,1992-09-10,Business Use,Yes,Corporate Network,4.0,High,530858.1,4
+CL100056,Corporate,Female,UAE,Middle East,1986-12-10,Investment,Yes,Corporate Network,4.0,High,454575.1,3
+CL100057,Individual,Male,Sri Lanka,South Asia,2002-01-26,Personal Use,Yes,Social Media,3.0,High,82617.4,1
+CL100058,Individual,Female,United States,North America,1992-01-26,Personal Use,No,Broker,4.0,Medium,65062.74,1
+CL100059,Individual,Female,Malaysia,East Asia,1996-10-21,Investment,Yes,Investment Event,3.0,Very High,202718.25,2
+CL100060,Individual,Male,Bangladesh,South Asia,1972-10-09,Investment,No,Investment Event,4.0,High,262554.57,1
+CL100061,Corporate,Non-binary,Germany,Europe,1984-04-01,Investment,No,Corporate Network,5.0,Very High,541825.21,6
+CL100062,Individual,Female,Canada,North America,1998-02-26,Personal Use,Yes,Social Media,3.0,Low,70381.32,1
+CL100063,Individual,Female,Saudi Arabia,Middle East,2000-09-02,Personal Use,Yes,Social Media,3.0,Medium,55407.37,1
+CL100064,Corporate,Male,Malaysia,East Asia,1982-09-27,Investment,Yes,Corporate Network,3.0,Very High,612431.71,4
+CL100065,Corporate,Female,Singapore,East Asia,1979-06-20,Investment,Yes,Corporate Network,3.0,Very High,310388.26,3
+CL100066,Individual,Female,United States,North America,1995-08-18,Personal Use,Yes,Social Media,,Low,77734.34,1
+CL100067,Individual,Female,Japan,East Asia,1995-09-23,Personal Use,Yes,Social Media,4.0,Medium,127239.21,1
+CL100068,Individual,Male,India,South Asia,1994-09-15,Personal Use,Yes,Social Media,3.0,Medium,63254.73,1
+CL100069,Individual,Female,Germany,Europe,1971-08-22,Investment,No,Referral,4.0,Very High,336004.63,1
+CL100070,Individual,Male,Saudi Arabia,Middle East,1995-12-17,Personal Use,Yes,Broker,3.0,Medium,50149.21,1
+CL100071,Individual,Female,Canada,North America,1978-11-20,Investment,Yes,Broker,3.0,Very High,289172.97,1
+CL100072,Individual,Female,Sri Lanka,South Asia,1996-08-17,Personal Use,Yes,Referral,3.0,Low,56571.43,1
+CL100073,Individual,Male,Qatar,Middle East,1987-01-03,Investment,No,Broker,4.0,High,605919.03,1
+CL100074,Corporate,Male,Germany,Europe,1971-04-05,Investment,No,Website,4.0,High,271628.96,1
+CL100075,Individual,Male,France,Europe,1977-12-04,Investment,No,Broker,5.0,High,270246.6,4
+CL100076,Individual,Male,Qatar,Middle East,1995-10-10,Personal Use,No,Broker,4.0,Low,73902.04,1
+CL100077,Individual,Female,Bangladesh,South Asia,1989-03-20,Personal Use,Yes,Website,5.0,Medium,94630.07,1
+CL100078,Corporate,,Nepal,South Asia,1987-11-27,Business Use,Yes,Broker,4.0,Very High,528232.53,6
+CL100079,Individual,Male,Canada,North America,1987-01-02,Personal Use,No,Website,4.0,Medium,71554.63,1
+CL100080,Corporate,Male,Germany,Europe,1973-06-19,Investment,Yes,Broker,4.0,High,566944.87,6
+CL100081,Corporate,Female,Saudi Arabia,Middle East,1984-02-10,Investment,No,Corporate Network,4.0,Very High,660381.03,5
+CL100082,Individual,Male,Nepal,South Asia,1991-08-17,Personal Use,No,Website,4.0,Medium,49408.64,1
+CL100083,Individual,Male,United States,North America,1984-11-06,Investment,No,Website,4.0,Very High,1214643.34,1
+CL100084,Individual,Male,Sri Lanka,South Asia,1970-02-25,Investment,Yes,Referral,5.0,Very High,155546.88,1
+CL100085,Individual,Male,India,South Asia,1980-09-02,Investment,No,Referral,3.0,Very High,128054.45,1
+CL100086,Corporate,Male,France,Europe,1981-06-11,Investment,Yes,Referral,3.0,High,293302.47,1
+CL100087,Corporate,Male,Germany,Europe,1976-08-23,Investment,No,Corporate Network,4.0,Very High,583309.23,5
+CL100088,Individual,Female,France,Europe,2001-12-16,Personal Use,Yes,Broker,4.0,Low,38007.06,1
+CL100089,Individual,Female,Netherlands,Europe,1997-11-11,Investment,No,Website,3.0,High,267111.53,1
+CL100090,Individual,Female,Sri Lanka,South Asia,1989-03-11,Personal Use,No,Broker,2.0,Medium,57819.61,1
+CL100091,Individual,Female,Japan,East Asia,1975-11-14,Investment,Yes,Referral,4.0,Very High,823757.8,1
+CL100092,Corporate,Male,Nepal,South Asia,1979-09-07,Business Use,No,Corporate Network,2.0,Very High,713580.53,4
+CL100093,Individual,Female,India,South Asia,2000-03-08,Personal Use,Yes,Website,3.0,Low,99995.11,1
+CL100094,Individual,Male,Japan,East Asia,1992-07-01,Personal Use,No,Social Media,4.0,Medium,30913.03,1
+CL100095,Individual,Male,UAE,Middle East,1996-10-23,Personal Use,Yes,Social Media,4.0,Medium,65348.3,1
+CL100096,Corporate,Male,UAE,Middle East,1977-04-08,Investment,Yes,Broker,2.0,High,746773.17,4
+CL100097,Individual,Female,India,South Asia,1989-04-19,Personal Use,Yes,Broker,3.0,Medium,86837.89,1
+CL100098,Individual,Male,Sri Lanka,South Asia,1965-02-17,Investment,No,Investment Event,4.0,High,196038.82,2
+CL100099,Individual,Male,Canada,North America,1976-02-06,Investment,No,Website,4.0,High,346998.81,1
+CL100100,Corporate,Female,UAE,Middle East,1973-07-26,Investment,No,Broker,4.0,Very High,436505.39,1
+CL100101,Individual,Male,France,Europe,1975-06-15,Investment,No,Referral,4.0,Very High,774452.03,1
+CL100102,Corporate,Male,Saudi Arabia,Middle East,1999-08-26,Investment,No,Referral,5.0,Very High,525601.76,6
+CL100103,Individual,Male,Sri Lanka,South Asia,2005-07-15,Personal Use,Yes,Social Media,3.0,Low,78745.6,1
+CL100104,Individual,Male,Qatar,Middle East,1982-10-24,Personal Use,No,Referral,4.0,Very High,605298.38,1
+CL100105,Corporate,Female,United States,North America,1990-08-12,Business Use,No,Referral,4.0,Very High,204448.38,4
+CL100106,Corporate,Male,Qatar,Middle East,1972-09-16,Investment,No,Referral,4.0,High,287564.76,6
+CL100107,Individual,Female,Qatar,Middle East,1998-06-19,Personal Use,Yes,Social Media,3.0,Medium,62777.46,1
+CL100108,Individual,Female,Canada,North America,1986-09-19,Personal Use,Yes,Broker,4.0,Medium,59617.44,1
+CL100109,Corporate,Male,United Kingdom,Europe,1981-12-26,Investment,No,Broker,3.0,Very High,347826.22,3
+CL100110,Individual,Female,Netherlands,Europe,1975-01-07,Personal Use,No,Broker,5.0,High,1250368.32,1
+CL100111,Individual,Female,India,South Asia,2000-11-25,Personal Use,Yes,Social Media,3.0,High,69137.81,1
+CL100112,Individual,Female,Netherlands,Europe,1984-03-15,Investment,No,Broker,3.0,High,213246.27,3
+CL100113,Individual,Male,Sri Lanka,South Asia,1997-06-15,Personal Use,Yes,Website,4.0,Medium,75209.35,1
+CL100114,Individual,Male,India,South Asia,2000-01-20,Personal Use,Yes,Website,4.0,Low,34038.01,1
+CL100115,Corporate,Female,Sri Lanka,South Asia,1984-11-16,Investment,No,Investment Event,4.0,Very High,272538.08,2
+CL100116,Individual,Male,Singapore,East Asia,1973-08-10,Personal Use,No,Private Banker,4.0,Very High,598625.41,2
+CL100117,Corporate,Male,United Kingdom,Europe,1982-04-20,Investment,Yes,Website,3.0,Very High,821729.26,3
+CL100118,Corporate,Male,Qatar,Middle East,1969-07-19,Investment,No,Broker,3.0,Very High,1013743.81,5
+CL100119,Individual,Female,Singapore,East Asia,2001-06-22,Personal Use,Yes,Website,4.0,Low,33801.87,1
+CL100120,Corporate,Male,India,South Asia,1978-10-08,Investment,Yes,Broker,4.0,Very High,467268.86,5
+CL100121,Individual,,Nepal,South Asia,2005-12-04,Personal Use,Yes,Broker,2.0,Medium,52067.63,1
+CL100122,Corporate,Male,United Kingdom,Europe,1976-05-12,Investment,No,Corporate Network,3.0,Very High,360327.68,4
+CL100123,Individual,Male,Oman,Middle East,1976-03-12,Investment,Yes,Website,3.0,Very High,256494.1,1
+CL100124,Individual,Female,Singapore,East Asia,1999-03-09,Personal Use,Yes,Social Media,3.0,Medium,51508.5,1
+CL100125,Individual,Female,Netherlands,Europe,1973-02-24,Investment,No,Broker,3.0,High,555020.08,1
+CL100126,Individual,Female,India,South Asia,1999-06-15,Personal Use,Yes,Social Media,4.0,Low,37727.33,1
+CL100127,Individual,Female,Bangladesh,South Asia,2002-12-15,Personal Use,Yes,Social Media,2.0,Low,119940.7,1
+CL100128,Individual,Non-binary,Japan,East Asia,1972-09-18,Investment,No,Investment Event,4.0,High,327567.2,1
+CL100129,Individual,Female,Bangladesh,South Asia,1986-12-07,Investment,Yes,Broker,5.0,High,363592.74,1
+CL100130,Individual,Male,Netherlands,Europe,1986-04-19,Personal Use,Yes,Website,2.0,Low,55889.86,1
+CL100131,Individual,Female,Germany,Europe,1992-09-25,Investment,No,Broker,3.0,Very High,330218.25,1
+CL100132,Individual,Male,Singapore,East Asia,1985-12-05,Investment,No,Website,4.0,Very High,913826.01,2
+CL100133,Individual,Non-binary,Bangladesh,South Asia,1997-11-04,Personal Use,Yes,Website,3.0,Low,60906.47,1
+CL100134,Individual,Male,Nepal,South Asia,1990-12-05,Personal Use,Yes,Website,2.0,Medium,83532.55,1
+CL100135,Individual,Male,Germany,Europe,1989-02-17,Personal Use,Yes,Broker,5.0,Medium,76142.13,1
+CL100136,Individual,Male,Oman,Middle East,1963-08-22,Investment,Yes,Broker,3.0,High,384795.99,2
+CL100137,Individual,Female,Oman,Middle East,1972-07-08,Investment,No,Broker,3.0,High,1029761.35,2
+CL100138,Individual,Male,Canada,North America,2000-06-21,Personal Use,Yes,Website,3.0,Low,63484.88,1
+CL100139,Corporate,Female,Oman,Middle East,1974-09-05,Investment,Yes,Broker,3.0,High,377944.56,5
+CL100140,Individual,Male,Saudi Arabia,Middle East,1963-02-20,Investment,No,Broker,5.0,Very High,183262.92,1
+CL100141,Individual,Male,Bangladesh,South Asia,1996-03-09,Personal Use,Yes,Social Media,3.0,High,65623.78,1
+CL100142,Individual,Female,Sri Lanka,South Asia,1996-03-05,Personal Use,Yes,Social Media,3.0,Medium,68923.38,1
+CL100143,Individual,Non-binary,UAE,Middle East,1969-08-09,Personal Use,No,Referral,4.0,Very High,455015.17,1
+CL100144,Individual,Female,United States,North America,1984-10-08,Personal Use,No,Social Media,4.0,High,53536.42,1
+CL100145,Individual,Male,India,South Asia,1998-08-22,Personal Use,Yes,Social Media,,Medium,51619.28,1
+CL100146,Individual,Female,Japan,East Asia,2005-08-07,Personal Use,No,Website,3.0,Medium,72451.66,1
+CL100147,Individual,Male,Singapore,East Asia,2001-03-12,Personal Use,Yes,Website,,Medium,76891.51,1
+CL100148,Individual,Female,India,South Asia,1996-10-19,Personal Use,Yes,Social Media,2.0,Medium,97821.24,1
+CL100149,Individual,Male,Sri Lanka,South Asia,1992-02-07,Personal Use,Yes,Website,2.0,Medium,89192.35,1
+CL100150,Corporate,Female,Singapore,East Asia,1984-01-21,Investment,Yes,Investment Event,4.0,High,433784.39,2
+CL100151,Individual,Female,Qatar,Middle East,1958-03-05,Personal Use,No,Private Banker,,Very High,867779.99,2
+CL100152,Individual,Male,Qatar,Middle East,1978-01-20,Investment,Yes,Website,4.0,High,856420.64,3
+CL100153,Individual,Male,United States,North America,1988-02-10,Investment,No,Investment Event,3.0,Very High,189962.36,2
+CL100154,Individual,Female,India,South Asia,1996-01-02,Personal Use,Yes,Social Media,3.0,High,65915.54,1
+CL100155,Individual,Female,United States,North America,1978-11-07,Investment,Yes,Referral,4.0,High,176158.81,2
+CL100156,Corporate,Female,Qatar,Middle East,1979-03-02,Investment,No,Broker,4.0,Very High,528320.74,8
+CL100157,Individual,Female,Sri Lanka,South Asia,1989-05-17,Personal Use,No,Broker,3.0,Medium,58909.87,1
+CL100158,Corporate,Male,UAE,Middle East,1981-04-18,Business Use,No,Website,4.0,Very High,496228.44,6
+CL100159,Corporate,Male,United Kingdom,Europe,1986-02-18,Investment,Yes,Corporate Network,3.0,High,575158.06,3
+CL100160,Corporate,Female,Japan,East Asia,1991-07-15,Investment,No,Broker,2.0,High,707009.5,6
+CL100161,Individual,Female,France,Europe,1989-01-01,Investment,No,Referral,3.0,Very High,348203.07,1
+CL100162,Individual,Male,Saudi Arabia,Middle East,1981-07-23,Personal Use,No,Referral,4.0,High,363397.48,1
+CL100163,Individual,Female,United Kingdom,Europe,1977-04-04,Investment,Yes,Referral,4.0,High,404091.76,1
+CL100164,Individual,Female,Germany,Europe,1976-11-13,Investment,No,Referral,3.0,High,400642.7,4
+CL100165,Individual,Female,Malaysia,East Asia,1996-04-13,Personal Use,No,Website,3.0,Medium,78077.32,1
+CL100166,Individual,Female,Malaysia,East Asia,1998-11-03,Personal Use,Yes,Website,2.0,Medium,81588.91,1
+CL100167,Individual,Female,Saudi Arabia,Middle East,1971-01-02,Personal Use,No,Broker,3.0,High,678778.76,2
+CL100168,Individual,Female,Nepal,South Asia,1980-05-05,Investment,No,Private Banker,4.0,High,396838.0,1
+CL100169,Individual,Female,Bangladesh,South Asia,2000-09-25,Personal Use,Yes,Website,2.0,Medium,59153.02,1
+CL100170,Individual,Female,United Kingdom,Europe,1981-02-09,Investment,No,Broker,3.0,Very High,1085874.0,1
+CL100171,Individual,Male,Germany,Europe,1994-08-10,Personal Use,Yes,Broker,4.0,High,51325.97,1
+CL100172,Individual,Female,Sri Lanka,South Asia,1992-08-16,Personal Use,Yes,Broker,4.0,High,88574.25,1
+CL100173,Individual,Male,Netherlands,Europe,1999-07-18,Personal Use,Yes,Broker,4.0,Medium,66063.93,1
+CL100174,Individual,Male,United States,North America,1968-10-22,Personal Use,No,Website,4.0,Very High,920104.59,1
+CL100175,Individual,Female,Oman,Middle East,1997-07-02,Investment,Yes,Broker,3.0,High,228417.25,1
+CL100176,Individual,Male,Canada,North America,1973-09-25,Investment,No,Broker,4.0,High,276486.15,2
+CL100177,Individual,Male,UAE,Middle East,2005-07-12,Personal Use,Yes,Website,3.0,Low,52389.15,1
+CL100178,Individual,Male,UAE,Middle East,1982-01-19,Investment,No,Private Banker,3.0,Very High,713047.13,2
+CL100179,Individual,Male,India,South Asia,1969-01-11,Personal Use,No,Referral,4.0,Very High,719600.58,1
+CL100180,Corporate,Male,United States,North America,1996-05-15,Investment,Yes,Broker,4.0,Very High,301967.34,4
+CL100181,Individual,Female,United States,North America,1971-11-09,Investment,No,Referral,4.0,High,371757.23,1
+CL100182,Individual,Female,France,Europe,1987-05-24,Personal Use,No,Referral,4.0,Very High,540156.22,2
+CL100183,Individual,Male,Saudi Arabia,Middle East,1996-01-13,Personal Use,Yes,Broker,4.0,Medium,168561.61,1
+CL100184,Individual,Male,Germany,Europe,2005-01-15,Personal Use,No,Social Media,4.0,High,65349.45,1
+CL100185,Corporate,Female,France,Europe,1968-11-14,Investment,No,Referral,4.0,High,752294.4,3
+CL100186,Corporate,Male,United Kingdom,Europe,1978-09-15,Investment,No,,3.0,High,294746.51,3
+CL100187,Individual,Female,India,South Asia,2004-04-18,Personal Use,Yes,Broker,4.0,High,101403.25,1
+CL100188,Corporate,Female,France,Europe,1971-01-25,Investment,No,Referral,4.0,Very High,97550.43,2
+CL100189,Corporate,Female,Singapore,East Asia,1977-10-08,Investment,No,Corporate Network,3.0,High,461835.63,2
+CL100190,Individual,Male,United States,North America,1996-08-20,Personal Use,Yes,Broker,3.0,Low,58046.15,1
+CL100191,Individual,Male,Canada,North America,1961-05-16,Investment,No,Private Banker,4.0,Very High,778012.09,1
+CL100192,Individual,Female,Japan,East Asia,1983-03-07,Investment,Yes,Broker,3.0,High,343028.34,3
+CL100193,Individual,Male,Saudi Arabia,Middle East,1992-08-08,Investment,No,Broker,4.0,Very High,234675.47,1
+CL100194,Individual,Male,Oman,Middle East,1968-10-27,Investment,No,Private Banker,5.0,High,744083.83,1
+CL100195,Corporate,Female,Germany,Europe,1991-08-18,Investment,Yes,Broker,4.0,Very High,227811.76,1
+CL100196,Individual,Female,United States,North America,1992-10-09,Investment,No,Broker,4.0,Very High,352500.32,1
+CL100197,Individual,Female,Nepal,South Asia,1996-06-11,Personal Use,Yes,Referral,4.0,Low,70889.29,1
+CL100198,Individual,Male,UAE,Middle East,1974-05-09,Investment,No,Referral,4.0,Very High,683749.51,1
+CL100199,Individual,Female,Oman,Middle East,1958-01-17,Investment,No,Broker,3.0,High,478418.53,1
+CL100200,Individual,Female,Sri Lanka,South Asia,2005-08-02,Personal Use,Yes,Social Media,3.0,Medium,62092.56,1
+CL100201,Corporate,Male,France,Europe,1998-11-24,Investment,No,Website,3.0,High,522895.78,3
+CL100202,Individual,Male,Canada,North America,1958-07-14,Personal Use,No,Broker,4.0,Very High,851952.97,3
+CL100203,Individual,Male,Sri Lanka,South Asia,1994-10-06,Personal Use,No,Broker,3.0,Low,112721.07,1
+CL100204,Corporate,Male,Netherlands,Europe,1984-01-24,Investment,No,Broker,4.0,Very High,286505.36,1
+CL100205,Corporate,Female,India,South Asia,1980-09-18,Investment,No,Website,4.0,High,294088.45,2
+CL100206,Corporate,Male,Saudi Arabia,Middle East,1976-06-22,Investment,Yes,Broker,4.0,Very High,138350.05,1
+CL100207,Corporate,Male,United Kingdom,Europe,1979-08-17,Investment,No,Website,4.0,Very High,147897.77,2
+CL100208,Corporate,Male,Singapore,East Asia,1994-12-10,Business Use,No,Referral,,High,408598.29,8
+CL100209,Individual,Female,Qatar,Middle East,1983-04-04,Investment,No,Website,4.0,Very High,225209.38,2
+CL100210,Individual,Male,India,South Asia,1991-04-22,Personal Use,Yes,Social Media,4.0,Low,69445.6,1
+CL100211,Corporate,Male,Oman,Middle East,1982-07-12,Investment,No,Referral,3.0,High,310779.53,5
+CL100212,Individual,Male,Sri Lanka,South Asia,1986-08-13,Personal Use,Yes,Referral,2.0,Medium,36111.89,1
+CL100213,Individual,Male,France,Europe,1972-06-14,Investment,No,Referral,3.0,High,192083.02,1
+CL100214,Individual,Female,Malaysia,East Asia,1976-06-17,Personal Use,No,Broker,4.0,Very High,863666.34,1
+CL100215,Corporate,Female,United States,North America,1977-06-08,Investment,No,Referral,3.0,High,574998.57,3
+CL100216,Corporate,Female,Canada,North America,1980-02-26,Investment,Yes,Broker,4.0,High,1062294.69,8
+CL100217,Individual,Female,Germany,Europe,1984-09-12,Investment,No,Investment Event,4.0,Very High,337403.72,4
+CL100218,Individual,Male,United States,North America,1982-06-04,Investment,No,Broker,4.0,Very High,175554.97,1
+CL100219,Individual,Female,United Kingdom,Europe,1965-07-15,Personal Use,No,Referral,4.0,Very High,553418.92,1
+CL100220,Individual,Female,Bangladesh,South Asia,1990-04-25,Personal Use,Yes,Broker,5.0,Medium,42453.8,1
+CL100221,Individual,Male,UAE,Middle East,1992-07-19,Personal Use,Yes,Social Media,3.0,High,59316.62,1
+CL100222,Individual,Male,India,South Asia,2005-10-06,Personal Use,Yes,Website,4.0,Medium,85240.18,1
+CL100223,Corporate,Male,UAE,Middle East,1998-11-04,Investment,No,Referral,3.0,High,534725.82,8
+CL100224,Individual,Female,Singapore,East Asia,1971-06-14,Investment,No,Private Banker,3.0,Very High,407955.2,1
+CL100225,Individual,Female,India,South Asia,2003-02-25,Personal Use,Yes,Website,4.0,Medium,102982.61,1
+CL100226,Individual,Prefer not to say,United Kingdom,Europe,1978-01-27,Investment,No,Private Banker,3.0,Very High,250000.0,1
+CL100227,Individual,Female,Malaysia,East Asia,1975-06-18,Investment,No,Broker,3.0,High,123228.76,1
+CL100228,Individual,Female,Canada,North America,1981-03-17,Personal Use,Yes,Website,3.0,Low,28769.64,1
+CL100229,Corporate,Female,UAE,Middle East,1986-12-27,Investment,No,Website,3.0,High,677667.21,2
+CL100230,Corporate,Male,Singapore,East Asia,1977-10-18,Investment,No,Website,5.0,Very High,437958.05,3
+CL100231,Corporate,Female,UAE,Middle East,1974-05-21,Investment,No,Broker,3.0,Very High,105186.81,2
+CL100232,Individual,Male,Bangladesh,South Asia,1995-08-23,Personal Use,Yes,Social Media,3.0,High,88799.29,1
+CL100233,Individual,Male,Saudi Arabia,Middle East,1976-12-20,Personal Use,No,Referral,4.0,Very High,406531.7,1
+CL100234,Individual,Male,Sri Lanka,South Asia,1994-06-18,Personal Use,Yes,Website,3.0,Medium,82564.1,1
+CL100235,Individual,Female,Oman,Middle East,1983-06-19,Personal Use,No,Broker,4.0,Very High,406635.84,1
+CL100236,Individual,Male,United States,North America,1980-08-18,Investment,No,Website,4.0,Very High,1607690.6,1
+CL100237,Individual,Male,Bangladesh,South Asia,1994-11-17,Personal Use,Yes,Social Media,4.0,Medium,66825.12,1
+CL100238,Corporate,Female,Netherlands,Europe,1982-08-24,Investment,No,Referral,4.0,Very High,288962.67,4
+CL100239,Individual,Female,Malaysia,East Asia,1975-02-04,Investment,No,Website,3.0,Very High,686582.41,2
+CL100240,Individual,Female,France,Europe,1993-06-07,Investment,No,Website,4.0,High,197840.18,1
+CL100241,Individual,Female,Netherlands,Europe,1971-06-19,Investment,No,Website,4.0,Very High,803931.19,1
+CL100242,Corporate,Non-binary,Germany,Europe,1980-08-13,Business Use,No,Broker,3.0,Very High,152766.45,2
+CL100243,Corporate,Male,United States,North America,1985-12-21,Investment,No,Investment Event,4.0,Very High,375974.98,2
+CL100244,Individual,Male,India,South Asia,1998-03-03,Personal Use,No,Website,2.0,Low,64315.99,1
+CL100245,Corporate,Male,France,Europe,1980-11-23,Investment,Yes,Corporate Network,4.0,Very High,304522.59,2
+CL100246,Individual,Female,United Kingdom,Europe,1974-07-16,Investment,No,Broker,4.0,Very High,447027.41,1
+CL100247,Corporate,Female,United States,North America,1991-01-20,Investment,Yes,Corporate Network,3.0,High,718435.04,3
+CL100248,Individual,Female,Qatar,Middle East,1996-07-05,Personal Use,No,Broker,2.0,Low,102130.36,1
+CL100249,Individual,Male,United States,North America,1994-07-12,Personal Use,No,Social Media,5.0,Medium,33045.39,1
+CL100250,Individual,Female,Bangladesh,South Asia,1987-01-23,Personal Use,No,Website,3.0,Medium,49521.64,1
+CL100251,Corporate,Male,Sri Lanka,South Asia,1994-06-09,Investment,No,Website,3.0,Very High,511955.1,6
+CL100252,Corporate,Male,United States,North America,1974-11-08,Investment,No,Broker,3.0,High,506577.0,1
+CL100253,Individual,Male,Nepal,South Asia,1981-05-16,Personal Use,Yes,Referral,3.0,High,72390.74,1
+CL100254,Individual,Male,Nepal,South Asia,1975-04-19,Investment,No,Referral,4.0,Very High,289954.43,1
+CL100255,Individual,Female,United States,North America,1968-12-24,Investment,Yes,Referral,4.0,Very High,422928.16,3
+CL100256,Corporate,Female,Canada,North America,1983-01-17,Investment,No,Referral,4.0,Very High,1009708.62,4
+CL100257,Individual,Female,Oman,Middle East,1971-07-19,Personal Use,No,Broker,5.0,Very High,844037.4,1
+CL100258,Corporate,Male,India,South Asia,1981-12-21,Investment,Yes,Referral,3.0,High,154117.35,1
+CL100259,Individual,Male,Germany,Europe,1986-10-19,Investment,No,Investment Event,4.0,High,317132.14,2
+CL100260,Individual,Male,Bangladesh,South Asia,1998-06-04,Personal Use,Yes,Social Media,3.0,High,53456.51,1
+CL100261,Individual,,Oman,Middle East,1982-02-26,Investment,No,Investment Event,4.0,High,585283.95,1
+CL100262,Individual,Male,Qatar,Middle East,1963-04-15,Personal Use,No,Private Banker,4.0,Very High,1277955.85,1
+CL100263,Individual,Female,Sri Lanka,South Asia,1988-06-14,Personal Use,Yes,Broker,5.0,Low,57440.37,1
+CL100264,Corporate,Female,United Kingdom,Europe,1987-03-05,Investment,No,Broker,2.0,Very High,286881.67,1
+CL100265,Individual,Female,Canada,North America,1973-07-15,Investment,No,Broker,4.0,Very High,421667.23,1
+CL100266,Individual,Female,UAE,Middle East,1984-05-07,Investment,No,Referral,5.0,Very High,115031.1,2
+CL100267,Individual,Male,Bangladesh,South Asia,1998-01-14,Personal Use,No,Social Media,3.0,High,30837.49,1
+CL100268,Corporate,Male,Bangladesh,South Asia,1989-04-02,Investment,No,Broker,3.0,Very High,233319.88,1
+CL100269,Corporate,Female,France,Europe,1985-05-03,Investment,Yes,Investment Event,4.0,High,216129.85,2
+CL100270,Individual,,Canada,North America,1974-11-18,Investment,No,Investment Event,3.0,High,566469.87,3
+CL100271,Individual,Female,Saudi Arabia,Middle East,1978-11-21,Investment,Yes,Investment Event,3.0,High,215088.59,2
+CL100272,Individual,Female,United Kingdom,Europe,1990-01-04,Investment,No,Referral,3.0,Very High,262942.98,1
+CL100273,Individual,Female,Netherlands,Europe,1981-03-18,Investment,No,Broker,4.0,High,248957.08,1
+CL100274,Individual,Male,United States,North America,2001-01-16,Personal Use,Yes,Broker,4.0,Medium,71572.68,1
+CL100275,Corporate,Female,Canada,North America,1978-03-12,Investment,Yes,Corporate Network,4.0,Very High,215955.16,4
+CL100276,Individual,Female,Nepal,South Asia,1990-09-27,Personal Use,Yes,Website,3.0,High,38592.67,1
+CL100277,Individual,Male,Germany,Europe,2002-04-24,Personal Use,Yes,Website,3.0,Low,102757.6,1
+CL100278,Individual,Male,Nepal,South Asia,1992-07-18,Personal Use,No,Broker,3.0,Low,57312.38,1
+CL100279,Individual,Female,Sri Lanka,South Asia,1967-07-23,Personal Use,No,Referral,5.0,Very High,445457.16,1
+CL100280,Individual,Male,Germany,Europe,1972-11-07,Personal Use,No,Broker,4.0,Very High,616857.75,2
+CL100281,Corporate,Male,United States,North America,1983-03-18,Investment,No,Referral,3.0,High,164980.39,1
+CL100282,Corporate,Female,Canada,North America,1994-09-13,Investment,Yes,Broker,3.0,High,186191.62,3
+CL100283,Individual,Male,Qatar,Middle East,1969-02-18,Investment,No,Investment Event,2.0,High,367361.95,2
+CL100284,Individual,Male,France,Europe,1978-11-10,Investment,No,Referral,3.0,High,149597.64,1
+CL100285,Individual,Female,Nepal,South Asia,2004-03-19,Personal Use,Yes,,2.0,Medium,45702.38,1
+CL100286,Individual,Male,Nepal,South Asia,2005-10-24,Personal Use,No,Website,3.0,Medium,63412.71,1
+CL100287,Individual,Male,Nepal,South Asia,1987-07-26,Investment,No,Website,4.0,High,529990.43,2
+CL100288,Individual,Female,Bangladesh,South Asia,1992-01-04,Personal Use,Yes,Broker,3.0,Low,58127.05,1
+CL100289,Individual,Male,Nepal,South Asia,2001-11-01,Personal Use,Yes,Referral,2.0,Medium,111832.4,1
+CL100290,Individual,Male,United States,North America,1977-03-13,Investment,No,Referral,4.0,Very High,359484.19,1
+CL100291,Individual,Male,United States,North America,1962-12-08,Investment,No,Private Banker,4.0,Very High,1201734.54,1
+CL100292,Individual,Female,France,Europe,1970-12-17,Investment,No,Website,4.0,High,249114.07,1
+CL100293,Individual,Female,Qatar,Middle East,1974-10-21,Investment,No,Website,5.0,High,1260144.32,1
+CL100294,Individual,Male,Qatar,Middle East,1980-07-17,Investment,No,Broker,3.0,Very High,200204.63,1
+CL100295,Individual,Male,Nepal,South Asia,1972-03-09,Investment,No,Private Banker,4.0,Very High,486849.94,3
+CL100296,Individual,Male,Canada,North America,1975-08-01,Investment,No,Broker,4.0,Very High,952262.13,2
+CL100297,Individual,Female,Nepal,South Asia,1982-01-26,Investment,No,Broker,4.0,Very High,1809747.07,2
+CL100298,Individual,Male,Netherlands,Europe,1975-06-13,Investment,Yes,Private Banker,4.0,Very High,1093377.62,1
+CL100299,Corporate,Male,Canada,North America,1988-06-11,Investment,No,Broker,4.0,Very High,215302.27,4
+CL100300,Corporate,Female,Canada,North America,1984-05-20,Business Use,No,Broker,3.0,High,742649.45,4
+CL100301,Corporate,Male,United States,North America,1980-09-02,Investment,Yes,Broker,3.0,High,542907.79,8
+CL100302,Individual,,France,Europe,1984-09-12,Investment,Yes,Website,4.0,High,169750.79,3
+CL100303,Individual,Female,Sri Lanka,South Asia,1997-02-09,Personal Use,Yes,Broker,3.0,Medium,137949.54,1
+CL100304,Individual,Male,Singapore,East Asia,1991-04-08,Personal Use,Yes,Social Media,3.0,Low,60525.2,1
+CL100305,Individual,Female,Netherlands,Europe,1983-02-08,Investment,No,Broker,4.0,Very High,344417.8,1
+CL100306,Individual,Male,France,Europe,1994-09-24,Personal Use,Yes,Social Media,3.0,Low,110439.86,1
+CL100307,Individual,Male,India,South Asia,1994-09-19,Personal Use,No,Social Media,3.0,Low,55872.24,1
+CL100308,Corporate,Male,Qatar,Middle East,1984-12-16,Business Use,No,Referral,3.0,High,294166.28,3
+CL100309,Individual,Male,India,South Asia,2005-09-02,Personal Use,Yes,Referral,2.0,Medium,60859.63,1
+CL100310,Individual,Male,Canada,North America,1985-11-06,Investment,No,Website,3.0,High,325853.89,3
+CL100311,Individual,Male,Germany,Europe,1996-04-22,Personal Use,Yes,Social Media,3.0,Medium,62561.05,1
+CL100312,Individual,Male,Germany,Europe,1992-07-22,Personal Use,No,Referral,3.0,Low,49746.2,1
+CL100313,Individual,Female,Canada,North America,1969-08-15,Investment,No,Broker,3.0,High,156470.7,1
+CL100314,Individual,Female,United Kingdom,Europe,1993-01-11,Personal Use,Yes,Website,3.0,Medium,36767.53,1
+CL100315,Individual,Female,Sri Lanka,South Asia,1995-08-02,Personal Use,Yes,Social Media,3.0,Medium,128411.44,1
+CL100316,Individual,Male,United States,North America,1999-03-09,Personal Use,No,Website,4.0,Low,77524.56,1
+CL100317,Individual,,India,South Asia,1983-12-09,Personal Use,Yes,Website,2.0,High,67044.87,1
+CL100318,Corporate,,United Kingdom,Europe,1979-08-21,Investment,Yes,Corporate Network,4.0,Very High,504115.42,3
+CL100319,Individual,Male,Netherlands,Europe,1988-05-24,Personal Use,Yes,Website,3.0,Low,42798.23,1
+CL100320,Corporate,Female,France,Europe,1972-09-16,Personal Use,No,Broker,4.0,Very High,677950.85,1
+CL100321,Individual,Female,Nepal,South Asia,1970-11-06,Investment,No,Referral,4.0,High,303698.32,2
+CL100322,Individual,,India,South Asia,2003-10-07,Personal Use,No,Website,4.0,Low,95663.73,1
+CL100323,Individual,Female,Oman,Middle East,1992-02-16,Personal Use,Yes,Social Media,4.0,Medium,68863.0,1
+CL100324,Individual,Female,India,South Asia,1997-03-14,Personal Use,No,Website,3.0,Medium,121939.81,1
+CL100325,Corporate,Female,UAE,Middle East,1975-06-12,Investment,No,Private Banker,4.0,Very High,257170.8,2
+CL100326,Corporate,Prefer not to say,Malaysia,East Asia,1989-06-10,Business Use,No,Referral,3.0,Very High,377139.22,4
+CL100327,Individual,Female,United Kingdom,Europe,1973-09-24,Personal Use,No,Referral,3.0,Very High,681630.99,1
+CL100328,Individual,Male,India,South Asia,1998-01-26,Personal Use,Yes,Referral,3.0,Medium,61510.3,1
+CL100329,Corporate,Male,Canada,North America,1983-01-04,Investment,Yes,Corporate Network,3.0,High,316666.12,5
+CL100330,Individual,Female,Singapore,East Asia,1994-07-02,Personal Use,Yes,Broker,3.0,Low,38405.73,1
+CL100331,Corporate,Female,Saudi Arabia,Middle East,1993-11-16,Investment,Yes,Referral,2.0,Very High,365016.6,6
+CL100332,Individual,Prefer not to say,Canada,North America,1997-01-09,Investment,Yes,Referral,4.0,High,249265.88,1
+CL100333,Corporate,Male,Malaysia,East Asia,1990-02-23,Investment,No,Corporate Network,3.0,High,854905.29,2
+CL100334,Individual,Female,Sri Lanka,South Asia,1973-03-19,Investment,Yes,Broker,4.0,Very High,559858.83,1
+CL100335,Corporate,Male,United States,North America,1983-01-03,Investment,No,Referral,4.0,Very High,188217.66,1
+CL100336,Corporate,Male,Oman,Middle East,1983-12-02,Investment,Yes,Corporate Network,4.0,High,318362.14,4
+CL100337,Individual,Female,Sri Lanka,South Asia,1987-01-10,Investment,No,Website,,Very High,316763.6,1
+CL100338,Corporate,Male,Saudi Arabia,Middle East,1991-02-07,Investment,Yes,Corporate Network,3.0,High,729657.52,2
+CL100339,Individual,Female,Singapore,East Asia,1982-05-27,Investment,No,Referral,3.0,High,535481.64,1
+CL100340,Individual,Male,Saudi Arabia,Middle East,1986-01-22,Investment,No,Private Banker,4.0,Very High,767990.31,1
+CL100341,Individual,Female,Canada,North America,1985-08-07,Investment,Yes,Investment Event,2.0,Very High,196497.83,1
+CL100342,Individual,Female,United States,North America,1974-12-20,Personal Use,No,Referral,5.0,High,1243495.69,1
+CL100343,Corporate,Male,Netherlands,Europe,1979-12-20,Investment,No,Private Banker,3.0,Very High,676204.49,1
+CL100344,Individual,Male,United States,North America,1991-11-03,Personal Use,Yes,Website,3.0,Medium,45036.41,1
+CL100345,Corporate,,Canada,North America,1989-09-27,Investment,No,Corporate Network,4.0,Very High,532291.06,3
+CL100346,Corporate,Female,United States,North America,1992-11-24,Investment,Yes,Corporate Network,4.0,Very High,581692.03,3
+CL100347,Corporate,Male,Qatar,Middle East,1978-02-08,Investment,No,Private Banker,3.0,Very High,338656.13,1
+CL100348,Individual,Female,Netherlands,Europe,1998-11-09,Personal Use,Yes,Broker,4.0,Medium,47860.37,1
+CL100349,Individual,Male,Netherlands,Europe,1993-09-22,Personal Use,Yes,Social Media,3.0,High,64031.07,1
+CL100350,Individual,Male,Netherlands,Europe,1985-06-26,Investment,No,Investment Event,3.0,Very High,171585.78,1
+CL100351,Corporate,Female,United States,North America,1975-10-20,Investment,No,Website,3.0,High,733935.31,5
+CL100352,Individual,Male,Canada,North America,1973-05-13,Investment,No,Broker,4.0,High,130697.13,2
+CL100353,Individual,Female,Saudi Arabia,Middle East,2005-05-11,Personal Use,Yes,Website,4.0,Medium,48358.94,1
+CL100354,Individual,Female,France,Europe,2005-02-05,Personal Use,Yes,Broker,2.0,Low,53958.41,1
+CL100355,Individual,Female,Canada,North America,1993-04-04,Personal Use,Yes,Social Media,4.0,Low,87076.1,1
+CL100356,Individual,Male,Nepal,South Asia,1995-12-26,Personal Use,Yes,Referral,4.0,Medium,62023.58,1
+CL100357,Corporate,Female,Singapore,East Asia,1971-08-02,Investment,No,Referral,3.0,High,846170.07,2
+CL100358,Corporate,Female,Oman,Middle East,1975-08-13,Business Use,No,Corporate Network,3.0,Very High,499633.95,6
+CL100359,Individual,Male,Qatar,Middle East,2000-09-04,Personal Use,No,Social Media,3.0,Medium,72089.88,1
+CL100360,Individual,Female,India,South Asia,1991-12-14,Personal Use,Yes,Broker,3.0,Low,93526.35,1
+CL100361,Individual,Female,France,Europe,1984-01-03,Personal Use,No,Website,4.0,Very High,710974.06,1
+CL100362,Corporate,Female,United Kingdom,Europe,1981-11-07,Investment,No,Broker,4.0,High,271558.01,2
+CL100363,Individual,Female,United States,North America,1964-04-10,Investment,Yes,Broker,4.0,High,192756.18,2
+CL100364,Corporate,Female,Oman,Middle East,1983-03-27,Investment,No,Broker,4.0,High,188930.68,1
+CL100365,Corporate,Male,Saudi Arabia,Middle East,1971-02-04,Investment,Yes,Referral,4.0,High,297239.65,3
+CL100366,Individual,Male,United States,North America,2005-06-09,Personal Use,No,Broker,3.0,Medium,81309.9,1
+CL100367,Corporate,Male,Qatar,Middle East,1992-01-21,Investment,No,Referral,3.0,Very High,342212.05,3
+CL100368,Corporate,Male,Qatar,Middle East,1993-04-05,Investment,Yes,Corporate Network,3.0,Very High,433974.24,3
+CL100369,Individual,Female,Sri Lanka,South Asia,1994-02-16,Personal Use,No,Website,3.0,Low,45320.26,1
+CL100370,Individual,Female,Nepal,South Asia,1975-07-11,Investment,No,Referral,5.0,High,466377.05,2
+CL100371,Corporate,Male,Canada,North America,1992-09-16,Investment,Yes,Referral,4.0,High,815701.31,4
+CL100372,Individual,Male,United Kingdom,Europe,2001-04-25,Personal Use,Yes,Social Media,4.0,Medium,105543.98,1
+CL100373,Individual,Male,Bangladesh,South Asia,1994-07-22,Personal Use,Yes,Website,2.0,Medium,78620.93,1
+CL100374,Individual,Male,Saudi Arabia,Middle East,1987-04-09,Personal Use,Yes,Website,2.0,Medium,122771.06,1
+CL100375,Individual,Female,Netherlands,Europe,1985-01-05,Investment,No,Broker,3.0,High,332861.7,1
+CL100376,Individual,Female,United States,North America,1980-04-17,Investment,Yes,Referral,4.0,Very High,275681.43,2
+CL100377,Individual,Female,Netherlands,Europe,1978-01-22,Personal Use,No,Private Banker,4.0,Very High,414671.75,1
+CL100378,Individual,Male,Netherlands,Europe,1993-12-07,Personal Use,Yes,Website,4.0,Medium,62124.23,1
+CL100379,Individual,Male,France,Europe,2001-10-16,Personal Use,No,Social Media,3.0,Medium,41180.76,1
+CL100380,Corporate,Male,United States,North America,1970-08-06,Business Use,No,Corporate Network,4.0,High,273087.88,4
+CL100381,Individual,Female,United States,North America,1993-07-19,Personal Use,Yes,Website,4.0,High,111154.32,1
+CL100382,Individual,Male,Canada,North America,1964-07-21,Personal Use,No,Private Banker,5.0,Very High,543447.04,2
+CL100383,Corporate,,Japan,East Asia,1975-09-09,Investment,No,Referral,3.0,Very High,266645.59,2
+CL100384,Individual,Male,United States,North America,1995-08-24,Personal Use,Yes,Website,3.0,Medium,72229.17,1
+CL100385,Individual,Male,Canada,North America,1985-02-01,Personal Use,Yes,Social Media,2.0,Medium,71859.16,1
+CL100386,Individual,Female,Canada,North America,1971-04-21,Investment,No,Broker,4.0,High,867883.07,1
+CL100387,Corporate,Female,United States,North America,1978-02-19,Investment,Yes,Referral,2.0,High,536655.36,5
+CL100388,Individual,Male,Germany,Europe,1962-09-15,Personal Use,No,Private Banker,4.0,Very High,757196.36,1
+CL100389,Individual,Male,Bangladesh,South Asia,1970-12-27,Investment,No,Investment Event,3.0,High,124637.03,3
+CL100390,Individual,Male,Germany,Europe,1976-10-17,Personal Use,No,Broker,4.0,Very High,736105.19,1
+CL100391,Corporate,Male,France,Europe,1989-07-14,Investment,No,Corporate Network,3.0,High,448454.53,4
+CL100392,Individual,Female,Canada,North America,1973-06-10,Investment,No,Referral,5.0,High,172163.63,3
+CL100393,Individual,Female,France,Europe,1998-03-17,Personal Use,No,Website,3.0,Medium,79270.29,1
+CL100394,Corporate,Male,Malaysia,East Asia,1986-02-25,Investment,Yes,Broker,4.0,High,274424.5,3
+CL100395,Corporate,Male,Qatar,Middle East,1977-02-18,Investment,No,Investment Event,4.0,High,254343.26,1
+CL100396,Individual,Male,Sri Lanka,South Asia,1976-05-23,Personal Use,Yes,Broker,4.0,Medium,34590.56,1
+CL100397,Individual,Female,UAE,Middle East,1974-03-27,Investment,No,Private Banker,5.0,Very High,297054.93,1
+CL100398,Individual,Female,Bangladesh,South Asia,1990-09-23,Personal Use,No,Website,4.0,Medium,48649.52,1
+CL100399,Individual,Female,Japan,East Asia,1994-08-13,Personal Use,No,Website,5.0,Low,70447.78,1
+CL100400,Individual,Female,Canada,North America,1998-02-17,Personal Use,Yes,Referral,3.0,Medium,112217.83,1
+CL100401,Individual,Male,Sri Lanka,South Asia,1980-12-24,Personal Use,Yes,Social Media,3.0,Medium,66817.45,1
+CL100402,Individual,Prefer not to say,Oman,Middle East,1979-03-02,Personal Use,No,Referral,4.0,Very High,462428.95,2
+CL100403,Corporate,Male,Oman,Middle East,1965-04-22,Investment,Yes,Website,4.0,High,353060.89,6
+CL100404,Individual,Male,India,South Asia,1982-10-02,Investment,No,Website,4.0,High,314872.09,1
+CL100405,Individual,Female,Netherlands,Europe,1972-07-03,Investment,Yes,Referral,5.0,Very High,283805.28,1
+CL100406,Individual,Male,Netherlands,Europe,1973-11-05,Investment,No,Referral,3.0,High,926415.61,1
+CL100407,Individual,Male,India,South Asia,1987-07-15,Personal Use,Yes,Website,3.0,Medium,104415.82,1
+CL100408,Corporate,Female,Nepal,South Asia,1986-07-13,Personal Use,No,Referral,5.0,Very High,1012046.25,2
+CL100409,Individual,Male,France,Europe,1986-02-25,Investment,No,Referral,5.0,Very High,314058.3,3
+CL100410,Individual,Male,UAE,Middle East,1966-02-23,Personal Use,No,Private Banker,4.0,High,1010000.69,2
+CL100411,Corporate,Female,Qatar,Middle East,1976-02-05,Investment,No,Referral,3.0,High,1154500.93,8
+CL100412,Corporate,Male,Germany,Europe,1980-04-08,Investment,No,Corporate Network,5.0,Very High,339208.76,4
+CL100413,Individual,Female,United Kingdom,Europe,1968-07-20,Investment,Yes,Investment Event,4.0,High,238208.68,2
+CL100414,Individual,Female,Qatar,Middle East,1976-06-01,Personal Use,No,Website,4.0,Very High,419994.05,1
+CL100415,Individual,Male,United States,North America,1981-07-26,Investment,Yes,Referral,2.0,Very High,359996.18,1
+CL100416,Individual,Female,United Kingdom,Europe,1969-09-11,Investment,No,Referral,4.0,High,409219.38,2
+CL100417,Individual,Female,United Kingdom,Europe,1979-08-01,Investment,Yes,Investment Event,5.0,Very High,446295.59,1
+CL100418,Corporate,Female,United States,North America,1990-07-24,Investment,Yes,Corporate Network,3.0,Very High,545800.34,6
+CL100419,Individual,Male,Sri Lanka,South Asia,1985-05-09,Investment,Yes,Broker,4.0,High,232589.49,2
+CL100420,Individual,Male,Qatar,Middle East,1978-06-18,Personal Use,No,Private Banker,5.0,Very High,418403.75,1
+CL100421,Corporate,Male,United States,North America,1977-10-06,Business Use,No,Corporate Network,4.0,Very High,273301.23,4
+CL100422,Corporate,Male,India,South Asia,1980-08-17,Investment,No,,4.0,Very High,129307.66,2
+CL100423,Individual,Male,United Kingdom,Europe,1993-09-27,Investment,No,Referral,5.0,High,374970.6,4
+CL100424,Corporate,Male,Bangladesh,South Asia,1986-10-17,Investment,No,Broker,3.0,High,358914.95,2
+CL100425,Corporate,Male,Oman,Middle East,1988-03-12,Investment,No,Referral,3.0,Very High,364951.86,4
+CL100426,Individual,Female,Saudi Arabia,Middle East,1979-08-17,Investment,No,Referral,4.0,Very High,435555.09,1
+CL100427,Individual,Male,Qatar,Middle East,1974-07-18,Investment,No,Broker,4.0,High,140159.23,2
+CL100428,Individual,Male,UAE,Middle East,1958-10-19,Personal Use,No,Private Banker,4.0,Very High,395328.42,1
+CL100429,Individual,Male,Netherlands,Europe,1992-08-07,Investment,No,Investment Event,4.0,High,403390.28,3
+CL100430,Individual,Female,Saudi Arabia,Middle East,1979-06-04,Personal Use,No,Private Banker,4.0,Very High,1753827.35,1
+CL100431,Individual,Male,France,Europe,1963-06-02,Personal Use,Yes,Broker,4.0,Very High,1453312.03,1
+CL100432,Corporate,Male,UAE,Middle East,1980-03-16,Investment,Yes,Corporate Network,3.0,Very High,413307.03,4
+CL100433,Corporate,Female,Singapore,East Asia,1985-05-26,Investment,No,Referral,3.0,Very High,1134568.23,2
+CL100434,Individual,Female,Malaysia,East Asia,1964-01-20,Investment,No,Referral,5.0,Very High,382472.45,1
+CL100435,Individual,Male,United States,North America,1978-12-07,Investment,No,Referral,2.0,High,527767.3,1
+CL100436,Individual,Male,Bangladesh,South Asia,1997-04-14,Investment,No,Website,3.0,Very High,284909.03,1
+CL100437,Individual,Male,Canada,North America,1973-05-12,Investment,Yes,Investment Event,5.0,Very High,132832.74,3
+CL100438,Individual,Female,Singapore,East Asia,2003-05-12,Personal Use,Yes,Referral,3.0,Medium,58261.16,1
+CL100439,Corporate,Male,Germany,Europe,1989-04-25,Investment,No,Corporate Network,3.0,High,474340.2,4
+CL100440,Corporate,Male,Saudi Arabia,Middle East,1988-05-08,Investment,No,Corporate Network,4.0,High,791986.13,5
+CL100441,Individual,Female,Oman,Middle East,1980-06-11,Investment,No,Private Banker,4.0,Very High,634138.75,1
+CL100442,Individual,Female,United States,North America,1973-11-05,Investment,No,Referral,3.0,Very High,229358.68,1
+CL100443,Corporate,Male,India,South Asia,1974-07-15,Investment,No,Corporate Network,3.0,High,348809.31,3
+CL100444,Individual,,Germany,Europe,1979-05-22,Investment,Yes,Website,4.0,Very High,154588.91,1
+CL100445,Individual,Male,Bangladesh,South Asia,1993-02-17,Personal Use,Yes,Social Media,2.0,Low,58634.17,1
+CL100446,Corporate,Female,Oman,Middle East,1984-11-07,Investment,No,Referral,4.0,Very High,157205.43,8
+CL100447,Individual,Male,France,Europe,1982-06-03,Investment,No,Referral,3.0,Very High,655695.65,1
+CL100448,Corporate,Male,Canada,North America,1988-08-26,Investment,No,Corporate Network,3.0,High,263498.56,6
+CL100449,Individual,Male,United Kingdom,Europe,1994-08-19,Investment,Yes,Broker,5.0,High,291665.17,1
+CL100450,Corporate,Male,Japan,East Asia,1976-08-18,Business Use,No,Referral,3.0,High,347513.5,2
+CL100451,Individual,Male,Saudi Arabia,Middle East,1979-11-15,Investment,No,Broker,4.0,High,111740.62,3
+CL100452,Individual,Male,Nepal,South Asia,1970-01-13,Investment,No,Referral,4.0,Very High,568825.87,1
+CL100453,Corporate,,Canada,North America,1985-03-08,Business Use,No,Referral,4.0,High,295522.61,3
+CL100454,Corporate,Male,India,South Asia,1984-01-14,Investment,No,Broker,3.0,High,526973.44,1
+CL100455,Individual,Female,United States,North America,1974-03-08,Investment,No,Referral,4.0,Very High,170648.42,2
+CL100456,Individual,Female,Canada,North America,1985-06-10,Investment,No,Broker,3.0,Very High,303577.49,3
+CL100457,Individual,Male,Malaysia,East Asia,1966-06-10,Investment,No,Broker,3.0,High,892255.29,1
+CL100458,Individual,Male,Bangladesh,South Asia,1995-03-05,Personal Use,No,Social Media,4.0,High,35986.54,1
+CL100459,Corporate,Female,Qatar,Middle East,1978-01-25,Business Use,No,Referral,4.0,High,902838.23,4
+CL100460,Corporate,Female,Saudi Arabia,Middle East,1985-07-03,Investment,Yes,Referral,4.0,High,681676.58,2
+CL100461,Individual,Female,Germany,Europe,1995-04-26,Personal Use,Yes,Social Media,4.0,High,62764.1,1
+CL100462,Individual,Male,United States,North America,1978-05-19,Investment,No,Referral,4.0,High,287633.05,2
+CL100463,Individual,Female,Sri Lanka,South Asia,1984-11-17,Investment,No,Private Banker,4.0,Very High,846345.6,1
+CL100464,Individual,Male,UAE,Middle East,2005-07-27,Personal Use,Yes,Website,3.0,Low,58372.53,1
+CL100465,Individual,Female,Bangladesh,South Asia,1996-07-20,Personal Use,Yes,Social Media,2.0,High,89651.34,1
+CL100466,Corporate,Male,Canada,North America,1984-08-14,Investment,No,Corporate Network,4.0,High,806559.18,6
+CL100467,Corporate,Female,United States,North America,1989-02-15,Business Use,Yes,Broker,3.0,High,539537.29,6
+CL100468,Individual,Female,Singapore,East Asia,1973-09-10,Investment,No,Broker,4.0,Very High,685610.74,2
+CL100469,Individual,Female,Canada,North America,1970-07-16,Investment,No,Broker,3.0,High,150670.36,1
+CL100470,Individual,Male,Sri Lanka,South Asia,1989-05-23,Personal Use,Yes,Broker,1.0,Medium,62277.19,1
+CL100471,Individual,Male,Nepal,South Asia,1996-05-07,Personal Use,Yes,Social Media,3.0,Low,78421.41,1
+CL100472,Individual,Male,Saudi Arabia,Middle East,1993-02-01,Personal Use,Yes,Website,2.0,High,77409.8,1
+CL100473,Individual,Male,United States,North America,1967-04-21,Investment,Yes,Referral,4.0,High,332209.99,1
+CL100474,Individual,Female,Bangladesh,South Asia,1977-11-07,Investment,No,Investment Event,4.0,High,290204.95,2
+CL100475,Individual,Female,Qatar,Middle East,1999-11-08,Personal Use,Yes,Social Media,4.0,Medium,44231.45,1
+CL100476,Individual,Male,Saudi Arabia,Middle East,1991-03-10,Personal Use,No,Social Media,3.0,Medium,61678.24,1
+CL100477,Individual,,India,South Asia,1985-05-20,Personal Use,Yes,Social Media,3.0,Medium,62234.39,1
+CL100478,Corporate,Female,Oman,Middle East,1964-12-05,Investment,No,Corporate Network,3.0,Very High,565029.02,6
+CL100479,Corporate,Female,United States,North America,1983-06-18,Business Use,No,Referral,3.0,Very High,633516.35,4
+CL100480,Individual,Male,Bangladesh,South Asia,1995-05-18,Personal Use,Yes,Website,4.0,Medium,44895.38,1
+CL100481,Individual,Male,Bangladesh,South Asia,1987-01-21,Personal Use,Yes,Social Media,5.0,Low,91589.43,1
+CL100482,Individual,Male,Saudi Arabia,Middle East,1987-07-27,Investment,Yes,Investment Event,4.0,High,242642.28,4
+CL100483,Individual,Female,Bangladesh,South Asia,1996-08-16,Personal Use,Yes,Referral,2.0,Low,117064.05,1
+CL100484,Individual,Female,Sri Lanka,South Asia,2005-10-25,Personal Use,Yes,Website,3.0,Medium,106155.0,1
+CL100485,Individual,Female,Germany,Europe,1990-07-04,Investment,Yes,Referral,3.0,Very High,391349.36,2
+CL100486,Individual,Male,Bangladesh,South Asia,1998-06-11,Personal Use,Yes,Website,3.0,Medium,106397.71,1
+CL100487,Individual,Female,Japan,East Asia,1998-12-27,Personal Use,Yes,Social Media,4.0,Medium,61931.0,1
+CL100488,Corporate,Male,UAE,Middle East,2001-11-09,Investment,Yes,Website,3.0,Very High,117344.05,1
+CL100489,Individual,Male,United States,North America,1989-09-12,Personal Use,No,Social Media,3.0,Medium,38988.73,1
+CL100490,Individual,Male,Canada,North America,1992-08-12,Personal Use,Yes,Broker,3.0,Medium,79319.2,1
+CL100491,Corporate,Male,UAE,Middle East,1984-03-19,Business Use,Yes,Broker,3.0,Very High,1017475.89,5
+CL100492,Corporate,Male,Malaysia,East Asia,1989-10-21,Investment,Yes,Broker,4.0,Very High,226108.87,4
+CL100493,Corporate,Female,Canada,North America,1984-09-27,Investment,No,Broker,3.0,High,435756.69,5
+CL100494,Individual,Female,Malaysia,East Asia,2004-03-15,Personal Use,Yes,Website,3.0,Medium,55194.02,1
+CL100495,Corporate,Male,Netherlands,Europe,1980-07-21,Investment,Yes,Referral,4.0,Very High,732527.49,2
+CL100496,Individual,Female,Japan,East Asia,1991-10-02,Personal Use,Yes,Social Media,2.0,Medium,53546.33,1
+CL100497,Individual,Male,Nepal,South Asia,1995-02-15,Personal Use,No,Broker,4.0,Medium,44269.75,1
+CL100498,Corporate,Male,United States,North America,1999-04-01,Business Use,No,Referral,4.0,Very High,488314.62,4
+CL100499,Individual,Male,Nepal,South Asia,1996-12-15,Personal Use,Yes,Social Media,3.0,Low,81633.06,1
+CL100500,Individual,Female,Singapore,East Asia,2005-12-25,Personal Use,Yes,Website,2.0,Medium,121852.84,1
+CL100501,Corporate,Female,Saudi Arabia,Middle East,1966-03-01,Investment,No,Referral,4.0,High,929394.21,6
+CL100502,Corporate,Female,UAE,Middle East,1986-12-12,Investment,No,Private Banker,4.0,Very High,592908.95,3
+CL100503,Individual,Male,Saudi Arabia,Middle East,1976-11-24,Investment,No,Broker,4.0,Very High,595464.24,1
+CL100504,Individual,Prefer not to say,Sri Lanka,South Asia,1990-10-07,Personal Use,Yes,Broker,2.0,Low,65009.78,1
+CL100505,Individual,Female,Bangladesh,South Asia,1993-12-05,Personal Use,No,Social Media,3.0,Medium,43952.79,1
+CL100506,Corporate,Female,Qatar,Middle East,1978-04-10,Investment,No,Corporate Network,3.0,Very High,394861.03,5
+CL100507,Individual,Female,Nepal,South Asia,1996-05-27,Personal Use,Yes,Website,3.0,Low,58075.56,1
+CL100508,Individual,Female,Qatar,Middle East,1973-04-18,Investment,No,Referral,3.0,Very High,579046.95,1
+CL100509,Individual,Male,Bangladesh,South Asia,1984-12-12,Personal Use,Yes,Social Media,5.0,High,82320.13,1
+CL100510,Individual,Male,United States,North America,1981-08-12,Investment,No,Referral,3.0,Very High,234216.74,1
+CL100511,Individual,Male,United States,North America,1992-02-01,Investment,No,,5.0,Very High,484700.13,2
+CL100512,Individual,Female,Canada,North America,1959-01-26,Personal Use,No,Broker,3.0,Very High,375779.63,1
+CL100513,Individual,Prefer not to say,Canada,North America,1977-03-10,Investment,No,Website,4.0,High,415438.41,2
+CL100514,Individual,Female,Singapore,East Asia,2000-01-11,Personal Use,Yes,Website,2.0,Medium,80616.95,1
+CL100515,Individual,Female,Bangladesh,South Asia,1998-02-09,Personal Use,Yes,Social Media,4.0,Medium,49933.5,1
+CL100516,Individual,Female,Canada,North America,1970-08-15,Investment,No,Referral,4.0,High,260103.4,4
+CL100517,Individual,Male,Bangladesh,South Asia,1995-08-25,Personal Use,No,Broker,3.0,Medium,41168.86,1
+CL100518,Corporate,Female,Qatar,Middle East,1974-03-09,Investment,Yes,Corporate Network,4.0,Very High,473414.11,5
+CL100519,Individual,Male,Japan,East Asia,1963-04-11,Investment,No,Referral,4.0,Very High,197115.5,1
+CL100520,Individual,Male,Oman,Middle East,1962-07-14,Investment,No,Broker,4.0,High,745963.3,2
+CL100521,Individual,Female,France,Europe,1977-07-21,Personal Use,No,Broker,4.0,Very High,593179.62,2
+CL100522,Individual,Male,Sri Lanka,South Asia,1996-11-07,Personal Use,No,,3.0,Medium,84216.07,1
+CL100523,Individual,Male,United States,North America,1977-05-05,Investment,No,Broker,4.0,Very High,406031.37,1
+CL100524,Corporate,Female,Oman,Middle East,1991-08-19,Investment,No,Broker,3.0,High,215950.71,2
+CL100525,Individual,Female,Malaysia,East Asia,1995-08-21,Investment,No,Broker,3.0,High,214016.93,1
+CL100526,Individual,Male,India,South Asia,1998-01-27,Personal Use,Yes,Website,5.0,Medium,48061.96,1
+CL100527,Individual,Male,UAE,Middle East,1967-01-16,Personal Use,No,Private Banker,4.0,Very High,944731.05,1
+CL100528,Individual,Female,UAE,Middle East,1968-08-24,Personal Use,No,Broker,4.0,Very High,604507.69,2
+CL100529,Corporate,Female,Qatar,Middle East,1994-07-04,Investment,Yes,Referral,4.0,High,375340.91,3
+CL100530,Individual,,Germany,Europe,1995-05-23,Personal Use,Yes,Broker,3.0,Medium,53938.23,1
+CL100531,Corporate,Female,Nepal,South Asia,1988-03-18,Business Use,No,Referral,3.0,High,277855.04,4
+CL100532,Corporate,Female,Singapore,East Asia,1977-06-15,Investment,No,Corporate Network,4.0,High,343966.38,2
+CL100533,Individual,Female,Bangladesh,South Asia,1994-03-13,Personal Use,Yes,Broker,3.0,Low,37507.78,1
+CL100534,Corporate,Male,Malaysia,East Asia,1983-09-16,Investment,Yes,Corporate Network,3.0,High,405227.06,4
+CL100535,Individual,Female,Oman,Middle East,1971-10-06,Investment,No,Investment Event,5.0,Very High,432234.56,1
+CL100536,Individual,Male,UAE,Middle East,1977-12-23,Investment,No,Referral,3.0,High,141407.7,1
+CL100537,Individual,Male,France,Europe,1995-02-11,Personal Use,Yes,Website,2.0,Low,48933.07,1
+CL100538,Individual,Male,Canada,North America,1984-02-17,Investment,No,Broker,4.0,Very High,336777.4,1
+CL100539,Individual,Female,France,Europe,1986-09-10,Investment,No,Investment Event,,High,428764.1,1
+CL100540,Individual,,UAE,Middle East,1978-06-08,Investment,No,Broker,4.0,Very High,439153.31,1
+CL100541,Individual,Male,Canada,North America,1974-07-13,Investment,No,Private Banker,3.0,Very High,616122.93,1
+CL100542,Individual,Male,Nepal,South Asia,1997-01-14,Personal Use,Yes,Broker,3.0,Medium,63360.86,1
+CL100543,Individual,Male,Saudi Arabia,Middle East,1977-06-19,Personal Use,No,Broker,4.0,Very High,1092518.92,1
+CL100544,Individual,Male,France,Europe,1955-02-07,Investment,Yes,Private Banker,4.0,Very High,1280307.1,1
+CL100545,Individual,Female,Canada,North America,1975-05-10,Investment,Yes,Investment Event,4.0,High,324350.69,1
+CL100546,Individual,Female,Nepal,South Asia,2002-06-15,Personal Use,Yes,Social Media,3.0,Medium,39341.54,1
+CL100547,Individual,Female,Sri Lanka,South Asia,1995-01-01,Personal Use,Yes,Broker,4.0,Medium,100937.96,1
+CL100548,Corporate,Male,United States,North America,1982-08-18,Investment,No,Investment Event,3.0,High,139254.97,1
+CL100549,Corporate,Female,Singapore,East Asia,1978-08-23,Investment,No,Corporate Network,4.0,High,244482.85,8
+CL100550,Individual,Male,United States,North America,1992-09-17,Personal Use,No,Website,4.0,Medium,63336.23,1
+CL100551,Individual,Male,Sri Lanka,South Asia,2005-11-14,Personal Use,No,Website,2.0,Medium,68481.73,1
+CL100552,Individual,Male,Malaysia,East Asia,1992-10-25,Investment,No,Broker,4.0,Very High,144540.11,2
+CL100553,Individual,Female,United States,North America,1983-09-09,Investment,No,Investment Event,3.0,High,468847.55,2
+CL100554,Individual,Female,Qatar,Middle East,1980-08-16,Personal Use,No,Referral,4.0,Very High,393283.82,1
+CL100555,Individual,Female,Sri Lanka,South Asia,1990-06-03,Investment,No,Referral,3.0,High,297246.27,1
+CL100556,Individual,Male,Germany,Europe,1971-03-22,Investment,No,Broker,4.0,High,311871.25,1
+CL100557,Individual,Female,Bangladesh,South Asia,1999-07-22,Personal Use,No,Website,1.0,Medium,44000.76,1
+CL100558,Individual,Female,Netherlands,Europe,1995-01-15,Personal Use,No,Social Media,4.0,Low,70855.32,1
+CL100559,Individual,Male,Singapore,East Asia,2003-11-19,Personal Use,No,Broker,3.0,Medium,106728.1,1
+CL100560,Individual,Male,Netherlands,Europe,2005-05-07,Personal Use,Yes,Social Media,3.0,Low,50845.08,1
+CL100561,Individual,Male,Qatar,Middle East,1972-10-06,Investment,Yes,Website,3.0,High,393251.56,2
+CL100562,Individual,Male,United Kingdom,Europe,1977-03-23,Investment,No,Broker,4.0,High,499006.81,1
+CL100563,Individual,Male,Saudi Arabia,Middle East,1962-03-22,Investment,No,Broker,4.0,Very High,363314.82,1
+CL100564,Corporate,Male,Qatar,Middle East,1971-10-13,Business Use,No,Broker,4.0,Very High,554660.94,2
+CL100565,Corporate,Male,Singapore,East Asia,1971-10-16,Investment,No,Corporate Network,3.0,High,330186.27,6
+CL100566,Corporate,Female,Japan,East Asia,1973-06-18,Investment,Yes,Corporate Network,3.0,Very High,338434.94,8
+CL100567,Corporate,Male,United States,North America,1975-05-13,Investment,Yes,Website,3.0,High,756141.4,8
+CL100568,Individual,Male,UAE,Middle East,1970-12-23,Investment,No,Investment Event,3.0,High,142131.43,1
+CL100569,Individual,Female,Bangladesh,South Asia,1996-09-24,Personal Use,Yes,Broker,5.0,Medium,59366.04,1
+CL100570,Individual,Female,Nepal,South Asia,1988-07-22,Personal Use,No,Website,4.0,Medium,49635.56,1
+CL100571,Individual,Male,Japan,East Asia,1996-01-01,Personal Use,Yes,Social Media,2.0,Medium,63043.28,1
+CL100572,Individual,Female,Malaysia,East Asia,1989-05-22,Investment,No,Referral,4.0,Very High,1334890.4,1
+CL100573,Individual,Female,Malaysia,East Asia,1993-09-10,Personal Use,Yes,Website,2.0,Medium,101830.5,1
+CL100574,Corporate,Male,Japan,East Asia,1984-01-19,Investment,No,Corporate Network,3.0,High,362840.47,4
+CL100575,Individual,Male,United States,North America,1966-07-19,Personal Use,No,Broker,4.0,Very High,685611.7,2
+CL100576,Individual,Female,United Kingdom,Europe,2003-12-02,Personal Use,Yes,Broker,3.0,Low,54665.6,1
+CL100577,Individual,Female,Bangladesh,South Asia,1987-07-03,Personal Use,No,Private Banker,4.0,High,696399.42,1
+CL100578,Individual,Female,India,South Asia,1988-09-05,Personal Use,Yes,Referral,1.0,Medium,52637.32,1
+CL100579,Corporate,Male,Germany,Europe,1984-08-11,Investment,No,Website,3.0,Very High,1167964.86,1
+CL100580,Individual,Male,Sri Lanka,South Asia,2004-10-27,Personal Use,No,Broker,3.0,Low,76287.8,1
+CL100581,Individual,Female,Nepal,South Asia,2002-12-03,Personal Use,Yes,Social Media,4.0,Medium,45099.25,1
+CL100582,Individual,Female,India,South Asia,1996-04-17,Personal Use,Yes,Website,4.0,Medium,76785.15,1
+CL100583,Individual,Female,Oman,Middle East,1992-03-20,Investment,Yes,Referral,4.0,High,458750.21,2
+CL100584,Individual,Female,Nepal,South Asia,1994-10-19,Personal Use,Yes,Website,3.0,Medium,65952.8,1
+CL100585,Individual,Female,Saudi Arabia,Middle East,1986-02-22,Investment,No,Broker,4.0,Very High,567225.49,2
+CL100586,Corporate,Female,United States,North America,1981-05-12,Investment,Yes,Referral,3.0,Very High,395233.77,6
+CL100587,Individual,Female,United States,North America,1994-12-23,Investment,Yes,Investment Event,4.0,Very High,148967.72,2
+CL100588,Individual,Male,Canada,North America,1992-12-16,Personal Use,Yes,Website,4.0,Low,38875.37,1
+CL100589,Individual,Female,Saudi Arabia,Middle East,1976-01-03,Investment,No,Investment Event,,Very High,192296.73,2
+CL100590,Individual,Female,Sri Lanka,South Asia,1972-02-12,Investment,No,Broker,4.0,High,254308.47,1
+CL100591,Corporate,Male,France,Europe,1970-05-21,Investment,No,,3.0,Very High,704381.34,1
+CL100592,Individual,Male,Bangladesh,South Asia,1990-10-06,Personal Use,Yes,Social Media,4.0,Medium,37269.43,1
+CL100593,Individual,Male,Singapore,East Asia,2000-07-01,Personal Use,Yes,Broker,2.0,Medium,57992.63,1
+CL100594,Individual,Female,Sri Lanka,South Asia,2003-06-26,Personal Use,No,Social Media,3.0,Medium,47797.07,1
+CL100595,Corporate,Female,Saudi Arabia,Middle East,1981-05-21,Investment,No,Investment Event,4.0,High,177063.53,1
+CL100596,Individual,Male,Singapore,East Asia,2004-07-23,Personal Use,Yes,Social Media,3.0,Medium,38794.85,1
+CL100597,Corporate,Male,Qatar,Middle East,1989-06-23,Investment,Yes,Referral,4.0,High,1177155.36,2
+CL100598,Corporate,Male,Malaysia,East Asia,1979-03-17,Investment,No,Corporate Network,2.0,Very High,588766.94,2
+CL100599,Individual,Male,Qatar,Middle East,1970-04-26,Investment,No,Referral,4.0,Very High,310681.19,1
+CL100600,Corporate,Male,Qatar,Middle East,1988-01-22,Investment,No,Broker,4.0,Very High,746596.16,4
+CL100601,Individual,Female,India,South Asia,1991-06-10,Personal Use,Yes,Website,3.0,Medium,37954.63,1
+CL100602,Corporate,Male,United States,North America,1970-07-24,Investment,Yes,Broker,4.0,Very High,198750.39,4
+CL100603,Individual,Prefer not to say,Singapore,East Asia,1983-11-22,Investment,No,Broker,4.0,Very High,444861.52,1
+CL100604,Corporate,Male,Qatar,Middle East,1985-03-16,Business Use,No,Referral,4.0,Very High,559486.61,2
+CL100605,Individual,Female,Oman,Middle East,1975-04-27,Investment,No,Referral,4.0,High,1916210.29,1
+CL100606,Corporate,Male,Japan,East Asia,1982-11-07,Investment,No,Corporate Network,2.0,High,793015.54,3
+CL100607,Individual,Male,Oman,Middle East,1971-05-03,Investment,No,Broker,5.0,Very High,1019667.84,1
+CL100608,Corporate,Female,United Kingdom,Europe,1974-10-19,Investment,No,Broker,4.0,Very High,390517.55,3
+CL100609,Corporate,Female,Malaysia,East Asia,1977-08-16,Investment,No,Referral,4.0,Very High,505254.21,2
+CL100610,Individual,Female,Sri Lanka,South Asia,1993-10-02,Personal Use,No,Website,3.0,Medium,92531.12,1
+CL100611,Individual,Male,Sri Lanka,South Asia,1995-05-17,Personal Use,Yes,Website,3.0,Medium,107210.11,1
+CL100612,Corporate,Female,United Kingdom,Europe,1973-08-20,Investment,No,Referral,4.0,Very High,542703.62,8
+CL100613,Individual,Female,Germany,Europe,1957-02-02,Investment,No,Private Banker,5.0,Very High,1779184.47,2
+CL100614,Individual,Male,France,Europe,1966-10-12,Investment,No,Private Banker,3.0,Very High,3405308.51,1
+CL100615,Individual,Male,Nepal,South Asia,1985-01-23,Personal Use,Yes,Social Media,3.0,Medium,41237.45,1
+CL100616,Corporate,Male,United States,North America,1999-05-25,Business Use,No,Corporate Network,3.0,High,345394.2,3
+CL100617,Corporate,Male,Oman,Middle East,1981-06-18,Investment,Yes,Website,4.0,Very High,850130.43,3
+CL100618,Individual,Female,Nepal,South Asia,1997-05-03,Personal Use,Yes,Broker,2.0,Medium,78877.95,1
+CL100619,Individual,Male,United States,North America,1971-02-01,Investment,No,Broker,4.0,Very High,241642.59,2
+CL100620,Individual,Male,United States,North America,1987-10-05,Investment,No,Investment Event,4.0,Very High,233944.83,1
+CL100621,Corporate,Female,Germany,Europe,1978-05-08,Business Use,Yes,Broker,3.0,Very High,256695.81,2
+CL100622,Individual,Female,United Kingdom,Europe,1993-02-16,Personal Use,Yes,Social Media,5.0,Medium,59522.8,1
+CL100623,Corporate,Male,Qatar,Middle East,1976-03-12,Investment,No,Broker,4.0,Very High,682843.67,1
+CL100624,Individual,Male,India,South Asia,1995-07-23,Personal Use,No,Website,2.0,Medium,64086.26,1
+CL100625,Corporate,,United States,North America,1983-03-18,Personal Use,No,Private Banker,3.0,Very High,589067.36,1
+CL100626,Individual,Male,Nepal,South Asia,1990-04-15,Personal Use,Yes,Referral,5.0,Medium,50680.8,1
+CL100627,Corporate,Male,Qatar,Middle East,1989-12-11,Investment,Yes,Referral,3.0,Very High,498344.3,6
+CL100628,Individual,Male,Oman,Middle East,1979-04-03,Investment,No,Website,4.0,High,494970.27,1
+CL100629,Individual,Male,Malaysia,East Asia,1994-02-15,Personal Use,No,Referral,3.0,Low,52341.11,1
+CL100630,Individual,Male,Canada,North America,1973-04-13,Personal Use,No,Broker,5.0,Very High,663036.85,1
+CL100631,Individual,Male,Oman,Middle East,1971-01-22,Personal Use,No,Private Banker,4.0,Very High,413733.28,1
+CL100632,Individual,Female,Canada,North America,1976-08-15,Personal Use,No,Referral,5.0,Very High,477680.36,1
+CL100633,Individual,Male,Singapore,East Asia,1981-07-17,Investment,No,Broker,4.0,High,421007.77,2
+CL100634,Individual,Female,United States,North America,1992-08-26,Personal Use,Yes,Social Media,4.0,Medium,40014.69,1
+CL100635,Individual,Female,United Kingdom,Europe,2001-02-26,Investment,No,Investment Event,3.0,High,239284.09,3
+CL100636,Individual,Female,Canada,North America,1978-02-07,Investment,No,Investment Event,4.0,Very High,701170.42,1
+CL100637,Corporate,Male,Bangladesh,South Asia,1971-04-10,Investment,No,Website,3.0,Very High,333908.97,5
+CL100638,Corporate,Female,Canada,North America,1982-12-24,Investment,No,Corporate Network,2.0,Very High,307579.53,6
+CL100639,Corporate,Male,Germany,Europe,1986-05-12,Investment,No,Referral,4.0,Very High,439712.81,8
+CL100640,Individual,Male,Nepal,South Asia,1973-06-04,Investment,No,Referral,3.0,Very High,515270.63,1
+CL100641,Corporate,Female,Netherlands,Europe,1981-08-18,Investment,No,Website,3.0,High,836792.15,6
+CL100642,Individual,Male,Germany,Europe,1980-04-05,Personal Use,No,Private Banker,4.0,Very High,1021538.63,2
+CL100643,Individual,Male,Canada,North America,1971-01-04,Investment,No,Investment Event,3.0,Very High,180234.95,2
+CL100644,Individual,Female,United Kingdom,Europe,1977-12-18,Investment,No,Website,4.0,High,436604.8,2
+CL100645,Corporate,Male,France,Europe,1982-04-27,Investment,Yes,Corporate Network,4.0,High,665500.4,2
+CL100646,Individual,Male,Saudi Arabia,Middle East,1963-08-14,Investment,No,Private Banker,4.0,High,852380.91,1
+CL100647,Corporate,Female,Germany,Europe,1978-04-07,Investment,No,Referral,3.0,High,303646.15,1
+CL100648,Individual,Male,Nepal,South Asia,2000-10-21,Personal Use,Yes,Broker,3.0,Low,76600.7,1
+CL100649,Corporate,Female,Saudi Arabia,Middle East,1982-08-22,Business Use,Yes,Corporate Network,4.0,High,396867.99,3
+CL100650,Corporate,Female,Sri Lanka,South Asia,1984-03-15,Investment,No,Broker,3.0,High,643257.33,1
+CL100651,Individual,Male,Bangladesh,South Asia,1991-06-13,Personal Use,Yes,Website,2.0,Low,48352.46,1
+CL100652,Individual,Male,United Kingdom,Europe,1975-04-21,Investment,Yes,Broker,3.0,Very High,484567.68,2
+CL100653,Corporate,Male,Japan,East Asia,1991-12-03,Investment,No,Broker,3.0,High,378651.27,4
+CL100654,Individual,,Germany,Europe,1978-09-19,Investment,Yes,Referral,4.0,Very High,295517.54,2
+CL100655,Individual,Male,Canada,North America,1963-07-06,Personal Use,No,Private Banker,4.0,Very High,1350265.81,1
+CL100656,Individual,Female,India,South Asia,1998-02-16,Personal Use,Yes,Broker,4.0,Medium,52961.21,1
+CL100657,Individual,Male,Bangladesh,South Asia,1974-12-11,Investment,No,Private Banker,3.0,Very High,760039.09,2
+CL100658,Individual,Male,India,South Asia,1986-10-24,Personal Use,Yes,Website,2.0,Medium,69873.61,1
+CL100659,Individual,Female,Sri Lanka,South Asia,1991-09-05,Personal Use,Yes,Website,3.0,Medium,47175.88,1
+CL100660,Individual,Male,India,South Asia,1992-12-24,Personal Use,No,Broker,3.0,Medium,72447.1,1
+CL100661,Individual,Female,Malaysia,East Asia,2004-08-20,Personal Use,No,Broker,3.0,Medium,135371.0,1
+CL100662,Individual,Female,Oman,Middle East,1976-08-16,Personal Use,No,Website,4.0,Very High,1087949.84,1
+CL100663,Individual,Male,Netherlands,Europe,1968-05-25,Investment,No,Broker,4.0,High,409025.59,1
+CL100664,Individual,Female,France,Europe,1973-05-15,Investment,No,Broker,4.0,Very High,319557.92,1
+CL100665,Individual,Male,United States,North America,1995-12-01,Personal Use,Yes,Broker,2.0,Low,66087.21,1
+CL100666,Corporate,Male,India,South Asia,1981-12-24,Investment,No,Corporate Network,3.0,Very High,150000.0,6
+CL100667,Corporate,Male,Saudi Arabia,Middle East,1962-06-15,Investment,Yes,Broker,4.0,Very High,823983.58,1
+CL100668,Individual,Male,United Kingdom,Europe,1975-06-25,Investment,No,Private Banker,4.0,Very High,536835.17,1
+CL100669,Individual,Male,Bangladesh,South Asia,1989-12-08,Personal Use,Yes,Website,2.0,Medium,39050.11,1
+CL100670,Individual,Male,Sri Lanka,South Asia,1998-06-12,Personal Use,Yes,Broker,2.0,Medium,53254.16,1
+CL100671,Individual,Non-binary,India,South Asia,1969-05-01,Investment,No,Referral,4.0,Very High,261765.73,1
+CL100672,Individual,Male,United States,North America,1988-04-02,Personal Use,Yes,Referral,3.0,Low,41562.16,1
+CL100673,Individual,Male,United States,North America,1968-09-20,Investment,No,Website,4.0,Very High,629953.37,1
+CL100674,Corporate,Female,United States,North America,1984-12-14,Investment,Yes,Corporate Network,3.0,High,1139198.14,5
+CL100675,Individual,Male,Japan,East Asia,1987-07-03,Personal Use,Yes,Website,3.0,Medium,49521.53,1
+CL100676,Individual,Female,United Kingdom,Europe,1996-12-21,Personal Use,Yes,Broker,2.0,Medium,58625.79,1
+CL100677,Corporate,Male,Singapore,East Asia,1973-01-03,Investment,No,Referral,5.0,Very High,548025.67,3
+CL100678,Individual,Male,Canada,North America,1986-11-15,Personal Use,Yes,Broker,4.0,Low,66711.54,1
+CL100679,Corporate,Female,Sri Lanka,South Asia,1973-06-24,Investment,No,Website,4.0,Very High,539745.09,2
+CL100680,Individual,Female,Japan,East Asia,1993-12-01,Personal Use,Yes,Broker,,Medium,53789.22,1
+CL100681,Corporate,Female,France,Europe,1983-12-25,Investment,No,Website,4.0,High,279812.65,2
+CL100682,Individual,Male,United Kingdom,Europe,1968-05-16,Investment,Yes,Website,2.0,High,211892.35,4
+CL100683,Individual,Female,United States,North America,1971-11-05,Investment,No,Investment Event,3.0,High,494725.42,3
+CL100684,Individual,Male,Oman,Middle East,2002-09-18,Personal Use,Yes,Website,4.0,Medium,41622.06,1
+CL100685,Corporate,Female,Canada,North America,1972-02-24,Investment,Yes,Corporate Network,4.0,High,885786.43,4
+CL100686,Individual,Female,India,South Asia,2004-12-07,Personal Use,Yes,Social Media,3.0,Medium,52842.61,1
+CL100687,Individual,Male,Oman,Middle East,1996-06-07,Personal Use,Yes,Social Media,4.0,High,51414.68,1
+CL100688,Individual,Female,France,Europe,1964-05-23,Personal Use,No,Broker,4.0,High,1523001.89,1
+CL100689,Corporate,Female,Netherlands,Europe,1987-08-10,Investment,No,Referral,3.0,Very High,239581.03,6
+CL100690,Individual,Male,France,Europe,2002-02-14,Personal Use,Yes,Website,2.0,Medium,86069.34,1
+CL100691,Individual,Male,Nepal,South Asia,2000-02-13,Personal Use,No,Website,4.0,Low,44457.1,1
+CL100692,Individual,Female,UAE,Middle East,1964-04-07,Investment,No,Broker,3.0,High,1224851.33,2
+CL100693,Individual,Male,Netherlands,Europe,1972-11-08,Investment,No,Broker,4.0,High,120324.14,1
+CL100694,Individual,Male,India,South Asia,1993-05-01,Personal Use,No,Social Media,3.0,High,121776.77,1
+CL100695,Individual,Female,Sri Lanka,South Asia,1985-05-26,Personal Use,No,Broker,4.0,Very High,643627.15,1
+CL100696,Individual,,Sri Lanka,South Asia,1994-07-26,Personal Use,Yes,Social Media,2.0,Low,50044.56,1
+CL100697,Corporate,Female,UAE,Middle East,1972-01-12,Investment,No,Corporate Network,4.0,High,205057.36,8
+CL100698,Individual,Male,United Kingdom,Europe,1988-01-10,Personal Use,No,Referral,2.0,Medium,50401.12,1
+CL100699,Corporate,Female,Nepal,South Asia,1972-10-21,Investment,No,Broker,4.0,High,327333.19,6
+CL100700,Individual,Male,India,South Asia,2002-12-11,Personal Use,No,Social Media,3.0,High,72287.65,1
+CL100701,Corporate,Male,Netherlands,Europe,1965-05-10,Investment,No,Investment Event,3.0,High,198004.97,2
+CL100702,Individual,Male,Sri Lanka,South Asia,1990-03-20,Personal Use,No,Broker,3.0,Low,48663.34,1
+CL100703,Individual,Female,United States,North America,1963-11-05,Investment,No,Broker,4.0,Very High,381331.63,2
+CL100704,Corporate,Female,United States,North America,1962-03-03,Investment,No,Broker,4.0,Very High,771924.94,2
+CL100705,Individual,Male,Canada,North America,2000-09-14,Personal Use,Yes,Referral,3.0,Medium,121290.79,1
+CL100706,Individual,Male,India,South Asia,2005-07-10,Personal Use,Yes,Broker,3.0,Low,91735.14,1
+CL100707,Corporate,Female,Qatar,Middle East,1984-07-04,Investment,Yes,Referral,4.0,Very High,477480.85,3
+CL100708,Corporate,Male,Qatar,Middle East,1979-12-11,Investment,No,Broker,2.0,Very High,692454.91,2
+CL100709,Individual,Female,United Kingdom,Europe,1999-10-16,Personal Use,Yes,Website,3.0,Medium,72637.74,1
+CL100710,Individual,Female,Netherlands,Europe,2000-06-14,Personal Use,Yes,Website,3.0,Medium,44027.13,1
+CL100711,Corporate,Female,United Kingdom,Europe,1967-09-01,Investment,No,Broker,4.0,Very High,527022.5,1
+CL100712,Corporate,Prefer not to say,Canada,North America,1980-11-06,Investment,No,Referral,3.0,Very High,990573.9,5
+CL100713,Individual,Female,UAE,Middle East,1971-05-07,Investment,No,Referral,4.0,High,402569.5,1
+CL100714,Individual,Male,United Kingdom,Europe,1965-03-18,Investment,No,Referral,4.0,Very High,975406.49,2
+CL100715,Corporate,Non-binary,France,Europe,1988-06-02,Investment,No,Corporate Network,4.0,High,180874.17,5
+CL100716,Individual,Male,United States,North America,1990-05-06,Investment,No,Broker,3.0,High,574675.72,1
+CL100717,Individual,Male,Canada,North America,1999-02-18,Personal Use,Yes,Website,2.0,Medium,38398.98,1
+CL100718,Individual,Female,Germany,Europe,1984-06-20,Investment,No,Referral,3.0,High,229745.4,3
+CL100719,Corporate,Female,France,Europe,1968-07-16,Investment,No,Broker,4.0,High,654431.22,5
+CL100720,Individual,,United Kingdom,Europe,1968-12-16,Investment,No,Private Banker,4.0,Very High,1082590.76,1
+CL100721,Individual,Male,Netherlands,Europe,1996-02-18,Personal Use,Yes,Social Media,3.0,Medium,48907.49,1
+CL100722,Individual,Male,Singapore,East Asia,2005-01-14,Personal Use,No,Website,3.0,Medium,42316.8,1
+CL100723,Corporate,Male,Malaysia,East Asia,1971-05-12,Investment,No,Broker,4.0,High,236227.54,1
+CL100724,Individual,Female,United Kingdom,Europe,1975-03-12,Investment,No,Private Banker,3.0,Very High,682778.9,2
+CL100725,Corporate,Female,United States,North America,1975-03-23,Investment,No,Referral,4.0,High,247779.54,3
+CL100726,Individual,Female,France,Europe,1980-01-25,Investment,No,Investment Event,3.0,High,355155.84,2
+CL100727,Individual,Male,United States,North America,1993-03-08,Investment,No,Referral,4.0,Very High,350781.74,2
+CL100728,Corporate,Male,France,Europe,1985-04-18,Investment,Yes,,3.0,Very High,171854.98,1
+CL100729,Individual,Female,France,Europe,1996-09-19,Personal Use,Yes,Social Media,4.0,Medium,57104.5,1
+CL100730,Individual,Male,Netherlands,Europe,2002-08-04,Personal Use,Yes,Website,3.0,Medium,40685.3,1
+CL100731,Individual,Male,Sri Lanka,South Asia,2005-01-01,Personal Use,Yes,Broker,4.0,Low,100484.47,1
+CL100732,Individual,Male,United States,North America,1979-10-10,Investment,Yes,Website,3.0,Very High,236004.66,1
+CL100733,Individual,Male,United Kingdom,Europe,1972-07-06,Investment,No,Website,5.0,High,303610.67,2
+CL100734,Individual,Male,Germany,Europe,1995-02-17,Personal Use,Yes,Website,4.0,Low,48856.59,1
+CL100735,Individual,Non-binary,Qatar,Middle East,1992-09-27,Investment,No,Investment Event,4.0,Very High,505458.4,1
+CL100736,Corporate,Male,Oman,Middle East,1992-03-04,Investment,Yes,Corporate Network,3.0,Very High,736187.0,5
+CL100737,Individual,Male,Nepal,South Asia,1962-11-14,Investment,No,Investment Event,3.0,High,142319.31,3
+CL100738,Individual,,Canada,North America,1991-08-08,Personal Use,Yes,Website,3.0,High,54855.67,1
+CL100739,Individual,Male,Nepal,South Asia,1988-09-14,Personal Use,No,Website,3.0,High,46557.01,1
+CL100740,Individual,Male,Nepal,South Asia,1983-04-01,Personal Use,Yes,Social Media,4.0,Medium,79616.37,1
+CL100741,Corporate,Male,Qatar,Middle East,1979-02-19,Investment,No,Broker,3.0,High,234739.29,1
+CL100742,Individual,Female,United Kingdom,Europe,1970-07-09,Investment,Yes,,3.0,High,214322.96,1
+CL100743,Individual,Male,Canada,North America,1970-12-18,Personal Use,No,Broker,4.0,High,852720.62,1
+CL100744,Corporate,Male,India,South Asia,1964-05-17,Investment,No,Broker,4.0,High,181716.75,3
+CL100745,Individual,Male,India,South Asia,1989-05-10,Personal Use,Yes,Website,3.0,Low,111066.01,1
+CL100746,Individual,Male,Sri Lanka,South Asia,1995-12-25,Personal Use,Yes,Broker,4.0,Medium,55306.56,1
+CL100747,Individual,Female,India,South Asia,1994-12-24,Personal Use,Yes,Social Media,2.0,Low,36689.15,1
+CL100748,Individual,Male,United States,North America,1992-12-18,Personal Use,Yes,Social Media,3.0,Medium,48154.78,1
+CL100749,Corporate,Female,Nepal,South Asia,1997-05-09,Investment,No,Website,3.0,Very High,765799.97,2
+CL100750,Individual,,Netherlands,Europe,1978-11-04,Investment,No,Website,3.0,Very High,629263.88,1
+CL100751,Individual,Male,Sri Lanka,South Asia,2005-03-15,Personal Use,Yes,Social Media,4.0,Medium,87952.05,1
+CL100752,Individual,Female,France,Europe,2002-10-09,Personal Use,No,Social Media,3.0,Medium,37173.1,1
+CL100753,Individual,Male,Canada,North America,1986-01-19,Investment,Yes,Investment Event,3.0,High,212502.44,3
+CL100754,Individual,Male,Sri Lanka,South Asia,1992-03-07,Personal Use,No,Social Media,4.0,Medium,108068.8,1
+CL100755,Corporate,Female,United States,North America,1985-11-27,Investment,No,Corporate Network,4.0,Very High,939964.88,5
+CL100756,Individual,Female,France,Europe,1985-06-03,Investment,No,Website,4.0,High,244311.95,2
+CL100757,Individual,Male,United Kingdom,Europe,1994-08-20,Personal Use,Yes,Website,3.0,Low,62873.62,1
+CL100758,Individual,Male,India,South Asia,1977-02-23,Personal Use,Yes,Private Banker,3.0,High,871340.61,1
+CL100759,Individual,Male,Saudi Arabia,Middle East,1966-05-21,Investment,No,Referral,3.0,High,351148.43,3
+CL100760,Individual,Male,UAE,Middle East,1996-12-22,Personal Use,Yes,Broker,3.0,High,52424.07,1
+CL100761,Corporate,Female,Singapore,East Asia,1993-03-23,Investment,No,Referral,4.0,Very High,812426.08,4
+CL100762,Individual,Male,Canada,North America,1981-06-06,Investment,No,Broker,3.0,High,118404.68,1
+CL100763,Corporate,Female,France,Europe,1959-01-11,Investment,No,Broker,3.0,High,392605.5,2
+CL100764,Individual,Female,United States,North America,1976-04-16,Investment,No,Broker,,Very High,186145.74,3
+CL100765,Individual,Female,Sri Lanka,South Asia,1989-10-06,Investment,Yes,Referral,,High,444560.35,1
+CL100766,Individual,Female,France,Europe,1992-08-17,Investment,No,Broker,3.0,High,147471.53,1
+CL100767,Corporate,Female,Netherlands,Europe,1964-09-22,Investment,No,Investment Event,3.0,Very High,109467.43,2
+CL100768,Individual,Female,India,South Asia,1967-05-08,Investment,No,Broker,5.0,Very High,548375.5,3
+CL100769,Individual,Female,Germany,Europe,1971-02-16,Investment,No,Referral,4.0,High,81522.6,1
+CL100770,Corporate,Male,UAE,Middle East,1985-02-05,Investment,No,Broker,3.0,High,201235.49,5
+CL100771,Individual,Male,Nepal,South Asia,1978-08-01,Investment,No,Investment Event,2.0,High,311423.21,1
+CL100772,Individual,Male,India,South Asia,1995-08-27,Personal Use,Yes,Broker,4.0,Medium,62707.69,1
+CL100773,Individual,Male,Canada,North America,1998-08-19,Personal Use,Yes,Social Media,2.0,Low,35384.14,1
+CL100774,Individual,Male,Saudi Arabia,Middle East,1971-11-11,Investment,Yes,Private Banker,4.0,Very High,521866.21,2
+CL100775,Corporate,Male,Japan,East Asia,1993-11-09,Investment,Yes,Investment Event,3.0,Very High,208490.77,1
+CL100776,Individual,Female,United States,North America,1970-12-07,Investment,No,Referral,4.0,Very High,468702.2,2
+CL100777,Corporate,Male,Singapore,East Asia,1988-08-15,Investment,No,Corporate Network,4.0,High,199995.12,5
+CL100778,Corporate,Female,Canada,North America,1976-10-18,Investment,Yes,Investment Event,3.0,High,453470.94,2
+CL100779,Corporate,Male,UAE,Middle East,1998-12-18,Investment,No,Corporate Network,3.0,High,912439.49,6
+CL100780,Individual,Female,Oman,Middle East,1979-09-04,Investment,No,Private Banker,4.0,Very High,707094.61,1
+CL100781,Individual,Female,Canada,North America,1999-02-26,Personal Use,No,Broker,3.0,Medium,91735.18,1
+CL100782,Individual,Female,United States,North America,1984-10-25,Investment,No,Referral,3.0,Very High,756296.07,1
+CL100783,Individual,Female,Bangladesh,South Asia,1984-05-01,Personal Use,Yes,Broker,3.0,Medium,85377.12,1
+CL100784,Corporate,Female,France,Europe,1996-10-24,Business Use,No,Broker,4.0,Very High,495268.13,2
+CL100785,Individual,Male,Qatar,Middle East,1985-09-21,Investment,No,Private Banker,4.0,High,534381.08,1
+CL100786,Individual,Male,India,South Asia,2005-10-01,Personal Use,Yes,Website,2.0,High,148972.46,1
+CL100787,Individual,Female,Bangladesh,South Asia,1975-09-12,Investment,No,Broker,4.0,Very High,970529.11,2
+CL100788,Individual,Female,India,South Asia,1996-01-19,Personal Use,Yes,Broker,4.0,Low,43750.29,1
+CL100789,Corporate,Female,India,South Asia,1977-09-12,Investment,No,Website,4.0,Very High,542536.61,5
+CL100790,Corporate,Female,United Kingdom,Europe,1983-05-01,Investment,Yes,Broker,4.0,Very High,681178.23,4
+CL100791,Individual,Male,United Kingdom,Europe,1974-04-25,Investment,No,Investment Event,4.0,High,356947.2,2
+CL100792,Individual,Female,Bangladesh,South Asia,1997-02-02,Personal Use,Yes,Broker,3.0,Medium,51996.97,1
+CL100793,Individual,Female,Nepal,South Asia,1994-06-23,Personal Use,Yes,Broker,2.0,Medium,130705.23,1
+CL100794,Individual,,Qatar,Middle East,1980-09-26,Investment,No,Investment Event,4.0,High,669022.18,2
+CL100795,Individual,Male,Saudi Arabia,Middle East,1982-11-12,Investment,Yes,Broker,3.0,High,257554.23,3
+CL100796,Individual,Male,Sri Lanka,South Asia,2000-05-24,Personal Use,No,Social Media,4.0,Low,38812.16,1
+CL100797,Individual,Male,Germany,Europe,1974-02-10,Investment,Yes,Referral,5.0,High,154036.8,4
+CL100798,Corporate,,Malaysia,East Asia,1982-05-06,Investment,No,Broker,2.0,High,115712.99,1
+CL100799,Corporate,Male,Japan,East Asia,1988-05-08,Investment,Yes,Referral,3.0,High,372706.62,5
+CL100800,Corporate,Male,Japan,East Asia,1981-06-08,Business Use,No,Corporate Network,3.0,Very High,368420.11,5
+CL100801,Corporate,Male,Netherlands,Europe,1977-09-24,Investment,No,Referral,3.0,Very High,272445.78,5
+CL100802,Individual,Female,India,South Asia,2004-10-01,Personal Use,No,Referral,4.0,Medium,96913.21,1
+CL100803,Individual,Female,Saudi Arabia,Middle East,1971-09-12,Investment,No,Private Banker,,Very High,930867.7,1
+CL100804,Individual,Male,Netherlands,Europe,1980-06-16,Personal Use,Yes,Referral,4.0,Low,49172.11,1
+CL100805,Corporate,Male,United Kingdom,Europe,1978-01-04,Investment,No,Referral,4.0,Very High,184779.38,2
+CL100806,Individual,Female,United States,North America,1985-12-13,Investment,No,Broker,3.0,High,247628.03,2
+CL100807,Corporate,Male,Bangladesh,South Asia,1980-09-12,Investment,No,Corporate Network,3.0,High,739430.32,4
+CL100808,Individual,Female,Bangladesh,South Asia,1981-01-09,Investment,No,Investment Event,4.0,High,312510.8,3
+CL100809,Individual,Male,Singapore,East Asia,1989-08-15,Personal Use,Yes,Website,3.0,Medium,116759.86,1
+CL100810,Individual,Male,United States,North America,1984-02-01,Personal Use,No,Website,4.0,Very High,512917.53,1
+CL100811,Individual,Female,Qatar,Middle East,1981-11-08,Investment,No,Referral,4.0,High,144787.73,2
+CL100812,Individual,Female,Germany,Europe,1978-11-18,Investment,No,Referral,3.0,Very High,323984.43,2
+CL100813,Individual,Male,Bangladesh,South Asia,1974-12-22,Investment,No,Private Banker,4.0,Very High,540389.95,2
+CL100814,Individual,Female,Sri Lanka,South Asia,1991-11-03,Personal Use,Yes,Broker,2.0,Medium,76756.5,1
+CL100815,Individual,Male,United States,North America,1986-07-13,Investment,No,Referral,4.0,Very High,200882.99,1
+CL100816,Individual,Female,Netherlands,Europe,1976-12-02,Personal Use,No,Broker,5.0,High,527433.57,1
+CL100817,Individual,Male,United Kingdom,Europe,1968-02-19,Personal Use,No,Private Banker,4.0,High,534311.72,1
+CL100818,Individual,Male,UAE,Middle East,1999-02-01,Personal Use,Yes,Website,2.0,Medium,52321.43,1
+CL100819,Corporate,Female,Singapore,East Asia,1974-05-08,Business Use,No,Corporate Network,3.0,High,458801.03,6
+CL100820,Individual,Male,United States,North America,1989-08-23,Personal Use,No,Social Media,3.0,Medium,55532.44,1
+CL100821,Individual,Prefer not to say,United States,North America,1979-06-04,Investment,No,Website,3.0,High,245945.94,1
+CL100822,Individual,Female,Sri Lanka,South Asia,2000-01-13,Personal Use,Yes,Social Media,3.0,Medium,116973.03,1
+CL100823,Individual,Male,India,South Asia,1997-01-26,Personal Use,Yes,Website,2.0,Medium,90192.85,1
+CL100824,Corporate,Male,Canada,North America,1993-06-26,Investment,No,Corporate Network,3.0,High,950271.1,4
+CL100825,Individual,Prefer not to say,France,Europe,1972-06-26,Investment,No,Broker,4.0,Very High,496464.57,2
+CL100826,Individual,Prefer not to say,United States,North America,1979-11-22,Investment,No,Referral,3.0,Very High,327817.57,1
+CL100827,Individual,Female,United Kingdom,Europe,2005-04-06,Personal Use,No,Broker,,Medium,37981.63,1
+CL100828,Individual,Female,Netherlands,Europe,1978-03-22,Investment,No,Referral,2.0,High,436712.6,1
+CL100829,Individual,Male,France,Europe,1980-04-04,Investment,No,Website,5.0,Very High,455113.77,2
+CL100830,Individual,Male,Bangladesh,South Asia,2000-07-15,Personal Use,Yes,Broker,2.0,Medium,47467.89,1
+CL100831,Corporate,Male,Japan,East Asia,1994-06-01,Business Use,No,Corporate Network,4.0,High,638933.78,6
+CL100832,Individual,,Canada,North America,1994-07-27,Personal Use,Yes,Website,3.0,Low,52609.92,1
+CL100833,Individual,Male,Germany,Europe,1989-09-04,Personal Use,Yes,Social Media,3.0,Medium,70160.17,1
+CL100834,Corporate,Male,Sri Lanka,South Asia,1979-01-17,Investment,Yes,Referral,3.0,High,378174.15,8
+CL100835,Corporate,Male,Malaysia,East Asia,1990-07-18,Investment,No,Corporate Network,4.0,High,759281.99,4
+CL100836,Individual,Female,United States,North America,1992-10-12,Personal Use,No,Social Media,2.0,Medium,59238.18,1
+CL100837,Corporate,Male,UAE,Middle East,1978-04-17,Investment,No,Referral,4.0,High,813450.08,4
+CL100838,Individual,Male,UAE,Middle East,1991-03-12,Investment,No,Private Banker,4.0,Very High,669262.49,2
+CL100839,Individual,Female,India,South Asia,1995-05-17,Personal Use,Yes,Social Media,2.0,Medium,54583.57,1
+CL100840,Individual,Male,Singapore,East Asia,1987-04-23,Personal Use,Yes,Website,3.0,Low,54662.74,1
+CL100841,Individual,Male,Singapore,East Asia,1990-02-04,Investment,No,Broker,3.0,Very High,142579.01,1
+CL100842,Corporate,Female,United Kingdom,Europe,1986-08-03,Investment,Yes,Corporate Network,4.0,Very High,483856.22,5
+CL100843,Individual,Male,United Kingdom,Europe,1997-09-21,Personal Use,Yes,Website,3.0,High,79606.23,1
+CL100844,Individual,Female,Germany,Europe,1998-03-19,Personal Use,Yes,Website,4.0,Medium,59583.68,1
+CL100845,Individual,Male,Nepal,South Asia,1974-05-17,Investment,No,Investment Event,4.0,Very High,262326.26,1
+CL100846,Individual,Male,Nepal,South Asia,1972-02-19,Investment,No,Private Banker,4.0,Very High,390236.47,2
+CL100847,Individual,Male,Sri Lanka,South Asia,1996-05-03,Personal Use,Yes,Website,4.0,Low,100599.97,1
+CL100848,Corporate,Male,Singapore,East Asia,1971-03-10,Investment,No,Corporate Network,4.0,High,745189.42,5
+CL100849,Corporate,Female,India,South Asia,1979-11-20,Investment,No,Website,3.0,High,229937.97,3
+CL100850,Individual,Male,United States,North America,1963-09-11,Personal Use,No,Private Banker,4.0,Very High,708257.12,1
+CL100851,Individual,Non-binary,UAE,Middle East,1984-01-25,Investment,No,Referral,4.0,Very High,324655.4,2
+CL100852,Corporate,Male,Netherlands,Europe,2001-08-05,Investment,Yes,Website,3.0,High,208294.84,2
+CL100853,Individual,Male,United States,North America,1990-11-26,Personal Use,No,Referral,5.0,Very High,536852.2,1
+CL100854,Individual,Male,Germany,Europe,1969-01-11,Investment,No,Broker,5.0,High,1061504.09,2
+CL100855,Corporate,Male,France,Europe,1974-10-25,Investment,No,Broker,3.0,Very High,161448.01,4
+CL100856,Individual,Male,Nepal,South Asia,1996-04-24,Personal Use,Yes,Social Media,4.0,High,89763.27,1
+CL100857,Corporate,Male,Germany,Europe,1981-08-20,Investment,Yes,Corporate Network,4.0,Very High,278362.57,3
+CL100858,Corporate,Female,UAE,Middle East,1991-01-23,Investment,No,Private Banker,3.0,Very High,1335274.44,1
+CL100859,Individual,Male,United States,North America,1994-07-10,Personal Use,No,Referral,2.0,Low,63746.57,1
+CL100860,Individual,Male,United Kingdom,Europe,2005-09-27,Personal Use,No,Broker,4.0,Medium,112547.72,1
+CL100861,Corporate,Male,Netherlands,Europe,1983-05-15,Investment,No,Corporate Network,4.0,Very High,350333.62,6
+CL100862,Corporate,Male,United Kingdom,Europe,1972-06-13,Investment,Yes,Referral,3.0,Very High,349624.13,6
+CL100863,Corporate,Female,United States,North America,1975-12-20,Investment,Yes,Broker,2.0,Very High,377907.39,6
+CL100864,Individual,Female,Bangladesh,South Asia,2003-08-26,Personal Use,Yes,,3.0,Medium,43824.83,1
+CL100865,Individual,Female,Germany,Europe,1992-07-21,Investment,No,Website,4.0,High,273695.33,1
+CL100866,Corporate,Male,Canada,North America,1982-09-06,Investment,No,Referral,4.0,Very High,1452397.62,2
+CL100867,Individual,Female,Oman,Middle East,1979-12-25,Personal Use,No,Broker,4.0,Very High,250000.0,1
+CL100868,Corporate,Male,Canada,North America,1987-02-22,Investment,No,Referral,4.0,High,313174.21,5
+CL100869,Individual,Male,United Kingdom,Europe,1981-05-02,Investment,Yes,Broker,3.0,High,269235.14,1
+CL100870,Individual,Female,Malaysia,East Asia,1987-12-22,Investment,Yes,Broker,2.0,Very High,352991.69,1
+CL100871,Corporate,Male,Qatar,Middle East,1998-03-03,Business Use,No,Corporate Network,4.0,Very High,544294.25,4
+CL100872,Individual,Male,Bangladesh,South Asia,1983-05-07,Investment,Yes,Broker,4.0,High,476937.0,2
+CL100873,Individual,Female,UAE,Middle East,1977-01-23,Investment,No,Website,4.0,Very High,448582.05,1
+CL100874,Individual,Male,Canada,North America,2005-11-16,Personal Use,No,Broker,4.0,Low,115944.95,1
+CL100875,Corporate,Male,Netherlands,Europe,1976-09-07,Investment,Yes,Corporate Network,4.0,High,275564.87,6
+CL100876,Individual,Female,Oman,Middle East,1963-06-05,Investment,No,Private Banker,4.0,Very High,650435.85,1
+CL100877,Individual,Female,United Kingdom,Europe,1997-02-21,Personal Use,Yes,Social Media,3.0,Low,89223.97,1
+CL100878,Individual,Male,Oman,Middle East,1997-12-11,Personal Use,Yes,Website,3.0,Low,50292.77,1
+CL100879,Corporate,Female,Canada,North America,1985-05-13,Investment,No,Website,3.0,High,665923.71,3
+CL100880,Individual,Female,Japan,East Asia,1989-09-20,Personal Use,No,Social Media,3.0,Medium,90528.66,1
+CL100881,Individual,Male,Canada,North America,1996-01-15,Personal Use,Yes,Website,5.0,Medium,44328.87,1
+CL100882,Corporate,Male,Germany,Europe,1978-01-08,Investment,Yes,Corporate Network,5.0,High,573051.39,3
+CL100883,Individual,Female,United States,North America,1972-07-05,Investment,No,Private Banker,4.0,Very High,518408.53,1
+CL100884,Individual,Male,Nepal,South Asia,1986-04-17,Personal Use,Yes,Website,4.0,Low,59202.18,1
+CL100885,Corporate,Male,Sri Lanka,South Asia,1973-11-18,Investment,No,Website,4.0,High,481574.65,3
+CL100886,Individual,Male,Canada,North America,1987-07-26,Personal Use,No,Social Media,2.0,Medium,60355.33,1
+CL100887,Individual,Female,United States,North America,1996-07-26,Personal Use,No,Social Media,2.0,Low,92822.17,1
+CL100888,Individual,Female,Sri Lanka,South Asia,1969-07-24,Investment,Yes,Broker,4.0,Very High,132653.04,1
+CL100889,Corporate,Female,United Kingdom,Europe,1985-09-16,Investment,No,Website,5.0,Very High,298191.59,1
+CL100890,Corporate,Female,United Kingdom,Europe,1982-01-20,Investment,No,Website,4.0,High,633183.87,3
+CL100891,Individual,Male,Bangladesh,South Asia,1998-12-23,Personal Use,Yes,Social Media,3.0,Low,61528.56,1
+CL100892,Individual,Male,Qatar,Middle East,1960-06-18,Investment,No,Private Banker,4.0,Very High,632546.45,2
+CL100893,Corporate,Female,Qatar,Middle East,1981-06-09,Investment,Yes,Referral,3.0,High,286554.45,1
+CL100894,Individual,Male,France,Europe,1983-05-13,Investment,No,Broker,3.0,High,174235.3,1
+CL100895,Corporate,Male,Netherlands,Europe,1986-11-09,Business Use,No,Broker,3.0,High,1231207.79,6
+CL100896,Individual,Male,UAE,Middle East,1981-03-21,Investment,No,Broker,4.0,Very High,428631.54,2
+CL100897,Individual,Male,Nepal,South Asia,1998-10-10,Personal Use,Yes,Website,2.0,Low,60177.61,1
+CL100898,Corporate,Female,Qatar,Middle East,1993-06-10,Investment,Yes,Website,4.0,High,417243.67,3
+CL100899,Individual,Male,Canada,North America,1968-11-12,Investment,No,Referral,4.0,High,296111.94,1
+CL100900,Individual,Female,Canada,North America,1993-01-25,Personal Use,Yes,Website,3.0,Low,42067.96,1
+CL100901,Individual,Male,Sri Lanka,South Asia,1995-06-06,Personal Use,Yes,Social Media,2.0,High,92561.06,1
+CL100902,Individual,Male,Nepal,South Asia,2004-12-24,Personal Use,Yes,Website,4.0,Low,88533.93,1
+CL100903,Individual,Female,Canada,North America,1965-08-01,Investment,No,Investment Event,2.0,High,220621.54,4
+CL100904,Individual,Female,Sri Lanka,South Asia,1997-04-15,Personal Use,Yes,Website,1.0,Medium,46895.54,1
+CL100905,Individual,Male,France,Europe,1982-07-09,Personal Use,No,,4.0,Very High,644521.87,2
+CL100906,Corporate,Female,Oman,Middle East,1983-12-24,Investment,No,Broker,4.0,High,571018.41,5
+CL100907,Individual,Male,United States,North America,1999-10-06,Personal Use,Yes,Social Media,4.0,Medium,94389.61,1
+CL100908,Individual,Female,India,South Asia,2001-09-23,Investment,Yes,Broker,4.0,Very High,382151.5,3
+CL100909,Individual,Male,Netherlands,Europe,1987-08-25,Personal Use,Yes,Broker,3.0,Medium,60164.77,1
+CL100910,Individual,Female,India,South Asia,1987-02-12,Personal Use,No,Broker,3.0,Medium,36302.2,1
+CL100911,Corporate,Female,Qatar,Middle East,1995-06-15,Investment,No,Corporate Network,4.0,Very High,535241.17,8
+CL100912,Individual,Female,Oman,Middle East,1967-08-21,Investment,No,Referral,3.0,Very High,357946.47,1
+CL100913,Individual,Male,Nepal,South Asia,1973-03-21,Personal Use,No,Broker,4.0,Very High,506631.37,1
+CL100914,Corporate,Female,UAE,Middle East,1976-04-15,Investment,No,Private Banker,3.0,Very High,705687.2,1
+CL100915,Individual,Female,United States,North America,1977-11-01,Investment,No,Broker,4.0,Very High,421082.72,1
+CL100916,Individual,Male,Oman,Middle East,1990-02-21,Investment,No,Broker,4.0,Very High,337695.37,1
+CL100917,Individual,Male,Singapore,East Asia,1992-12-10,Investment,No,Referral,5.0,Very High,192822.17,1
+CL100918,Individual,Male,Germany,Europe,1976-05-27,Investment,No,Referral,4.0,High,177712.94,1
+CL100919,Individual,Male,India,South Asia,1995-04-16,Personal Use,Yes,Referral,2.0,Medium,45452.34,1
+CL100920,Individual,Female,France,Europe,1997-04-14,Personal Use,Yes,Website,4.0,Low,35231.01,1
+CL100921,Corporate,Male,Netherlands,Europe,1988-06-19,Investment,No,Referral,4.0,Very High,175099.66,1
+CL100922,Individual,Male,UAE,Middle East,1972-10-06,Personal Use,No,Broker,4.0,Very High,840674.5,2
+CL100923,Corporate,Male,Qatar,Middle East,1985-06-20,Investment,No,Corporate Network,3.0,Very High,150000.0,2
+CL100924,Individual,Female,Nepal,South Asia,2005-03-09,Personal Use,Yes,Social Media,2.0,High,46530.02,1
+CL100925,Individual,Female,Sri Lanka,South Asia,1975-06-04,Investment,Yes,Broker,3.0,Very High,257185.96,4
+CL100926,Individual,Female,Netherlands,Europe,2001-12-08,Personal Use,Yes,Social Media,4.0,High,57331.46,1
+CL100927,Individual,Male,Qatar,Middle East,1956-10-08,Investment,No,Investment Event,3.0,Very High,178745.53,2
+CL100928,Individual,Male,Saudi Arabia,Middle East,1968-09-11,Investment,No,Private Banker,5.0,Very High,965546.25,2
+CL100929,Individual,Male,Nepal,South Asia,2000-08-21,Personal Use,Yes,Website,3.0,Low,119944.86,1
+CL100930,Corporate,Male,United Kingdom,Europe,1988-12-17,Investment,Yes,Corporate Network,4.0,Very High,289266.74,6
+CL100931,Individual,Male,India,South Asia,1989-09-24,Personal Use,Yes,Website,3.0,Medium,71812.8,1
+CL100932,Individual,Male,Germany,Europe,1992-07-27,Personal Use,Yes,Website,3.0,Medium,65126.46,1
+CL100933,Individual,Female,Singapore,East Asia,1988-12-02,Personal Use,Yes,Website,3.0,Medium,76035.23,1
+CL100934,Corporate,Male,Canada,North America,1986-12-06,Investment,Yes,Corporate Network,4.0,High,767508.73,3
+CL100935,Corporate,Male,Germany,Europe,1993-04-17,Investment,No,Referral,3.0,Very High,466198.63,8
+CL100936,Individual,Female,France,Europe,1983-03-07,Investment,Yes,,4.0,High,256150.68,1
+CL100937,Individual,Female,Saudi Arabia,Middle East,1988-07-21,Personal Use,No,Broker,4.0,High,971876.35,1
+CL100938,Individual,Male,Oman,Middle East,1991-03-02,Investment,No,Referral,3.0,High,267102.07,1
+CL100939,Corporate,Male,Netherlands,Europe,1970-10-04,Investment,No,Private Banker,4.0,High,415849.87,2
+CL100940,Individual,Female,United States,North America,1984-05-13,Investment,No,Broker,4.0,High,244932.31,4
+CL100941,Individual,Female,Bangladesh,South Asia,2005-09-10,Personal Use,No,Referral,4.0,Medium,38008.62,1
+CL100942,Individual,Female,Japan,East Asia,1969-11-06,Investment,No,Referral,4.0,Very High,250000.0,1
+CL100943,Corporate,Prefer not to say,Germany,Europe,1976-09-05,Investment,No,Investment Event,4.0,Very High,287335.33,2
+CL100944,Individual,Female,Nepal,South Asia,2002-05-18,Personal Use,Yes,Website,3.0,Medium,129679.12,1
+CL100945,Individual,Male,Sri Lanka,South Asia,1997-07-21,Personal Use,No,Referral,3.0,Medium,103014.44,1
+CL100946,Individual,Female,Qatar,Middle East,1979-12-20,Investment,No,Broker,2.0,High,250149.67,1
+CL100947,Corporate,Male,United Kingdom,Europe,1979-04-22,Investment,No,Corporate Network,4.0,High,1078866.09,3
+CL100948,Individual,Female,Germany,Europe,1979-10-25,Investment,No,Website,4.0,Very High,323454.72,1
+CL100949,Individual,Female,Canada,North America,1974-05-08,Investment,No,Broker,4.0,Very High,280681.8,1
+CL100950,Individual,Female,Nepal,South Asia,2005-10-25,Personal Use,No,Referral,3.0,Medium,39114.68,1
+CL100951,Individual,,Bangladesh,South Asia,1981-01-17,Personal Use,No,Website,4.0,Medium,114777.37,1
+CL100952,Corporate,Female,United States,North America,1997-02-05,Investment,No,Referral,4.0,High,278394.77,1
+CL100953,Individual,Male,United States,North America,1977-07-03,Investment,No,Broker,3.0,High,394975.86,3
+CL100954,Individual,Male,France,Europe,1975-03-10,Investment,No,Investment Event,3.0,High,410365.47,1
+CL100955,Individual,Male,Saudi Arabia,Middle East,1964-07-26,Personal Use,No,Website,5.0,Very High,517172.51,1
+CL100956,Individual,Female,Qatar,Middle East,1988-04-24,Investment,No,Broker,4.0,Very High,1073306.71,1
+CL100957,Corporate,Male,Canada,North America,1982-11-08,Investment,Yes,Corporate Network,3.0,High,608836.18,4
+CL100958,Individual,Male,Bangladesh,South Asia,1996-11-12,Personal Use,Yes,Website,3.0,High,41953.39,1
+CL100959,Individual,Female,Oman,Middle East,2003-08-19,Personal Use,Yes,Social Media,4.0,Medium,70764.49,1
+CL100960,Individual,Female,France,Europe,1997-07-20,Personal Use,Yes,Website,3.0,Medium,67323.18,1
+CL100961,Individual,Female,Malaysia,East Asia,1987-12-03,Personal Use,Yes,Broker,3.0,Medium,42699.3,1
+CL100962,Individual,Male,United States,North America,2001-06-11,Personal Use,Yes,Broker,3.0,Medium,63132.6,1
+CL100963,Individual,Male,United States,North America,1979-02-05,Investment,No,Broker,3.0,Very High,406190.2,2
+CL100964,Corporate,Female,Canada,North America,1962-10-20,Investment,No,Referral,3.0,High,134642.72,1
+CL100965,Individual,Male,India,South Asia,1966-06-11,Investment,No,Website,5.0,High,541536.09,1
+CL100966,Individual,Female,Bangladesh,South Asia,1995-12-11,Personal Use,Yes,Social Media,5.0,Medium,92169.33,1
+CL100967,Individual,Male,UAE,Middle East,1989-02-16,Investment,No,Private Banker,4.0,Very High,263501.33,1
+CL100968,Individual,Female,Canada,North America,1980-09-22,Investment,No,Broker,4.0,High,287119.47,1
+CL100969,Individual,Male,Netherlands,Europe,2000-11-11,Personal Use,Yes,Referral,3.0,Medium,44590.22,1
+CL100970,Individual,Female,Canada,North America,1974-09-26,Investment,No,Referral,4.0,High,262599.16,3
+CL100971,Individual,Male,Bangladesh,South Asia,1993-12-15,Personal Use,Yes,Broker,3.0,Low,37394.3,1
+CL100972,Individual,Female,United States,North America,1993-11-21,Investment,No,Broker,4.0,Very High,296954.63,1
+CL100973,Individual,Female,Bangladesh,South Asia,1971-11-11,Investment,No,Website,4.0,Very High,358327.04,1
+CL100974,Individual,Male,France,Europe,1978-05-26,Investment,No,Referral,4.0,Very High,553199.79,1
+CL100975,Individual,Male,Nepal,South Asia,1990-08-08,Personal Use,No,Social Media,2.0,High,56476.19,1
+CL100976,Corporate,Female,Malaysia,East Asia,1995-05-06,Investment,No,Referral,2.0,High,448500.91,5
+CL100977,Individual,Female,Sri Lanka,South Asia,1996-06-26,Personal Use,Yes,Website,4.0,Medium,62518.0,1
+CL100978,Individual,,Malaysia,East Asia,1979-01-13,Personal Use,Yes,Broker,4.0,Medium,86290.56,1
+CL100979,Individual,Male,Bangladesh,South Asia,1988-05-14,Personal Use,Yes,Social Media,3.0,Medium,51677.32,1
+CL100980,Individual,,UAE,Middle East,1982-02-17,Investment,No,Website,5.0,High,111632.04,1
+CL100981,Individual,Male,Malaysia,East Asia,1974-02-05,Investment,No,Referral,4.0,Very High,791685.57,1
+CL100982,Corporate,Male,Saudi Arabia,Middle East,1979-08-27,Investment,No,Private Banker,5.0,High,491706.69,1
+CL100983,Corporate,Male,Japan,East Asia,1986-03-05,Investment,No,Corporate Network,3.0,High,353907.32,2
+CL100984,Individual,Female,United States,North America,1995-07-11,Personal Use,No,Website,3.0,Medium,72111.62,1
+CL100985,Individual,Female,France,Europe,1981-10-15,Investment,No,Website,4.0,Very High,327678.4,1
+CL100986,Individual,Male,Germany,Europe,1984-08-16,Investment,No,Private Banker,4.0,High,305694.39,1
+CL100987,Individual,Female,Canada,North America,1997-11-16,Personal Use,Yes,Website,3.0,High,66152.03,1
+CL100988,Individual,Male,UAE,Middle East,1985-01-08,Investment,No,Investment Event,4.0,High,331999.16,3
+CL100989,Individual,Male,India,South Asia,1989-12-22,Personal Use,Yes,Social Media,3.0,Low,66997.82,1
+CL100990,Corporate,Male,Netherlands,Europe,1998-06-23,Investment,Yes,Broker,4.0,Very High,257392.29,6
+CL100991,Corporate,Male,Canada,North America,1983-07-24,Investment,No,Corporate Network,3.0,Very High,423518.08,6
+CL100992,Corporate,Male,United States,North America,1988-08-17,Investment,Yes,Corporate Network,3.0,High,174991.58,3
+CL100993,Corporate,Male,United States,North America,1980-07-23,Investment,No,Broker,3.0,Very High,297771.39,6
+CL100994,Individual,Female,United States,North America,1994-05-11,Investment,No,Investment Event,3.0,High,113805.78,2
+CL100995,Individual,Female,Oman,Middle East,1980-09-26,Personal Use,No,Referral,4.0,Very High,519215.21,1
+CL100996,Individual,Female,India,South Asia,1999-03-06,Personal Use,Yes,Website,2.0,Medium,59946.58,1
+CL100997,Corporate,Female,France,Europe,1991-12-16,Investment,Yes,Corporate Network,3.0,Very High,474417.56,5
+CL100998,Corporate,Male,France,Europe,1983-01-03,Investment,No,Broker,3.0,High,192643.07,2
+CL100999,Individual,Female,Saudi Arabia,Middle East,1979-10-26,Investment,No,Broker,4.0,Very High,634292.24,1
+CL101000,Individual,Female,Bangladesh,South Asia,1989-08-10,Personal Use,Yes,Broker,4.0,Medium,100611.3,1
+CL101001,Individual,Prefer not to say,Netherlands,Europe,1969-05-20,Investment,No,Referral,4.0,Very High,261881.15,1
+CL101002,Individual,Female,Bangladesh,South Asia,1984-02-09,Personal Use,Yes,Broker,3.0,Low,95753.77,1
+CL101003,Individual,Male,Germany,Europe,1977-07-24,Investment,No,Referral,3.0,Very High,525672.94,2
+CL101004,Corporate,Male,Germany,Europe,1969-02-09,Investment,No,Referral,3.0,High,176261.59,2
+CL101005,Corporate,Male,Canada,North America,1983-03-17,Investment,Yes,Corporate Network,4.0,Very High,527686.38,4
+CL101006,Individual,Female,Canada,North America,1992-02-20,Personal Use,No,Website,3.0,Medium,68634.87,1
+CL101007,Individual,Female,Netherlands,Europe,1986-12-15,Investment,Yes,Broker,4.0,Very High,521351.84,1
+CL101008,Individual,Female,Bangladesh,South Asia,1994-08-21,Personal Use,Yes,Social Media,3.0,Medium,74968.17,1
+CL101009,Corporate,Female,United States,North America,1979-04-04,Investment,No,Corporate Network,4.0,Very High,632483.02,8
+CL101010,Individual,Male,Sri Lanka,South Asia,1990-05-04,Personal Use,Yes,Website,3.0,Medium,58043.46,1
+CL101011,Corporate,Male,UAE,Middle East,1974-03-04,Investment,Yes,Corporate Network,3.0,Very High,183097.15,3
+CL101012,Individual,Male,United Kingdom,Europe,1998-03-08,Personal Use,Yes,Social Media,2.0,Medium,97139.47,1
+CL101013,Individual,Female,United States,North America,1996-09-12,Personal Use,Yes,Broker,3.0,Medium,59052.21,1
+CL101014,Individual,,Canada,North America,1988-10-07,Investment,No,Broker,4.0,Very High,256616.41,1
+CL101015,Individual,Male,Germany,Europe,1988-05-26,Personal Use,Yes,Referral,2.0,Low,59150.89,1
+CL101016,Individual,Male,United States,North America,1987-08-09,Investment,No,Referral,5.0,High,506557.29,3
+CL101017,Corporate,,Qatar,Middle East,1982-09-21,Investment,Yes,Referral,3.0,Very High,299685.36,2
+CL101018,Individual,Male,United States,North America,1975-06-23,Investment,No,Broker,4.0,Very High,1938525.47,1
+CL101019,Individual,Male,Netherlands,Europe,1970-09-07,Investment,Yes,Broker,4.0,High,235693.82,2
+CL101020,Individual,Male,India,South Asia,1991-08-16,Personal Use,Yes,Website,2.0,Medium,58197.34,1
+CL101021,Individual,Male,France,Europe,1971-05-08,Personal Use,No,Private Banker,4.0,Very High,540214.73,1
+CL101022,Corporate,Male,Sri Lanka,South Asia,1979-04-26,Investment,No,Broker,5.0,Very High,218415.61,2
+CL101023,Individual,Female,Japan,East Asia,1968-04-25,Investment,No,Referral,4.0,Very High,320985.63,3
+CL101024,Individual,Female,Sri Lanka,South Asia,1997-05-21,Personal Use,Yes,Broker,3.0,Medium,91165.02,1
+CL101025,Corporate,Female,Qatar,Middle East,1988-07-26,Investment,Yes,Broker,2.0,High,539377.58,3
+CL101026,Individual,Male,Malaysia,East Asia,2002-09-17,Personal Use,Yes,Broker,4.0,Medium,48632.47,1
+CL101027,Individual,Male,Japan,East Asia,1974-02-04,Investment,No,Private Banker,4.0,Very High,992441.11,2
+CL101028,Individual,Female,Sri Lanka,South Asia,1997-12-21,Personal Use,Yes,Website,3.0,Low,68864.89,1
+CL101029,Corporate,Female,Oman,Middle East,1976-10-02,Investment,Yes,Referral,3.0,High,858193.32,3
+CL101030,Individual,Male,Nepal,South Asia,1997-03-17,Personal Use,Yes,Website,1.0,Medium,43020.18,1
+CL101031,Individual,Male,India,South Asia,1997-08-22,Personal Use,Yes,Broker,4.0,Low,38032.39,1
+CL101032,Corporate,Male,United States,North America,1994-03-26,Investment,Yes,Referral,3.0,Very High,314862.05,3
+CL101033,Individual,Male,Canada,North America,1994-04-12,Personal Use,Yes,Website,2.0,High,47879.57,1
+CL101034,Individual,Male,India,South Asia,1964-05-09,Investment,No,Private Banker,4.0,Very High,432499.95,3
+CL101035,Individual,Female,Bangladesh,South Asia,1997-09-21,Personal Use,Yes,Social Media,3.0,Medium,58304.34,1
+CL101036,Corporate,Male,Canada,North America,1982-10-27,Investment,Yes,Corporate Network,4.0,Very High,584248.9,3
+CL101037,Individual,Female,Nepal,South Asia,1995-08-19,Personal Use,Yes,Website,3.0,Medium,56929.65,1
+CL101038,Individual,Female,Bangladesh,South Asia,2000-07-06,Personal Use,No,Broker,3.0,Low,74049.37,1
+CL101039,Individual,Male,Netherlands,Europe,1997-08-21,Personal Use,Yes,Social Media,4.0,High,72813.24,1
+CL101040,Corporate,Male,Germany,Europe,1972-01-20,Investment,No,Website,4.0,Very High,162576.52,3
+CL101041,Individual,Female,Netherlands,Europe,1971-06-09,Investment,No,Referral,5.0,Very High,284828.84,1
+CL101042,Corporate,Female,Saudi Arabia,Middle East,1994-07-03,Investment,No,Broker,4.0,High,386560.48,4
+CL101043,Corporate,Male,UAE,Middle East,1970-06-23,Investment,Yes,Corporate Network,3.0,High,1132566.22,2
+CL101044,Corporate,Prefer not to say,Nepal,South Asia,1997-01-17,Business Use,No,Referral,3.0,High,311582.25,8
+CL101045,Individual,Female,India,South Asia,1989-02-02,Investment,No,Referral,3.0,High,112588.95,1
+CL101046,Individual,Male,Malaysia,East Asia,1987-02-02,Personal Use,No,Broker,3.0,Medium,63989.18,1
+CL101047,Individual,Male,Canada,North America,1976-02-26,Investment,Yes,Referral,5.0,Very High,430782.49,2
+CL101048,Corporate,Male,Saudi Arabia,Middle East,1983-06-19,Investment,No,Referral,3.0,High,458628.15,6
+CL101049,Individual,Male,Canada,North America,1979-05-04,Investment,No,Broker,3.0,Very High,753664.25,1
+CL101050,Corporate,Male,United States,North America,1968-06-23,Investment,Yes,Broker,4.0,High,141430.41,1
+CL101051,Corporate,Male,Malaysia,East Asia,1983-07-24,Investment,No,Corporate Network,3.0,High,323264.24,8
+CL101052,Corporate,Male,Qatar,Middle East,1978-02-09,Investment,No,Broker,4.0,High,535413.48,3
+CL101053,Individual,Female,Netherlands,Europe,1999-01-19,Personal Use,Yes,Referral,4.0,Medium,58207.04,1
+CL101054,Individual,Female,Canada,North America,1982-09-01,Investment,No,Website,4.0,Very High,431206.09,1
+CL101055,Individual,Prefer not to say,Bangladesh,South Asia,1998-10-19,Personal Use,Yes,Website,1.0,Medium,48241.0,1
+CL101056,Corporate,Male,UAE,Middle East,1968-08-13,Investment,Yes,Corporate Network,4.0,High,443405.98,4
+CL101057,Individual,Female,Qatar,Middle East,1961-03-01,Investment,No,Website,4.0,Very High,641629.17,1
+CL101058,Corporate,Male,Germany,Europe,1968-10-12,Investment,Yes,Website,4.0,High,194866.8,1
+CL101059,Individual,Female,Sri Lanka,South Asia,1997-11-05,Personal Use,No,Social Media,3.0,Medium,33868.56,1
+CL101060,Corporate,Male,Japan,East Asia,1991-01-10,Investment,No,Corporate Network,3.0,Very High,334300.05,5
+CL101061,Individual,Female,United Kingdom,Europe,1994-03-08,Investment,No,Private Banker,4.0,Very High,250000.0,1
+CL101062,Corporate,Male,UAE,Middle East,1993-07-04,Business Use,Yes,Corporate Network,4.0,High,587770.31,8
+CL101063,Individual,Female,Sri Lanka,South Asia,2005-05-19,Personal Use,Yes,Broker,3.0,Low,37440.14,1
+CL101064,Corporate,Male,Oman,Middle East,1990-09-09,Investment,Yes,Broker,3.0,Very High,412176.33,4
+CL101065,Individual,Female,Canada,North America,1990-03-08,Personal Use,No,Website,4.0,Medium,35866.7,1
+CL101066,Corporate,Female,Singapore,East Asia,1987-05-18,Investment,No,Referral,4.0,High,398161.65,3
+CL101067,Individual,Male,Nepal,South Asia,2004-04-25,Personal Use,Yes,Social Media,3.0,Medium,55244.55,1
+CL101068,Corporate,Female,Canada,North America,1979-08-22,Business Use,Yes,,4.0,High,401381.93,5
+CL101069,Individual,Male,Oman,Middle East,1974-04-04,Investment,Yes,Investment Event,4.0,High,279082.58,2
+CL101070,Individual,Female,Sri Lanka,South Asia,2000-02-14,Personal Use,Yes,Social Media,3.0,Medium,47237.17,1
+CL101071,Individual,Male,Nepal,South Asia,1984-11-09,Investment,No,Referral,4.0,Very High,898569.52,1
+CL101072,Corporate,Female,Canada,North America,1990-06-12,Business Use,No,Corporate Network,3.0,Very High,821240.78,5
+CL101073,Individual,Male,Nepal,South Asia,1991-01-01,Personal Use,No,Social Media,3.0,Medium,42877.17,1
+CL101074,Individual,Male,Sri Lanka,South Asia,1976-03-08,Investment,No,Referral,5.0,High,512400.23,2
+CL101075,Individual,Female,Qatar,Middle East,1972-01-23,Investment,No,Referral,4.0,Very High,404056.72,2
+CL101076,Individual,Male,Singapore,East Asia,1997-02-10,Personal Use,Yes,Website,4.0,Medium,37053.83,1
+CL101077,Individual,Female,India,South Asia,1992-06-04,Personal Use,Yes,Broker,4.0,Low,90755.08,1
+CL101078,Individual,Prefer not to say,Sri Lanka,South Asia,1999-10-22,Personal Use,No,Social Media,3.0,Medium,29812.46,1
+CL101079,Corporate,Male,Germany,Europe,1998-06-14,Business Use,No,Broker,4.0,High,865239.54,8
+CL101080,Individual,Male,Sri Lanka,South Asia,2003-04-11,Personal Use,Yes,Broker,4.0,Medium,25000.0,1
+CL101081,Individual,Male,United Kingdom,Europe,1990-04-09,Investment,No,Website,3.0,High,349208.68,2
+CL101082,Individual,Male,UAE,Middle East,1971-11-06,Investment,Yes,Referral,4.0,Very High,947716.31,1
+CL101083,Individual,Female,Oman,Middle East,1976-03-05,Investment,No,Broker,4.0,Very High,829080.39,1
+CL101084,Individual,Male,Oman,Middle East,1976-03-22,Investment,No,Website,4.0,Very High,667217.62,1
+CL101085,Individual,Male,Saudi Arabia,Middle East,1983-08-01,Investment,No,Broker,5.0,Very High,451505.76,1
+CL101086,Corporate,Female,UAE,Middle East,1978-02-23,Investment,No,Broker,3.0,High,776246.76,6
+CL101087,Corporate,Male,UAE,Middle East,1991-05-14,Investment,No,Corporate Network,4.0,Very High,374804.34,3
+CL101088,Corporate,Male,United Kingdom,Europe,1978-03-08,Investment,Yes,Website,3.0,Very High,944128.94,4
+CL101089,Individual,Female,Nepal,South Asia,1991-12-04,Personal Use,Yes,Referral,4.0,Low,50481.96,1
+CL101090,Individual,Male,Bangladesh,South Asia,1993-02-27,Personal Use,Yes,Website,3.0,High,76302.61,1
+CL101091,Corporate,Female,United States,North America,1992-01-27,Investment,No,Broker,4.0,Very High,427158.67,1
+CL101092,Corporate,Female,Nepal,South Asia,1989-03-11,Investment,No,Referral,4.0,Very High,633858.34,8
+CL101093,Individual,Male,United Kingdom,Europe,1997-08-22,Personal Use,No,Social Media,3.0,Medium,76279.4,1
+CL101094,Individual,Male,United Kingdom,Europe,1980-03-02,Personal Use,Yes,,4.0,Medium,52408.28,1
+CL101095,Individual,Male,India,South Asia,1993-03-07,Personal Use,Yes,Website,3.0,High,64877.43,1
+CL101096,Individual,Male,Germany,Europe,1998-08-15,Personal Use,Yes,Broker,2.0,High,59427.8,1
+CL101097,Individual,Male,Japan,East Asia,1962-01-24,Investment,No,,4.0,Very High,361176.21,1
+CL101098,Individual,Male,UAE,Middle East,1975-02-22,Personal Use,No,Private Banker,5.0,Very High,364184.92,1
+CL101099,Individual,Female,Canada,North America,1969-02-27,Investment,No,Website,5.0,Very High,982027.82,1
+CL101100,Corporate,Male,France,Europe,1975-01-20,Investment,No,Investment Event,4.0,Very High,303202.69,2
+CL101101,Individual,Female,Malaysia,East Asia,1972-03-06,Investment,No,Broker,3.0,High,133573.16,2
+CL101102,Individual,Male,United Kingdom,Europe,2005-11-01,Personal Use,Yes,,4.0,Medium,43883.99,1
+CL101103,Corporate,Male,Qatar,Middle East,1972-03-16,Investment,Yes,Referral,3.0,High,176319.37,2
+CL101104,Individual,,UAE,Middle East,1971-03-18,Investment,No,Website,4.0,Very High,1180005.67,1
+CL101105,Individual,Male,Canada,North America,1990-04-24,Investment,No,Investment Event,2.0,High,163265.43,2
+CL101106,Corporate,Male,Bangladesh,South Asia,1986-05-11,Investment,No,Referral,3.0,High,431489.35,6
+CL101107,Individual,Male,Canada,North America,1990-07-19,Investment,No,Website,4.0,Very High,254928.24,3
+CL101108,Individual,Male,Sri Lanka,South Asia,1997-10-06,Personal Use,Yes,Referral,3.0,Medium,28948.46,1
+CL101109,Individual,Male,UAE,Middle East,1973-07-25,Investment,No,Broker,4.0,Very High,633881.53,1
+CL101110,Individual,Female,Germany,Europe,1980-07-20,Investment,No,Website,3.0,Very High,241195.81,2
+CL101111,Individual,Male,Canada,North America,1971-09-08,Investment,Yes,Broker,3.0,Very High,350319.97,3
+CL101112,Individual,Male,India,South Asia,1997-01-16,Personal Use,Yes,Broker,3.0,Medium,46766.88,1
+CL101113,Corporate,Male,India,South Asia,1981-01-22,Investment,No,Website,3.0,High,287055.51,5
+CL101114,Individual,Female,Canada,North America,1973-08-18,Personal Use,No,Referral,4.0,Very High,870425.61,1
+CL101115,Individual,Male,Nepal,South Asia,1980-03-24,Personal Use,No,Broker,4.0,Very High,515341.49,1
+CL101116,Individual,Female,United States,North America,2000-07-14,Investment,Yes,Broker,3.0,Very High,458067.5,3
+CL101117,Corporate,Female,France,Europe,1985-03-23,Investment,No,Investment Event,4.0,High,832239.5,1
+CL101118,Corporate,Female,Saudi Arabia,Middle East,1993-05-15,Business Use,Yes,Referral,3.0,Very High,201740.13,4
+CL101119,Individual,Male,Nepal,South Asia,1998-04-15,Personal Use,Yes,Social Media,3.0,Medium,44848.07,1
+CL101120,Individual,Female,Malaysia,East Asia,1976-06-11,Investment,No,Private Banker,4.0,High,596043.03,1
+CL101121,Corporate,Female,Saudi Arabia,Middle East,1999-07-27,Investment,No,Broker,3.0,Very High,338846.23,8
+CL101122,Corporate,Male,United States,North America,1978-01-26,Investment,Yes,Referral,3.0,Very High,260947.37,1
+CL101123,Individual,Male,Germany,Europe,1959-06-02,Investment,No,Referral,4.0,Very High,1054610.62,1
+CL101124,Corporate,Female,Canada,North America,1982-07-06,Investment,No,Broker,3.0,Very High,279105.86,2
+CL101125,Individual,Prefer not to say,Canada,North America,1999-10-15,Personal Use,No,Broker,3.0,Medium,50874.47,1
+CL101126,Individual,Male,Oman,Middle East,2005-08-24,Personal Use,Yes,Referral,4.0,Medium,69571.01,1
+CL101127,Individual,Male,Canada,North America,1992-12-09,Personal Use,Yes,,3.0,Low,49459.51,1
+CL101128,Corporate,Prefer not to say,UAE,Middle East,1990-04-19,Investment,No,Corporate Network,3.0,Very High,522463.36,5
+CL101129,Corporate,Female,Saudi Arabia,Middle East,1998-01-20,Business Use,Yes,Corporate Network,4.0,Very High,439941.99,5
+CL101130,Individual,Male,UAE,Middle East,1990-08-27,Investment,No,Referral,5.0,Very High,416680.34,1
+CL101131,Individual,Female,United Kingdom,Europe,1965-11-21,Personal Use,No,Broker,4.0,Very High,637675.89,1
+CL101132,Individual,Female,France,Europe,1996-01-21,Personal Use,Yes,Broker,2.0,Medium,60580.01,1
+CL101133,Individual,Male,United States,North America,1993-03-14,Investment,No,Broker,4.0,Very High,203861.68,3
+CL101134,Corporate,Male,Japan,East Asia,1989-06-26,Investment,No,Corporate Network,4.0,Very High,349083.27,2
+CL101135,Individual,Non-binary,UAE,Middle East,1976-01-08,Investment,No,Broker,3.0,Very High,987228.7,2
+CL101136,Individual,Female,Canada,North America,1994-10-13,Personal Use,Yes,Social Media,3.0,Medium,91290.84,1
+CL101137,Individual,Female,Sri Lanka,South Asia,1998-05-24,Personal Use,Yes,Website,3.0,Medium,45606.68,1
+CL101138,Individual,Male,Sri Lanka,South Asia,1987-08-11,Personal Use,Yes,Social Media,3.0,Low,25000.0,1
+CL101139,Individual,Female,Oman,Middle East,1983-12-14,Investment,No,Broker,4.0,Very High,318751.59,3
+CL101140,Corporate,Female,United States,North America,1975-11-19,Investment,No,Referral,4.0,High,600747.67,2
+CL101141,Individual,Female,India,South Asia,1997-04-10,Personal Use,Yes,Website,2.0,Medium,72180.73,1
+CL101142,Corporate,Male,Japan,East Asia,1979-11-22,Business Use,No,Referral,3.0,Very High,1959717.04,5
+CL101143,Individual,Female,Oman,Middle East,1980-08-08,Personal Use,No,Private Banker,5.0,High,556060.93,2
+CL101144,Individual,Female,Oman,Middle East,1971-11-03,Personal Use,No,Referral,4.0,High,1172520.52,1
+CL101145,Individual,Male,Qatar,Middle East,2000-10-27,Personal Use,Yes,Social Media,3.0,Medium,60610.4,1
+CL101146,Individual,Male,India,South Asia,1999-10-09,Personal Use,Yes,Broker,2.0,Low,30308.12,1
+CL101147,Corporate,Female,Saudi Arabia,Middle East,1978-04-07,Investment,No,Referral,4.0,High,551105.26,5
+CL101148,Individual,Female,Oman,Middle East,1970-02-27,Investment,No,,4.0,High,395631.62,2
+CL101149,Individual,Male,India,South Asia,1998-10-04,Personal Use,Yes,Website,3.0,Medium,49106.62,1
+CL101150,Individual,Male,Sri Lanka,South Asia,1969-03-10,Personal Use,No,Private Banker,4.0,Very High,344388.07,1
+CL101151,Individual,Male,Saudi Arabia,Middle East,1972-10-06,Investment,No,Broker,3.0,Very High,144297.93,2
+CL101152,Individual,Male,UAE,Middle East,1969-07-01,Investment,No,Private Banker,5.0,Very High,509307.11,2
+CL101153,Individual,Male,Japan,East Asia,1957-01-25,Investment,No,Broker,3.0,High,515656.55,1
+CL101154,Individual,Female,Canada,North America,1981-11-19,Investment,No,Website,4.0,Very High,239219.1,4
+CL101155,Individual,Female,France,Europe,1990-06-10,Personal Use,Yes,Website,4.0,Medium,60236.88,1
+CL101156,Individual,Male,United Kingdom,Europe,1981-10-03,Investment,No,Broker,4.0,Very High,206698.96,3
+CL101157,Individual,Female,Japan,East Asia,1980-08-19,Investment,No,Website,5.0,High,235624.34,4
+CL101158,Corporate,Male,United States,North America,1990-12-19,Investment,Yes,Website,3.0,Very High,162123.83,2
+CL101159,Individual,Female,Nepal,South Asia,1996-06-02,Personal Use,Yes,Website,2.0,Low,98493.09,1
+CL101160,Corporate,Female,Sri Lanka,South Asia,1992-08-12,Investment,No,Broker,4.0,Very High,821966.64,4
+CL101161,Corporate,Male,Netherlands,Europe,1980-05-03,Investment,No,,3.0,Very High,276742.82,2
+CL101162,Corporate,Male,Oman,Middle East,1976-07-21,Investment,No,Broker,3.0,High,495714.98,8
+CL101163,Individual,Male,Canada,North America,1972-12-04,Investment,No,Private Banker,4.0,Very High,865004.13,1
+CL101164,Individual,Male,Netherlands,Europe,1976-11-02,Investment,Yes,Website,3.0,High,230926.06,2
+CL101165,Individual,Male,France,Europe,1983-06-19,Investment,Yes,Referral,4.0,Very High,264486.86,1
+CL101166,Corporate,Female,Germany,Europe,1969-12-21,Investment,No,Private Banker,5.0,Very High,1082163.46,1
+CL101167,Individual,Female,Netherlands,Europe,1958-11-20,Investment,No,,3.0,Very High,546284.65,3
+CL101168,Individual,Female,India,South Asia,1989-12-21,Personal Use,Yes,Broker,3.0,Medium,87976.64,1
+CL101169,Individual,Male,Netherlands,Europe,1963-05-07,Investment,No,Referral,4.0,Very High,303922.46,1
+CL101170,Individual,Male,Canada,North America,1988-04-10,Investment,No,Broker,3.0,Very High,484547.66,1
+CL101171,Individual,Female,Oman,Middle East,1995-08-24,Personal Use,Yes,Website,4.0,Medium,60874.14,1
+CL101172,Corporate,Male,Nepal,South Asia,1985-10-22,Investment,No,Corporate Network,3.0,Very High,574346.73,6
+CL101173,Individual,Male,Canada,North America,1995-04-27,Personal Use,Yes,Website,4.0,Low,50814.56,1
+CL101174,Corporate,Male,Japan,East Asia,1982-07-26,Investment,No,Referral,2.0,Very High,150000.0,4
+CL101175,Individual,Male,United States,North America,1997-08-01,Personal Use,Yes,Referral,4.0,Low,63415.1,1
+CL101176,Corporate,Male,Canada,North America,1986-07-06,Investment,No,Corporate Network,4.0,High,798908.25,5
+CL101177,Individual,,Malaysia,East Asia,1998-08-20,Personal Use,No,Website,2.0,Low,75469.14,1
+CL101178,Individual,Male,Malaysia,East Asia,1986-04-27,Personal Use,Yes,Broker,3.0,High,48884.25,1
+CL101179,Individual,Male,United States,North America,1973-01-22,Investment,Yes,Broker,3.0,High,317877.88,1
+CL101180,Corporate,Male,Canada,North America,1977-06-20,Investment,Yes,Investment Event,4.0,High,277028.31,3
+CL101181,Corporate,Female,United States,North America,1981-02-11,Business Use,No,Broker,5.0,High,150000.0,3
+CL101182,Individual,Male,Sri Lanka,South Asia,1984-02-08,Investment,No,Broker,3.0,High,210963.28,2
+CL101183,Individual,Male,France,Europe,1967-12-16,Investment,No,Broker,4.0,High,313171.03,1
+CL101184,Corporate,Female,Canada,North America,1988-10-01,Investment,No,Referral,3.0,Very High,471619.28,2
+CL101185,Individual,Male,Netherlands,Europe,1971-04-02,Investment,No,Referral,3.0,Very High,331885.31,1
+CL101186,Individual,Male,Japan,East Asia,1970-11-05,Investment,No,,3.0,Very High,1305633.15,1
+CL101187,Individual,Male,France,Europe,2003-07-06,Personal Use,No,Social Media,4.0,Medium,40207.49,1
+CL101188,Corporate,Female,UAE,Middle East,1988-11-27,Investment,No,Private Banker,4.0,Very High,875681.21,1
+CL101189,Individual,Female,Netherlands,Europe,1982-04-26,Investment,No,Broker,4.0,High,229669.71,1
+CL101190,Corporate,Male,United Kingdom,Europe,1978-11-18,Investment,No,Website,4.0,Very High,672045.63,5
+CL101191,Individual,Male,Canada,North America,1991-12-05,Personal Use,Yes,Social Media,3.0,High,30750.8,1
+CL101192,Individual,Male,Nepal,South Asia,1990-12-13,Personal Use,Yes,Website,4.0,Medium,72616.51,1
+CL101193,Individual,Male,Singapore,East Asia,1979-08-24,Investment,Yes,Referral,4.0,Very High,1017893.25,1
+CL101194,Individual,Female,Qatar,Middle East,1971-11-17,Investment,No,Private Banker,3.0,Very High,789309.98,2
+CL101195,Corporate,Male,Netherlands,Europe,1957-07-03,Investment,No,Referral,4.0,Very High,575776.58,2
+CL101196,Individual,Male,France,Europe,1988-05-13,Investment,No,Investment Event,4.0,Very High,195271.77,3
+CL101197,Individual,Female,Canada,North America,1979-03-02,Investment,No,Investment Event,4.0,Very High,304506.15,1
+CL101198,Corporate,Male,Germany,Europe,1981-12-20,Investment,Yes,Corporate Network,4.0,Very High,471172.17,3
+CL101199,Individual,Male,Nepal,South Asia,1991-10-23,Personal Use,Yes,Website,3.0,Low,44973.24,1
+CL101200,Corporate,Female,Canada,North America,1991-12-23,Investment,No,Referral,3.0,Very High,870027.53,5
+CL101201,Individual,Male,Netherlands,Europe,2001-06-06,Personal Use,No,Broker,3.0,Medium,100714.74,1
+CL101202,Individual,Female,United Kingdom,Europe,1996-08-24,Personal Use,Yes,Referral,3.0,Medium,65984.45,1
+CL101203,Corporate,Male,Bangladesh,South Asia,1973-06-10,Investment,No,Website,5.0,Very High,402210.46,1
+CL101204,Corporate,Female,Nepal,South Asia,1972-01-17,Business Use,No,Referral,3.0,Very High,683089.23,3
+CL101205,Individual,Female,United Kingdom,Europe,1989-01-26,Investment,No,Broker,3.0,Very High,326296.14,1
+CL101206,Individual,Female,United Kingdom,Europe,1966-08-13,Investment,No,Broker,3.0,Very High,125985.23,2
+CL101207,Corporate,Male,United States,North America,1980-04-16,Investment,Yes,Corporate Network,3.0,High,429441.61,4
+CL101208,Individual,Male,Oman,Middle East,2001-04-01,Personal Use,Yes,Website,3.0,High,133833.35,1
+CL101209,Individual,Female,India,South Asia,1993-02-26,Personal Use,Yes,Broker,4.0,Medium,86067.05,1
+CL101210,Individual,Male,Nepal,South Asia,1990-04-17,Personal Use,Yes,Website,4.0,High,53305.54,1
+CL101211,Corporate,Male,United Kingdom,Europe,1995-02-14,Investment,No,Broker,4.0,Very High,1128172.45,4
+CL101212,Individual,Female,Saudi Arabia,Middle East,1979-01-07,Personal Use,No,Referral,4.0,Very High,371919.7,1
+CL101213,Individual,Male,Germany,Europe,1990-06-12,Personal Use,Yes,Website,4.0,Medium,72975.65,1
+CL101214,Individual,Female,India,South Asia,1996-02-18,Personal Use,Yes,,4.0,Medium,78967.69,1
+CL101215,Individual,Female,United States,North America,1997-06-03,Personal Use,Yes,Broker,2.0,Medium,84356.78,1
+CL101216,Individual,Female,Germany,Europe,2005-06-04,Personal Use,Yes,Website,4.0,Medium,62734.68,1
+CL101217,Individual,Male,Malaysia,East Asia,1989-07-14,Personal Use,Yes,Referral,2.0,Medium,57087.2,1
+CL101218,Individual,Male,Canada,North America,2004-04-01,Personal Use,Yes,Referral,3.0,Medium,42836.25,1
+CL101219,Corporate,Female,Japan,East Asia,1976-08-14,Business Use,No,Referral,4.0,High,206723.05,6
+CL101220,Individual,Female,United States,North America,1989-11-05,Investment,No,Investment Event,5.0,High,564620.15,1
+CL101221,Individual,Female,Malaysia,East Asia,1974-06-09,Investment,No,Investment Event,4.0,Very High,236018.69,1
+CL101222,Corporate,Male,Netherlands,Europe,1968-03-18,Investment,No,Broker,2.0,Very High,166688.73,2
+CL101223,Individual,Female,Canada,North America,1982-06-09,Personal Use,Yes,Referral,4.0,High,737732.26,1
+CL101224,Corporate,Male,Netherlands,Europe,1980-12-14,Business Use,Yes,Referral,3.0,High,400793.62,8
+CL101225,Corporate,Male,Canada,North America,1988-11-18,Investment,No,Website,4.0,High,363933.12,4
+CL101226,Individual,Male,Canada,North America,1969-02-16,Investment,Yes,Broker,4.0,High,496516.98,1
+CL101227,Individual,Male,Qatar,Middle East,2005-02-23,Personal Use,Yes,Website,4.0,Medium,67760.86,1
+CL101228,Individual,Male,India,South Asia,1993-03-26,Personal Use,Yes,Broker,4.0,Medium,105531.75,1
+CL101229,Individual,Male,France,Europe,1957-10-24,Investment,No,Broker,5.0,Very High,398312.18,1
+CL101230,Corporate,Female,Saudi Arabia,Middle East,1967-04-12,Investment,No,Investment Event,3.0,High,208651.27,1
+CL101231,Individual,Male,United Kingdom,Europe,1970-02-19,Investment,No,Website,3.0,Very High,297876.97,1
+CL101232,Individual,Male,India,South Asia,1999-08-02,Personal Use,Yes,Social Media,3.0,Low,54802.34,1
+CL101233,Corporate,Male,United Kingdom,Europe,1989-02-16,Investment,No,Investment Event,5.0,Very High,395048.89,4
+CL101234,Corporate,Female,Qatar,Middle East,1974-01-18,Investment,Yes,Corporate Network,3.0,High,150000.0,4
+CL101235,Individual,Male,United States,North America,1984-05-06,Investment,No,Broker,3.0,High,277704.79,1
+CL101236,Individual,Female,United States,North America,1985-03-02,Investment,No,Broker,3.0,High,197985.39,3
+CL101237,Individual,Male,Netherlands,Europe,1985-04-23,Investment,No,Broker,5.0,High,239146.24,2
+CL101238,Individual,Male,Sri Lanka,South Asia,1998-03-07,Personal Use,Yes,Broker,3.0,High,45778.16,1
+CL101239,Individual,Male,United States,North America,1986-04-27,Investment,No,Referral,4.0,High,253579.98,1
+CL101240,Individual,Male,Qatar,Middle East,1971-11-02,Investment,Yes,Broker,,Very High,234553.84,3
+CL101241,Individual,Male,United Kingdom,Europe,1979-08-24,Investment,No,Website,4.0,Very High,415227.12,2
+CL101242,Individual,Female,Bangladesh,South Asia,1996-06-20,Personal Use,Yes,Website,4.0,High,131830.06,1
+CL101243,Individual,Female,Nepal,South Asia,2001-03-12,Personal Use,No,Website,3.0,Medium,65808.74,1
+CL101244,Individual,Male,Bangladesh,South Asia,1990-02-22,Investment,No,Investment Event,3.0,High,152063.66,2
+CL101245,Individual,Male,Japan,East Asia,1990-10-05,Personal Use,No,Website,3.0,Medium,88227.82,1
+CL101246,Individual,Female,India,South Asia,2003-07-03,Personal Use,Yes,Referral,4.0,Medium,57954.63,1
+CL101247,Corporate,Male,India,South Asia,1979-12-03,Business Use,Yes,Referral,3.0,High,299046.25,4
+CL101248,Individual,Female,United States,North America,2001-04-17,Investment,No,Broker,3.0,High,277681.06,1
+CL101249,Individual,Female,Nepal,South Asia,1982-12-01,Investment,No,Private Banker,4.0,Very High,976072.97,1
+CL101250,Corporate,Male,United Kingdom,Europe,1981-02-12,Investment,No,Broker,3.0,High,519700.07,1
+CL101251,Individual,Female,France,Europe,1978-04-27,Investment,No,Broker,4.0,Very High,380713.46,1
+CL101252,Individual,Male,Canada,North America,1964-07-09,Investment,No,Referral,3.0,Very High,246430.37,3
+CL101253,Individual,Male,Nepal,South Asia,1986-12-03,Investment,No,Investment Event,4.0,Very High,311156.04,1
+CL101254,Corporate,Male,United States,North America,1995-01-24,Investment,Yes,Broker,4.0,High,978687.87,2
+CL101255,Individual,Male,Saudi Arabia,Middle East,1993-12-08,Investment,No,Broker,3.0,High,343169.33,1
+CL101256,Individual,Male,Qatar,Middle East,1981-10-12,Investment,No,Private Banker,4.0,Very High,843510.05,2
+CL101257,Corporate,Male,UAE,Middle East,1980-01-02,Investment,No,Referral,3.0,High,477525.84,4
+CL101258,Corporate,Male,United States,North America,1969-11-09,Personal Use,No,Website,5.0,Very High,428137.1,1
+CL101259,Individual,Male,Germany,Europe,1998-04-09,Personal Use,Yes,Referral,3.0,Medium,39179.02,1
+CL101260,Individual,Female,United States,North America,1982-10-21,Personal Use,No,Referral,4.0,Very High,250000.0,1
+CL101261,Individual,Male,United States,North America,1980-01-06,Investment,Yes,Referral,4.0,High,148812.42,1
+CL101262,Individual,Female,Sri Lanka,South Asia,1992-12-04,Personal Use,Yes,Website,2.0,Medium,109950.86,1
+CL101263,Individual,Female,United States,North America,2005-02-24,Personal Use,Yes,Website,3.0,High,36665.64,1
+CL101264,Individual,Male,Germany,Europe,1986-12-22,Investment,No,Website,4.0,Very High,372722.77,1
+CL101265,Individual,Male,United Kingdom,Europe,1989-02-14,Personal Use,Yes,Website,3.0,Medium,105148.12,1
+CL101266,Individual,Male,Germany,Europe,1983-01-22,Investment,No,Referral,4.0,Very High,617695.52,1
+CL101267,Individual,Female,UAE,Middle East,1975-12-24,Investment,No,Broker,4.0,Very High,209907.6,2
+CL101268,Individual,Male,Netherlands,Europe,1979-09-11,Personal Use,No,Referral,4.0,Very High,1442621.19,2
+CL101269,Individual,Male,Netherlands,Europe,1997-09-10,Personal Use,No,Referral,4.0,Low,87719.35,1
+CL101270,Individual,Male,Japan,East Asia,1988-09-07,Personal Use,No,Website,3.0,Medium,57948.6,1
+CL101271,Individual,Male,Qatar,Middle East,1974-10-05,Personal Use,Yes,Private Banker,3.0,Very High,1116416.52,1
+CL101272,Individual,Male,UAE,Middle East,2003-09-15,Personal Use,Yes,Social Media,3.0,Low,58359.83,1
+CL101273,Individual,Female,Netherlands,Europe,1999-01-22,Personal Use,Yes,Website,2.0,Medium,71382.02,1
+CL101274,Individual,Male,Qatar,Middle East,1994-08-11,Personal Use,Yes,Social Media,3.0,Medium,37845.62,1
+CL101275,Corporate,Female,Nepal,South Asia,1981-08-17,Investment,Yes,Website,3.0,High,283395.69,3
+CL101276,Individual,Male,Sri Lanka,South Asia,1987-05-04,Personal Use,Yes,Social Media,3.0,Medium,48738.99,1
+CL101277,Individual,Female,Canada,North America,1974-12-13,Investment,No,Broker,4.0,High,211044.93,1
+CL101278,Individual,Female,Netherlands,Europe,1977-05-17,Investment,Yes,Broker,4.0,Very High,245070.68,3
+CL101279,Corporate,Female,Canada,North America,1977-09-09,Investment,No,Referral,3.0,Very High,510871.64,2
+CL101280,Individual,Male,United States,North America,1998-06-01,Personal Use,Yes,Website,2.0,Medium,52395.82,1
+CL101281,Individual,Female,Germany,Europe,1991-08-23,Personal Use,Yes,Website,2.0,Medium,62772.89,1
+CL101282,Individual,Female,Singapore,East Asia,1987-11-27,Personal Use,Yes,Referral,3.0,Medium,57237.29,1
+CL101283,Individual,Prefer not to say,UAE,Middle East,1998-02-11,Personal Use,No,Social Media,4.0,Medium,97032.13,1
+CL101284,Corporate,Male,Qatar,Middle East,1983-02-23,Business Use,No,Corporate Network,2.0,High,227251.84,5
+CL101285,Individual,Male,United Kingdom,Europe,1978-11-08,Personal Use,No,Website,5.0,Very High,432090.87,1
+CL101286,Individual,Male,Saudi Arabia,Middle East,1979-08-21,Personal Use,No,Broker,4.0,High,256695.04,1
+CL101287,Individual,Female,Sri Lanka,South Asia,2000-03-21,Personal Use,Yes,Broker,4.0,Medium,57841.27,1
+CL101288,Individual,Female,Bangladesh,South Asia,1992-07-11,Personal Use,Yes,Social Media,3.0,Medium,90103.49,1
+CL101289,Individual,Male,Bangladesh,South Asia,1988-11-13,Personal Use,Yes,Broker,4.0,High,63131.42,1
+CL101290,Individual,Male,Bangladesh,South Asia,1984-08-06,Personal Use,Yes,Social Media,2.0,Medium,58391.25,1
+CL101291,Individual,Female,Bangladesh,South Asia,1989-12-04,Personal Use,Yes,Referral,3.0,Medium,42294.54,1
+CL101292,Corporate,Male,United States,North America,1990-11-20,Investment,Yes,Broker,4.0,Very High,892804.13,5
+CL101293,Individual,Male,United States,North America,1999-01-27,Personal Use,Yes,Website,4.0,Medium,108260.65,1
+CL101294,Individual,Female,India,South Asia,1994-03-17,Personal Use,Yes,Website,3.0,Medium,59242.34,1
+CL101295,Individual,Female,Qatar,Middle East,1996-06-27,Personal Use,Yes,Website,2.0,Low,42717.84,1
+CL101296,Individual,Female,France,Europe,1996-01-12,Personal Use,No,Social Media,3.0,High,85594.84,1
+CL101297,Individual,Male,Singapore,East Asia,1969-04-16,Investment,No,Investment Event,3.0,Very High,188007.55,1
+CL101298,Individual,Male,Canada,North America,1990-02-03,Investment,No,Investment Event,4.0,High,264016.23,1
+CL101299,Corporate,Male,Sri Lanka,South Asia,1978-05-26,Investment,No,Website,4.0,High,340645.74,8
+CL101300,Individual,Female,Canada,North America,1994-06-26,Personal Use,Yes,Broker,4.0,Medium,80241.69,1
+CL101301,Individual,Male,Japan,East Asia,1970-02-03,Investment,No,Broker,4.0,Very High,219849.13,3
+CL101302,Individual,Female,India,South Asia,2001-01-05,Personal Use,No,Website,3.0,High,48217.63,1
+CL101303,Corporate,Female,Netherlands,Europe,1982-12-05,Investment,No,Corporate Network,3.0,Very High,533548.52,6
+CL101304,Individual,Female,Netherlands,Europe,2003-06-11,Personal Use,Yes,Broker,4.0,Medium,34056.79,1
+CL101305,Corporate,Female,France,Europe,1987-06-27,Investment,Yes,Private Banker,4.0,High,822400.65,2
+CL101306,Individual,Male,France,Europe,1983-08-07,Investment,No,Private Banker,4.0,Very High,647251.31,1
+CL101307,Individual,Female,United States,North America,1998-09-17,Personal Use,Yes,Social Media,2.0,Low,62437.31,1
+CL101308,Corporate,Male,Canada,North America,1986-06-15,Investment,Yes,Website,4.0,Very High,367188.71,5
+CL101309,Corporate,Male,United Kingdom,Europe,1991-11-25,Investment,Yes,Broker,3.0,High,311198.47,1
+CL101310,Individual,Male,Sri Lanka,South Asia,1965-04-21,Personal Use,No,Website,5.0,Very High,515478.49,1
+CL101311,Individual,Male,Netherlands,Europe,2000-05-27,Personal Use,Yes,Broker,4.0,Low,45772.37,1
+CL101312,Individual,Male,Qatar,Middle East,1969-09-05,Investment,No,Referral,5.0,Very High,642039.58,1
+CL101313,Individual,Female,Singapore,East Asia,2005-08-11,Personal Use,No,Social Media,3.0,Medium,127382.49,1
+CL101314,Corporate,Female,Oman,Middle East,1981-10-06,Investment,No,Investment Event,3.0,High,228902.82,1
+CL101315,Individual,Non-binary,Canada,North America,1983-08-17,Investment,No,Investment Event,5.0,Very High,383073.73,1
+CL101316,Corporate,Female,Malaysia,East Asia,1968-01-26,Investment,No,Corporate Network,3.0,Very High,305069.07,5
+CL101317,Individual,Female,United States,North America,2000-04-27,Personal Use,Yes,Website,3.0,Medium,40910.42,1
+CL101318,Individual,Female,Germany,Europe,2000-05-09,Investment,Yes,Referral,3.0,Very High,188300.97,3
+CL101319,Corporate,Prefer not to say,United States,North America,1984-04-15,Business Use,Yes,Corporate Network,4.0,High,320762.5,3
+CL101320,Individual,Male,Germany,Europe,1980-08-23,Investment,No,Referral,4.0,Very High,760945.41,1
+CL101321,Individual,Male,United States,North America,1997-12-16,Personal Use,Yes,Referral,3.0,Low,35310.59,1
+CL101322,Individual,Female,Bangladesh,South Asia,1997-09-13,Personal Use,Yes,Website,3.0,Medium,60740.27,1
+CL101323,Individual,Female,Canada,North America,1975-05-10,Investment,No,Investment Event,3.0,Very High,615622.85,1
+CL101324,Corporate,Male,Malaysia,East Asia,1971-12-11,Investment,Yes,Corporate Network,4.0,High,759792.36,2
+CL101325,Individual,Female,India,South Asia,1995-10-12,Personal Use,No,Website,2.0,High,35242.26,1
+CL101326,Individual,Male,Sri Lanka,South Asia,1981-03-25,Personal Use,No,Broker,4.0,High,738727.47,1
+CL101327,Individual,Female,United Kingdom,Europe,1998-09-26,Personal Use,No,Social Media,3.0,High,37475.02,1
+CL101328,Individual,Male,UAE,Middle East,2001-02-22,Personal Use,No,Website,2.0,Low,47594.22,1
+CL101329,Individual,Male,Saudi Arabia,Middle East,1996-07-16,Personal Use,Yes,Social Media,4.0,Medium,45036.85,1
+CL101330,Individual,Male,France,Europe,1989-07-20,Investment,No,Broker,4.0,High,112847.08,2
+CL101331,Corporate,Male,Canada,North America,1983-06-05,Investment,Yes,Broker,4.0,Very High,491069.35,6
+CL101332,Individual,Male,Nepal,South Asia,1992-08-03,Personal Use,Yes,Social Media,5.0,High,104146.79,1
+CL101333,Individual,Male,India,South Asia,1990-02-21,Personal Use,Yes,Website,3.0,High,40980.57,1
+CL101334,Individual,Male,Bangladesh,South Asia,1975-05-03,Investment,No,Private Banker,5.0,Very High,1050461.38,1
+CL101335,Corporate,Prefer not to say,United States,North America,1974-01-18,Investment,No,Referral,5.0,Very High,483581.98,1
+CL101336,Individual,Male,Nepal,South Asia,1970-05-09,Investment,No,Website,4.0,High,447581.44,1
+CL101337,Individual,Female,Canada,North America,1991-09-21,Investment,Yes,Referral,3.0,High,273738.81,1
+CL101338,Individual,Male,Malaysia,East Asia,1987-08-24,Personal Use,Yes,Social Media,4.0,Low,96702.4,1
+CL101339,Corporate,Female,France,Europe,1969-06-02,Personal Use,No,Website,4.0,High,352021.32,1
+CL101340,Individual,Female,United States,North America,1998-06-18,Personal Use,Yes,Social Media,3.0,Medium,62133.85,1
+CL101341,Corporate,Male,India,South Asia,1964-04-10,Investment,No,Investment Event,4.0,Very High,437056.84,1
+CL101342,Individual,Female,United Kingdom,Europe,1967-12-14,Investment,Yes,Broker,4.0,Very High,515747.24,3
+CL101343,Individual,Male,Canada,North America,1993-09-26,Personal Use,Yes,Referral,5.0,Medium,60680.03,1
+CL101344,Individual,Male,Bangladesh,South Asia,1999-05-10,Personal Use,Yes,Social Media,3.0,Medium,62812.11,1
+CL101345,Individual,Male,Canada,North America,1973-08-02,Investment,No,Private Banker,5.0,Very High,400759.24,3
+CL101346,Corporate,Female,UAE,Middle East,1974-01-02,Investment,No,Broker,3.0,High,623024.17,8
+CL101347,Individual,Female,Bangladesh,South Asia,1994-07-05,Personal Use,Yes,Broker,3.0,High,54346.45,1
+CL101348,Individual,Male,Bangladesh,South Asia,1993-05-26,Personal Use,Yes,Broker,3.0,Medium,58614.78,1
+CL101349,Individual,Male,Germany,Europe,1989-06-18,Personal Use,Yes,Broker,4.0,Low,143402.39,1
+CL101350,Individual,Male,Saudi Arabia,Middle East,1977-06-05,Investment,Yes,Investment Event,3.0,High,257471.55,1
+CL101351,Corporate,Female,Germany,Europe,1978-12-27,Investment,Yes,Corporate Network,3.0,Very High,294140.73,6
+CL101352,Individual,Female,Saudi Arabia,Middle East,1976-03-24,Personal Use,No,Referral,4.0,Very High,465353.66,2
+CL101353,Individual,Female,Bangladesh,South Asia,1997-11-20,Personal Use,Yes,Broker,4.0,Medium,65128.65,1
+CL101354,Individual,Male,Bangladesh,South Asia,1998-10-13,Personal Use,Yes,Broker,4.0,High,59348.42,1
+CL101355,Individual,Female,Qatar,Middle East,1969-10-12,Investment,No,Broker,4.0,High,285905.93,3
+CL101356,Individual,Female,Germany,Europe,1984-09-05,Investment,No,Broker,5.0,Very High,278222.22,4
+CL101357,Individual,Female,France,Europe,1991-06-17,Personal Use,Yes,Website,4.0,Low,82203.75,1
+CL101358,Individual,Female,United States,North America,2005-07-23,Personal Use,Yes,Social Media,3.0,Medium,73995.18,1
+CL101359,Corporate,Male,Canada,North America,1994-01-25,Investment,Yes,Broker,4.0,High,220124.44,2
+CL101360,Individual,Male,Oman,Middle East,1983-05-25,Investment,No,Website,3.0,High,599406.59,4
+CL101361,Corporate,Female,Germany,Europe,1991-04-04,Investment,No,Corporate Network,4.0,High,206338.77,6
+CL101362,Individual,Male,Sri Lanka,South Asia,1996-02-05,Personal Use,Yes,Referral,4.0,Low,58973.97,1
+CL101363,Corporate,Female,Malaysia,East Asia,1982-01-06,Investment,No,Corporate Network,4.0,High,565485.44,3
+CL101364,Individual,Male,United States,North America,1967-11-14,Investment,No,Investment Event,3.0,Very High,217882.0,2
+CL101365,Individual,Female,Germany,Europe,1993-04-13,Personal Use,Yes,Website,4.0,Medium,51614.25,1
+CL101366,Individual,Male,Sri Lanka,South Asia,1996-04-01,Personal Use,Yes,Referral,3.0,Medium,30741.95,1
+CL101367,Individual,Male,United Kingdom,Europe,1966-05-02,Investment,No,Referral,3.0,Very High,246964.37,3
+CL101368,Individual,Female,Canada,North America,1984-01-05,Investment,No,Broker,3.0,High,187076.84,1
+CL101369,Corporate,Male,Oman,Middle East,1977-07-04,Investment,No,Website,5.0,High,302349.95,1
+CL101370,Individual,Male,Sri Lanka,South Asia,2003-04-22,Personal Use,Yes,Website,3.0,Medium,51609.75,1
+CL101371,Individual,Female,Sri Lanka,South Asia,1976-10-04,Investment,No,Broker,3.0,High,178180.2,4
+CL101372,Individual,Female,France,Europe,1978-02-23,Investment,No,Broker,4.0,High,964150.76,1
+CL101373,Individual,Male,Canada,North America,1998-05-13,Personal Use,Yes,Referral,3.0,Medium,49427.32,1
+CL101374,Individual,Female,Qatar,Middle East,1969-10-11,Investment,No,Referral,4.0,Very High,512608.82,1
+CL101375,Individual,Female,Nepal,South Asia,1990-08-17,Investment,No,Broker,4.0,Very High,961479.37,1
+CL101376,Individual,Male,Qatar,Middle East,1984-09-22,Investment,No,Website,4.0,High,444686.07,2
+CL101377,Corporate,Non-binary,Japan,East Asia,1983-03-26,Business Use,Yes,Corporate Network,3.0,Very High,525498.84,4
+CL101378,Individual,Male,Canada,North America,1981-09-18,Investment,No,Private Banker,4.0,Very High,464601.4,1
+CL101379,Corporate,Male,Qatar,Middle East,1975-07-21,Investment,No,Broker,5.0,High,451816.42,4
+CL101380,Individual,Prefer not to say,Nepal,South Asia,1991-07-05,Personal Use,No,Broker,4.0,High,62409.07,1
+CL101381,Individual,Male,Malaysia,East Asia,1995-12-21,Personal Use,Yes,Social Media,3.0,High,55678.79,1
+CL101382,Individual,Male,United States,North America,1981-05-18,Investment,No,Referral,2.0,Very High,124575.37,1
+CL101383,Individual,Male,Nepal,South Asia,1997-08-26,Personal Use,Yes,Social Media,4.0,Medium,92251.9,1
+CL101384,Individual,Male,Saudi Arabia,Middle East,1981-10-23,Personal Use,No,Website,4.0,Very High,567600.49,1
+CL101385,Individual,Male,Canada,North America,1975-08-14,Personal Use,No,Broker,4.0,Very High,520243.92,1
+CL101386,Individual,Male,United States,North America,1980-08-10,Investment,Yes,Website,4.0,Very High,145244.96,1
+CL101387,Corporate,Male,UAE,Middle East,1988-05-02,Investment,No,Corporate Network,3.0,High,434029.3,2
+CL101388,Individual,Male,Nepal,South Asia,1996-10-23,Personal Use,No,Broker,3.0,Medium,34207.35,1
+CL101389,Individual,Non-binary,Canada,North America,1980-02-06,Investment,No,Website,4.0,Very High,457857.16,1
+CL101390,Individual,Male,United States,North America,1993-04-08,Investment,Yes,Broker,5.0,High,561860.48,1
+CL101391,Individual,Prefer not to say,Qatar,Middle East,1974-09-11,Personal Use,No,Private Banker,4.0,Very High,1001148.13,1
+CL101392,Individual,Male,Japan,East Asia,1966-11-13,Investment,No,Broker,4.0,High,602850.43,1
+CL101393,Individual,,France,Europe,1975-05-04,Investment,No,Broker,,High,289082.29,1
+CL101394,Individual,Female,United States,North America,1969-10-03,Investment,No,Broker,3.0,Very High,226496.94,1
+CL101395,Individual,Male,United Kingdom,Europe,1981-08-17,Investment,No,Private Banker,3.0,Very High,353418.69,1
+CL101396,Individual,Female,Japan,East Asia,1980-10-04,Investment,Yes,Investment Event,4.0,Very High,171196.37,4
+CL101397,Individual,Female,Bangladesh,South Asia,1992-10-03,Personal Use,No,Referral,5.0,Medium,45030.87,1
+CL101398,Individual,Male,Qatar,Middle East,1976-05-21,Personal Use,No,Private Banker,4.0,High,511551.48,3
+CL101399,Individual,Male,Japan,East Asia,1991-10-27,Personal Use,Yes,Social Media,3.0,Low,48371.15,1
+CL101400,Individual,Male,Germany,Europe,2000-03-26,Personal Use,Yes,Website,3.0,Medium,51853.05,1
+CL101401,Individual,Male,Bangladesh,South Asia,1991-07-26,Personal Use,Yes,Social Media,2.0,Low,116220.37,1
+CL101402,Individual,Male,Canada,North America,1986-12-14,Investment,Yes,Broker,,Very High,419807.25,3
+CL101403,Individual,Female,Saudi Arabia,Middle East,1976-08-27,Personal Use,No,Broker,5.0,Very High,762290.27,1
+CL101404,Individual,Male,Qatar,Middle East,1999-10-20,Personal Use,Yes,Website,3.0,Medium,43585.75,1
+CL101405,Individual,Male,Canada,North America,1985-02-26,Investment,No,Broker,4.0,High,200658.98,1
+CL101406,Individual,Female,Bangladesh,South Asia,2005-10-27,Personal Use,Yes,Social Media,4.0,Medium,45065.32,1
+CL101407,Individual,Female,Canada,North America,1975-07-12,Investment,No,Private Banker,4.0,Very High,423441.18,3
+CL101408,Corporate,Female,Germany,Europe,1989-04-25,Investment,No,Website,3.0,High,191127.89,1
+CL101409,Individual,Male,United Kingdom,Europe,1972-04-08,Investment,No,Referral,5.0,Very High,846380.0,2
+CL101410,Corporate,Male,Malaysia,East Asia,1989-11-12,Investment,No,Referral,3.0,Very High,221402.14,4
+CL101411,Individual,Male,United Kingdom,Europe,1983-09-15,Investment,No,Referral,4.0,Very High,850291.55,3
+CL101412,Corporate,Female,Singapore,East Asia,1971-10-03,Investment,No,Private Banker,3.0,Very High,752104.64,3
+CL101413,Individual,Female,United States,North America,1965-08-04,Investment,No,Referral,4.0,Very High,741226.97,1
+CL101414,Individual,Male,Oman,Middle East,1961-06-27,Investment,No,Broker,4.0,Very High,1780764.82,1
+CL101415,Individual,Male,United States,North America,1976-08-15,Investment,No,Referral,3.0,Very High,443299.17,1
+CL101416,Corporate,Male,Qatar,Middle East,1984-11-03,Investment,No,Corporate Network,3.0,Very High,524310.77,5
+CL101417,Individual,Female,Nepal,South Asia,1993-04-24,Personal Use,Yes,Social Media,3.0,Low,66077.71,1
+CL101418,Individual,Female,United States,North America,2001-03-18,Personal Use,Yes,Referral,2.0,Medium,71656.7,1
+CL101419,Individual,Female,Qatar,Middle East,1977-11-12,Personal Use,No,Website,,Very High,433674.04,1
+CL101420,Individual,Male,Canada,North America,1965-01-15,Personal Use,No,Private Banker,4.0,Very High,580604.59,2
+CL101421,Corporate,Female,United States,North America,1984-03-02,Business Use,No,Broker,4.0,Very High,746973.52,5
+CL101422,Individual,Male,UAE,Middle East,1986-03-10,Personal Use,Yes,Website,3.0,Medium,87119.34,1
+CL101423,Individual,Male,United Kingdom,Europe,2004-11-25,Personal Use,Yes,Social Media,4.0,Medium,47260.97,1
+CL101424,Individual,Male,Saudi Arabia,Middle East,2005-03-08,Personal Use,Yes,Social Media,3.0,Medium,109612.86,1
+CL101425,Individual,Female,United Kingdom,Europe,1987-01-16,Personal Use,Yes,Website,2.0,Medium,51021.48,1
+CL101426,Individual,Male,Singapore,East Asia,1990-03-10,Personal Use,Yes,Social Media,4.0,High,88179.36,1
+CL101427,Individual,Male,Canada,North America,1977-03-23,Investment,No,Broker,3.0,High,312922.99,1
+CL101428,Corporate,Male,Germany,Europe,1980-09-06,Investment,No,Referral,4.0,Very High,196510.65,3
+CL101429,Corporate,Male,Germany,Europe,1977-11-21,Investment,No,Referral,2.0,Very High,402434.29,5
+CL101430,Individual,Female,United States,North America,1996-05-23,Personal Use,Yes,Website,4.0,Low,63242.54,1
+CL101431,Individual,Male,United States,North America,1975-12-04,Investment,No,Private Banker,4.0,Very High,1435829.82,1
+CL101432,Corporate,Male,Qatar,Middle East,1983-10-15,Investment,No,Referral,4.0,Very High,463033.31,5
+CL101433,Individual,Male,Canada,North America,1987-12-19,Investment,Yes,Broker,3.0,Very High,226614.99,3
+CL101434,Individual,Male,Germany,Europe,1992-12-25,Investment,No,Referral,3.0,Very High,327395.54,2
+CL101435,Individual,Female,Singapore,East Asia,1983-10-18,Investment,No,Website,5.0,Very High,135432.14,4
+CL101436,Individual,Male,France,Europe,1973-01-08,Personal Use,No,Broker,4.0,Very High,1072396.39,2
+CL101437,Individual,,Qatar,Middle East,1993-04-02,Investment,No,Referral,4.0,Very High,269661.51,1
+CL101438,Individual,Male,India,South Asia,1993-01-26,Personal Use,Yes,Website,3.0,Medium,89427.49,1
+CL101439,Individual,Male,Bangladesh,South Asia,1972-07-13,Investment,No,Broker,5.0,Very High,849071.93,2
+CL101440,Individual,Female,India,South Asia,1959-09-09,Personal Use,No,Broker,5.0,Very High,250000.0,1
+CL101441,Corporate,Female,Japan,East Asia,1982-01-27,Investment,No,Investment Event,4.0,Very High,233590.77,1
+CL101442,Individual,Male,Canada,North America,1985-08-17,Investment,No,,4.0,Very High,324418.7,4
+CL101443,Individual,Male,Canada,North America,2001-09-08,Investment,No,Referral,3.0,High,534141.41,1
+CL101444,Individual,Male,UAE,Middle East,1985-04-25,Investment,No,Website,3.0,Very High,203698.04,1
+CL101445,Corporate,,India,South Asia,1971-03-06,Investment,Yes,Referral,3.0,Very High,383519.32,2
+CL101446,Individual,Female,Canada,North America,2000-07-01,Personal Use,Yes,Website,3.0,Medium,117321.24,1
+CL101447,Individual,Female,Canada,North America,1965-06-01,Personal Use,No,Broker,4.0,High,625429.01,1
+CL101448,Individual,Female,Nepal,South Asia,1995-11-26,Personal Use,Yes,Social Media,3.0,Medium,52655.08,1
+CL101449,Corporate,Female,Qatar,Middle East,1989-05-13,Business Use,No,Corporate Network,3.0,High,410575.58,2
+CL101450,Individual,Female,United States,North America,1978-06-11,Investment,No,Referral,5.0,High,204353.15,3
+CL101451,Individual,Female,France,Europe,1969-02-12,Investment,No,Referral,4.0,Very High,1643114.65,1
+CL101452,Corporate,Male,Qatar,Middle East,1978-02-04,Investment,Yes,Corporate Network,4.0,High,150000.0,6
+CL101453,Corporate,Female,United Kingdom,Europe,1970-02-09,Investment,Yes,Broker,3.0,High,559980.94,1
+CL101454,Individual,Male,India,South Asia,1974-04-10,Investment,No,Private Banker,3.0,Very High,549508.18,1
+CL101455,Individual,Male,Malaysia,East Asia,1994-03-03,Personal Use,Yes,Broker,4.0,Low,52971.02,1
+CL101456,Corporate,Female,Netherlands,Europe,1983-08-06,Investment,No,Investment Event,5.0,Very High,195445.7,1
+CL101457,Corporate,Male,Singapore,East Asia,1961-11-01,Investment,No,Website,3.0,Very High,233287.51,1
+CL101458,Individual,Female,Bangladesh,South Asia,1997-06-11,Personal Use,Yes,Broker,4.0,Medium,90536.79,1
+CL101459,Individual,Male,Sri Lanka,South Asia,1966-05-12,Personal Use,No,Broker,4.0,Very High,1103119.62,1
+CL101460,Individual,Male,Sri Lanka,South Asia,1997-02-14,Personal Use,Yes,Social Media,3.0,Medium,76249.71,1
+CL101461,Corporate,Male,Netherlands,Europe,1986-06-24,Investment,No,Corporate Network,4.0,High,545185.27,2
+CL101462,Individual,Female,Malaysia,East Asia,1987-05-06,Personal Use,No,Broker,4.0,Medium,54413.69,1
+CL101463,Individual,Male,Canada,North America,1987-05-08,Investment,No,Investment Event,3.0,Very High,159492.8,1
+CL101464,Individual,Female,Sri Lanka,South Asia,2001-08-09,Personal Use,Yes,Website,4.0,Medium,99951.41,1
+CL101465,Corporate,Female,United States,North America,1990-03-13,Business Use,No,,4.0,High,279337.83,6
+CL101466,Corporate,Male,Canada,North America,1974-07-25,Investment,Yes,Broker,3.0,Very High,561175.75,6
+CL101467,Individual,Male,Bangladesh,South Asia,1987-05-14,Personal Use,Yes,Social Media,3.0,High,63531.82,1
+CL101468,Individual,Female,Saudi Arabia,Middle East,1984-08-16,Investment,No,Broker,3.0,Very High,315992.85,1
+CL101469,Corporate,Female,Netherlands,Europe,1977-11-13,Investment,Yes,Corporate Network,2.0,Very High,466901.06,5
+CL101470,Corporate,Female,United States,North America,1982-10-24,Investment,No,Investment Event,4.0,High,232453.94,1
+CL101471,Individual,Female,Qatar,Middle East,1979-02-15,Personal Use,No,Referral,4.0,Very High,572234.39,1
+CL101472,Corporate,Male,Japan,East Asia,1985-08-23,Investment,Yes,Website,4.0,Very High,136514.07,3
+CL101473,Individual,Male,United States,North America,1976-03-06,Investment,No,Website,4.0,High,234640.61,3
+CL101474,Individual,Female,India,South Asia,1998-12-23,Personal Use,Yes,Website,3.0,Low,70641.94,1
+CL101475,Individual,Female,Bangladesh,South Asia,1984-06-15,Personal Use,Yes,Social Media,4.0,Medium,56882.24,1
+CL101476,Individual,Male,India,South Asia,2005-02-20,Personal Use,Yes,Broker,3.0,Low,38324.2,1
+CL101477,Individual,Female,Nepal,South Asia,1995-09-18,Personal Use,No,,5.0,Low,67413.35,1
+CL101478,Corporate,Male,Germany,Europe,1976-06-05,Personal Use,No,Private Banker,4.0,Very High,1295638.05,1
+CL101479,Individual,,Sri Lanka,South Asia,1999-04-18,Personal Use,Yes,Broker,4.0,Medium,42542.61,1
+CL101480,Individual,Male,Nepal,South Asia,1998-02-05,Personal Use,No,Referral,4.0,Low,36503.84,1
+CL101481,Individual,Male,Nepal,South Asia,2001-06-16,Personal Use,Yes,Social Media,3.0,Low,64458.34,1
+CL101482,Corporate,Male,Canada,North America,1980-01-07,Investment,No,Referral,2.0,High,259016.04,1
+CL101483,Individual,Female,Japan,East Asia,2002-06-06,Personal Use,Yes,Social Media,3.0,Medium,75976.82,1
+CL101484,Individual,Female,Bangladesh,South Asia,1968-03-04,Investment,No,Referral,4.0,High,218273.05,1
+CL101485,Corporate,Prefer not to say,UAE,Middle East,1970-09-07,Investment,No,Referral,3.0,High,449058.12,8
+CL101486,Corporate,Male,Saudi Arabia,Middle East,1984-12-12,Investment,No,Website,3.0,Very High,263346.34,3
+CL101487,Individual,Male,United States,North America,1972-07-19,Personal Use,No,Referral,4.0,Very High,622939.23,2
+CL101488,Individual,Female,Nepal,South Asia,2003-04-01,Personal Use,Yes,Social Media,3.0,High,64737.78,1
+CL101489,Individual,Female,France,Europe,1974-11-10,Investment,No,Broker,3.0,Very High,899738.57,1
+CL101490,Individual,Female,United States,North America,1984-04-03,Personal Use,Yes,Referral,4.0,High,66961.6,1
+CL101491,Individual,Male,United States,North America,1972-11-08,Investment,Yes,Referral,4.0,Very High,178647.63,1
+CL101492,Individual,Male,Oman,Middle East,1978-06-07,Personal Use,No,Private Banker,4.0,Very High,1090692.78,1
+CL101493,Corporate,Female,Netherlands,Europe,1979-01-15,Investment,No,Broker,4.0,Very High,714820.28,8
+CL101494,Corporate,Female,Nepal,South Asia,1980-01-06,Investment,No,Corporate Network,2.0,Very High,487715.34,8
+CL101495,Individual,Female,Sri Lanka,South Asia,1990-11-17,Personal Use,Yes,Social Media,4.0,Low,38360.34,1
+CL101496,Corporate,Male,France,Europe,1991-06-12,Investment,No,Broker,4.0,Very High,206667.9,4
+CL101497,Individual,Male,Oman,Middle East,1973-12-22,Personal Use,No,Referral,4.0,High,556736.6,1
+CL101498,Corporate,Male,United States,North America,1992-01-11,Investment,No,Referral,,High,224626.02,4
+CL101499,Individual,Male,Bangladesh,South Asia,1990-05-15,Personal Use,Yes,Social Media,4.0,Low,93584.2,1
+CL101500,Corporate,Male,Canada,North America,1974-10-09,Investment,Yes,Website,3.0,High,458675.13,4
+CL101117,Corporate,Female,France,Europe,1985-03-23,Investment,No,Investment Event,4.0,High,832239.5,1
+CL101369,Corporate,Male,Oman,Middle East,1977-07-04,Investment,No,Website,5.0,High,302349.95,1
+CL100423,Individual,Male,United Kingdom,Europe,1993-09-27,Investment,No,Referral,5.0,High,374970.6,4
+CL100414,Individual,Female,Qatar,Middle East,1976-06-01,Personal Use,No,Website,4.0,Very High,419994.05,1
+CL100452,Individual,Male,Nepal,South Asia,1970-01-13,Investment,No,Referral,4.0,Very High,568825.87,1
+CL100862,Corporate,Male,United Kingdom,Europe,1972-06-13,Investment,Yes,Referral,3.0,Very High,349624.13,6
+CL101064,Corporate,Male,Oman,Middle East,1990-09-09,Investment,Yes,Broker,3.0,Very High,412176.33,4
+CL100742,Individual,Female,United Kingdom,Europe,1970-07-09,Investment,Yes,,3.0,High,214322.96,1
+CL101273,Individual,Female,Netherlands,Europe,1999-01-22,Personal Use,Yes,Website,2.0,Medium,71382.02,1
+CL100260,Individual,Male,Bangladesh,South Asia,1998-06-04,Personal Use,Yes,Social Media,3.0,High,53456.51,1
+CL100889,Corporate,Female,United Kingdom,Europe,1985-09-16,Investment,No,Website,5.0,Very High,298191.59,1
+CL101433,Individual,Male,Canada,North America,1987-12-19,Investment,Yes,Broker,3.0,Very High,226614.99,3

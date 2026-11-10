@@ -1,0 +1,36 @@
+{
+  "synthetic": true,
+  "seed": 42,
+  "reference_date_for_age": "2026-11-04",
+  "raw_rows": 1512,
+  "raw_columns": 13,
+  "clean_rows": 1500,
+  "clean_columns": 13,
+  "duplicates_removed": 12,
+  "best_k": 2,
+  "kmeans_silhouette": 0.24220429141526142,
+  "hierarchical_sample_silhouette": 0.2476910689922508,
+  "hierarchical_sample_size": 500,
+  "silhouette_by_k": {
+    "2": 0.24220429141526142,
+    "3": 0.23932274718643,
+    "4": 0.195809819472677,
+    "5": 0.1512720234374751,
+    "6": 0.14519828878177318,
+    "7": 0.13745085830229375,
+    "8": 0.1308695421191301
+  },
+  "inertia_by_k": {
+    "2": 8531.826315498227,
+    "3": 7307.024570500189,
+    "4": 6720.370771351864,
+    "5": 6322.638449928047,
+    "6": 5996.541638759367,
+    "7": 5794.87098219365,
+    "8": 5621.274647361382
+  },
+  "cluster_names": {
+    "0": "Premium / Luxury Buyers",
+    "1": "First-Time / Home Buyers"
+  }
+}
