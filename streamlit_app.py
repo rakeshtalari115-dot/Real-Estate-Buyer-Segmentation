@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "processed" / "real_estate_buyers_segmented.csv"
 
 st.set_page_config(page_title="Real Estate Buyer Intelligence", page_icon="🏙️", layout="wide")
