@@ -13,7 +13,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.cluster import KMeans, AgglomerativeClustering
 from sklearn.metrics import silhouette_score
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 RAW = ROOT / "data" / "raw" / "real_estate_buyers_synthetic.csv"
 PROCESSED = ROOT / "data" / "processed"
 REPORTS = ROOT / "reports"
