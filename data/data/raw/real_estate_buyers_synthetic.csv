@@ -1,0 +1,151 @@
+client_id,date_of_birth,gender,client_type,region,acquisition_purpose,loan_applied,referral_channel,income_bracket,property_budget_usd,units_interested,satisfaction_score
+BUYER0001,1992-03-10,Male,High Net Worth,Europe,Second Home,Yes,Referral,Middle,2471640,5,3.9
+BUYER0002,2000-12-07,Female,Corporate,Latin America,Investment,No,Broker,High,1671568,4,3.8
+BUYER0003,1999-03-20,Female,High Net Worth,North America,Primary Residence,Yes,Referral,Very High,1494309,1,4.2
+BUYER0004,1971-07-02,Male,Institutional,Latin America,Primary Residence,Yes,Social Media,High,1951206,1,4.1
+BUYER0005,1993-11-24,Male,Individual,Asia Pacific,Investment,No,Online,Very High,936449,5,5.0
+BUYER0006,1990-01-27,Male,International,North America,Investment,No,Social Media,High,439475,2,5.0
+BUYER0007,1958-09-03,Male,High Net Worth,Europe,Investment,No,Referral,Very High,3721064,4,3.8
+BUYER0008,1957-04-28,Female,High Net Worth,Asia Pacific,Second Home,No,Direct,Low,2309556,1,2.7
+BUYER0009,1959-02-06,Female,Individual,Europe,Primary Residence,Yes,Referral,High,1308581,2,4.3
+BUYER0010,1988-12-07,Female,Corporate,North America,Second Home,Yes,Broker,Middle,3574662,2,4.9
+BUYER0011,1970-04-12,Male,Individual,Middle East,Primary Residence,No,Direct,High,566693,2,3.3
+BUYER0012,1970-09-25,Male,International,Middle East,Primary Residence,No,Direct,High,419554,4,3.7
+BUYER0013,1992-06-02,Male,Institutional,North America,Primary Residence,No,Online,Very High,3847748,5,3.6
+BUYER0014,1973-08-25,Other,High Net Worth,Europe,Investment,Yes,Direct,Very High,1824891,5,2.6
+BUYER0015,1975-02-03,Other,Corporate,Europe,Investment,No,Direct,Middle,1610904,4,4.2
+BUYER0016,1981-09-02,Male,Individual,Middle East,Primary Residence,No,Broker,High,1402538,2,3.4
+BUYER0017,1963-07-21,Female,Corporate,Middle East,Primary Residence,Yes,Social Media,High,2671834,5,4.5
+BUYER0018,1967-04-30,Female,Individual,Middle East,Investment,No,Direct,Middle,167997,3,4.6
+BUYER0019,1974-09-18,Female,High Net Worth,Latin America,Primary Residence,No,Broker,Middle,2357994,3,4.6
+BUYER0020,1964-11-14,Male,Institutional,Middle East,Primary Residence,Yes,Online,Low,2573463,4,3.5
+BUYER0021,1962-12-20,Female,Institutional,Europe,Second Home,Yes,Direct,High,4387858,4,3.3
+BUYER0022,1972-12-19,Male,Individual,North America,Primary Residence,No,Broker,Middle,1096181,5,4.4
+BUYER0023,1988-03-21,Male,International,Middle East,Investment,Yes,Direct,Very High,367900,3,4.5
+BUYER0024,1963-03-17,Male,High Net Worth,Latin America,Investment,Yes,Referral,Middle,1238975,4,3.7
+BUYER0025,1965-04-15,Female,High Net Worth,Latin America,Investment,Yes,Referral,Very High,2711682,4,4.7
+BUYER0026,1951-09-28,Female,Individual,Europe,Primary Residence,Yes,Online,Middle,166323,2,2.9
+BUYER0027,1994-03-24,Female,Corporate,Europe,Second Home,No,Direct,High,1935571,2,4.7
+BUYER0028,1980-06-29,Male,Individual,North America,Primary Residence,No,Online,Low,293487,4,2.7
+BUYER0029,1954-10-04,Male,Individual,North America,Investment,Yes,Referral,High,128786,1,2.9
+BUYER0030,1975-08-21,Male,Institutional,Asia Pacific,Investment,No,Social Media,High,4634704,2,3.8
+BUYER0031,1953-10-27,Female,Institutional,Asia Pacific,Primary Residence,No,Social Media,Very High,904193,4,2.7
+BUYER0032,2001-03-23,Female,International,Europe,Primary Residence,Yes,Social Media,Very High,112963,5,2.6
+BUYER0033,2000-01-26,Female,Individual,Europe,Investment,No,Social Media,Low,1406048,3,2.5
+BUYER0034,1961-04-16,Male,Individual,Latin America,Investment,Yes,Referral,Middle,363650,2,3.6
+BUYER0035,1983-08-05,Male,Corporate,Asia Pacific,Primary Residence,No,Broker,Low,4174510,3,4.4
+BUYER0036,1975-05-07,Female,Individual,Latin America,Investment,No,Social Media,Low,143796,4,2.6
+BUYER0037,1980-01-18,Male,Individual,Latin America,Primary Residence,No,Social Media,High,314978,3,4.1
+BUYER0038,1981-01-25,Female,Corporate,Europe,Investment,Yes,Social Media,High,997832,1,4.6
+BUYER0039,1953-12-24,Male,Individual,Europe,Investment,No,Direct,High,1088767,3,2.9
+BUYER0040,1997-01-24,Female,Institutional,Latin America,Second Home,Yes,Online,Very High,3290671,3,2.9
+BUYER0041,1962-07-04,Female,Corporate,Middle East,Investment,Yes,Referral,High,2639759,4,4.7
+BUYER0042,1956-07-09,Male,High Net Worth,Europe,Investment,Yes,Referral,High,1535326,5,4.6
+BUYER0043,1968-05-10,Female,Institutional,Middle East,Investment,No,Social Media,Low,899869,5,3.8
+BUYER0044,1981-09-23,Female,Individual,Asia Pacific,Investment,Yes,Broker,Middle,896896,4,4.5
+BUYER0045,1993-09-15,Female,High Net Worth,Latin America,Investment,No,Broker,High,1499821,2,2.7
+BUYER0046,1967-01-27,Female,High Net Worth,Europe,Investment,No,Online,Very High,2668134,3,3.5
+BUYER0047,1977-12-20,Male,Individual,Latin America,Investment,Yes,Social Media,Low,1062455,1,4.3
+BUYER0048,1994-04-01,Male,Individual,Latin America,Investment,Yes,Direct,High,1289209,5,3.1
+BUYER0049,1983-07-14,Male,Institutional,North America,Primary Residence,Yes,Online,High,2722932,5,4.4
+BUYER0050,1952-11-08,Female,Individual,North America,Primary Residence,No,Referral,Low,106637,5,3.8
+BUYER0051,1988-05-02,Male,Individual,Asia Pacific,Investment,No,Referral,Middle,492933,2,4.4
+BUYER0052,1992-10-07,Female,Individual,North America,Investment,Yes,Referral,Very High,1294717,2,3.7
+BUYER0053,1967-02-08,Female,High Net Worth,Europe,Primary Residence,No,Social Media,High,2483065,5,3.4
+BUYER0054,1991-09-10,Female,Institutional,Asia Pacific,Second Home,Yes,Online,Middle,3286035,3,3.0
+BUYER0055,1954-12-23,Male,Institutional,Latin America,Second Home,No,Broker,Very High,2560204,4,3.0
+BUYER0056,1958-01-31,Male,High Net Worth,Latin America,Investment,No,Online,Middle,1278916,3,4.4
+BUYER0057,1951-09-26,Male,Corporate,North America,Investment,No,Broker,Very High,4535166,3,2.8
+BUYER0058,1955-05-09,Male,Corporate,Latin America,Investment,No,Social Media,Middle,3978218,4,2.7
+BUYER0059,1989-06-09,Male,Individual,North America,Investment,No,Social Media,High,1493256,5,2.9
+BUYER0060,1991-01-18,Male,Individual,Middle East,Primary Residence,Yes,Online,Middle,1297688,2,2.9
+BUYER0061,1984-05-25,Male,Institutional,Latin America,Investment,Yes,Direct,Middle,1810099,5,4.6
+BUYER0062,1977-12-01,Female,Corporate,Latin America,Investment,Yes,Broker,Very High,1644185,2,3.5
+BUYER0063,1957-01-04,Female,Corporate,Europe,Investment,No,Online,Middle,1618134,3,5.0
+BUYER0064,1964-06-23,Female,High Net Worth,Latin America,Primary Residence,No,Broker,Low,3736079,5,2.8
+BUYER0065,1969-01-06,Male,Institutional,North America,Investment,No,Online,Middle,3006208,5,4.1
+BUYER0066,1957-02-04,Male,Corporate,Asia Pacific,Primary Residence,No,Referral,High,2545058,5,3.6
+BUYER0067,1968-12-10,Male,Corporate,Asia Pacific,Investment,Yes,Social Media,High,4857176,2,3.5
+BUYER0068,1982-07-17,Female,Individual,Europe,Second Home,No,Referral,Very High,944794,5,4.7
+BUYER0069,1980-10-23,Male,Individual,North America,Investment,Yes,Direct,Middle,1373204,5,4.9
+BUYER0070,1975-07-06,Female,Corporate,Middle East,Primary Residence,Yes,Referral,Middle,4930922,5,4.7
+BUYER0071,1997-05-03,Female,Individual,Europe,Second Home,No,Online,Middle,211223,1,3.0
+BUYER0072,1964-01-22,Female,Individual,Middle East,Second Home,No,Online,High,606150,4,3.1
+BUYER0073,1968-08-04,Female,High Net Worth,Asia Pacific,Primary Residence,No,Broker,Very High,3135952,5,4.1
+BUYER0074,1964-08-06,Male,Individual,Europe,Primary Residence,Yes,Broker,High,1238423,4,3.2
+BUYER0075,1974-08-25,Female,Individual,Latin America,Primary Residence,No,Social Media,High,307878,2,4.3
+BUYER0076,1961-12-16,Male,Individual,North America,Primary Residence,Yes,Social Media,Middle,545758,4,3.9
+BUYER0077,1953-06-16,Male,Individual,Middle East,Investment,No,Social Media,Very High,867442,1,3.9
+BUYER0078,1972-10-24,Female,Institutional,Middle East,Primary Residence,No,Direct,Middle,4096460,3,4.6
+BUYER0079,1979-03-19,Male,Corporate,Europe,Primary Residence,Yes,Referral,Middle,1008352,4,4.3
+BUYER0080,1996-07-12,Female,High Net Worth,Europe,Second Home,Yes,Direct,Middle,2702385,3,2.6
+BUYER0081,1962-03-05,Other,Institutional,North America,Primary Residence,Yes,Referral,Low,1833993,4,2.6
+BUYER0082,1955-10-16,Male,Individual,Latin America,Investment,No,Direct,Middle,402897,2,4.0
+BUYER0083,1966-03-18,Male,High Net Worth,Latin America,Primary Residence,Yes,Direct,Low,2425047,4,3.7
+BUYER0084,1957-09-30,Male,Individual,Europe,Investment,No,Direct,Middle,679636,4,3.2
+BUYER0085,1957-12-20,Female,Individual,North America,Investment,No,Direct,High,989995,4,3.5
+BUYER0086,1961-03-09,Male,Individual,North America,Primary Residence,No,Online,Middle,544689,2,4.4
+BUYER0087,1976-03-25,Female,Institutional,North America,Investment,Yes,Direct,Middle,4204741,2,4.6
+BUYER0088,1996-10-09,Female,Corporate,Latin America,Investment,No,Broker,Very High,851487,2,3.9
+BUYER0089,2001-09-11,Female,Individual,Latin America,Investment,Yes,Direct,High,1306631,3,3.5
+BUYER0090,1991-06-12,Male,Corporate,North America,Investment,No,Referral,High,634256,3,3.2
+BUYER0091,1979-11-23,Male,Individual,Middle East,Investment,No,Social Media,Middle,1130254,2,3.8
+BUYER0092,1963-12-18,Male,Institutional,North America,Investment,No,Broker,Very High,2059153,3,3.3
+BUYER0093,1978-08-19,Male,Corporate,Europe,Primary Residence,No,Social Media,Middle,2225006,2,3.9
+BUYER0094,2000-09-06,Female,Individual,Asia Pacific,Investment,Yes,Social Media,Middle,126647,2,4.2
+BUYER0095,1991-02-21,Male,Individual,Middle East,Second Home,No,Broker,Very High,1082940,4,2.7
+BUYER0096,1951-12-15,Female,Institutional,Latin America,Second Home,Yes,Referral,High,1244694,5,2.5
+BUYER0097,1951-07-04,Male,Individual,North America,Primary Residence,Yes,Referral,High,1022819,2,3.0
+BUYER0098,1982-08-22,Female,Individual,North America,Investment,Yes,Direct,High,1115256,5,4.7
+BUYER0099,1960-11-01,Other,Individual,Europe,Primary Residence,Yes,Direct,High,1283334,3,4.1
+BUYER0100,1965-03-14,Female,International,Europe,Primary Residence,Yes,Social Media,Middle,1091327,1,2.9
+BUYER0101,1954-05-26,Female,International,Latin America,Primary Residence,Yes,Broker,Middle,522100,2,4.7
+BUYER0102,1956-08-16,Female,Institutional,Middle East,Primary Residence,Yes,Referral,Middle,3823611,1,3.7
+BUYER0103,1969-10-25,Female,Individual,Europe,Primary Residence,No,Referral,Middle,1256330,1,3.7
+BUYER0104,1981-09-30,Female,International,Latin America,Primary Residence,No,Social Media,Very High,544014,2,4.8
+BUYER0105,1969-12-03,Male,High Net Worth,Asia Pacific,Investment,Yes,Broker,Middle,1153574,3,2.6
+BUYER0106,1985-08-06,Female,Institutional,Asia Pacific,Primary Residence,Yes,Referral,High,4505087,4,3.0
+BUYER0107,1984-02-14,Male,Corporate,Asia Pacific,Investment,Yes,Online,High,1165729,1,4.0
+BUYER0108,1970-11-02,Female,Individual,North America,Primary Residence,No,Social Media,High,931362,5,3.0
+BUYER0109,1972-09-27,Male,Individual,Latin America,Second Home,Yes,Broker,Middle,430792,2,4.2
+BUYER0110,1972-04-01,Male,International,North America,Investment,Yes,Broker,Middle,276436,1,3.0
+BUYER0111,1982-04-04,Male,Corporate,North America,Primary Residence,Yes,Referral,Very High,3993868,4,2.7
+BUYER0112,1981-01-03,Male,Individual,Europe,Investment,Yes,Referral,High,301206,4,3.0
+BUYER0113,2001-05-05,Male,Individual,Europe,Primary Residence,Yes,Social Media,High,1038316,4,3.6
+BUYER0114,1971-03-11,Male,Corporate,North America,Investment,No,Referral,Very High,3618929,1,2.9
+BUYER0115,1972-07-07,Female,Individual,North America,Second Home,No,Referral,High,184319,1,2.8
+BUYER0116,1954-03-10,Female,High Net Worth,Middle East,Investment,No,Online,Middle,1312067,2,4.7
+BUYER0117,1976-02-28,Male,Institutional,Latin America,Second Home,No,Online,High,4074635,3,3.3
+BUYER0118,1978-01-10,Male,Institutional,North America,Primary Residence,No,Broker,Low,2782817,5,3.4
+BUYER0119,1998-05-31,Female,Corporate,Europe,Primary Residence,Yes,Social Media,High,1046083,2,2.6
+BUYER0120,1991-11-01,Female,Institutional,Asia Pacific,Primary Residence,No,Social Media,Very High,4962985,1,3.4
+BUYER0121,1984-08-19,Male,Corporate,Latin America,Primary Residence,No,Direct,High,1692446,5,3.2
+BUYER0122,1982-08-21,Male,Institutional,Middle East,Second Home,Yes,Direct,Middle,518034,1,4.0
+BUYER0123,1983-05-18,Other,Individual,Middle East,Investment,No,Broker,Low,1393832,1,3.0
+BUYER0124,1981-10-10,Male,Individual,Asia Pacific,Primary Residence,Yes,Online,Very High,123211,3,4.7
+BUYER0125,1962-09-03,Male,Individual,Asia Pacific,Investment,No,Online,Low,874701,3,4.8
+BUYER0126,1995-03-07,Female,Corporate,North America,Primary Residence,No,Broker,Low,4968880,4,2.7
+BUYER0127,1984-12-04,Male,Individual,Latin America,Investment,No,Broker,Middle,908933,5,2.8
+BUYER0128,1993-07-24,Female,Individual,Latin America,Primary Residence,No,Online,Low,918494,5,2.8
+BUYER0129,1986-03-05,Male,Individual,North America,Primary Residence,No,Broker,Middle,643444,2,4.0
+BUYER0130,1966-12-21,Female,Corporate,Middle East,Primary Residence,No,Online,High,1071094,5,2.8
+BUYER0131,1999-06-24,Male,Individual,North America,Primary Residence,No,Direct,Middle,901768,4,4.6
+BUYER0132,1984-07-23,Male,International,Middle East,Primary Residence,Yes,Social Media,Low,1356223,1,4.4
+BUYER0133,2000-08-27,Male,Corporate,Latin America,Primary Residence,No,Direct,Low,909962,5,4.5
+BUYER0134,1953-03-12,Male,Individual,North America,Primary Residence,No,Referral,Middle,1332532,1,3.8
+BUYER0135,1964-10-18,Female,Corporate,Asia Pacific,Primary Residence,Yes,Referral,Low,2367709,3,5.0
+BUYER0136,1989-06-12,Male,Individual,North America,Second Home,Yes,Broker,High,850680,4,2.6
+BUYER0137,1991-10-05,Female,International,Asia Pacific,Investment,No,Online,Middle,331566,2,3.5
+BUYER0138,1996-10-26,Female,Corporate,Latin America,Investment,Yes,Referral,Middle,3298064,2,3.3
+BUYER0139,1977-10-05,Female,High Net Worth,North America,Investment,Yes,Referral,Middle,1342647,3,4.9
+BUYER0140,1963-06-17,Female,Individual,Europe,Primary Residence,Yes,Online,Middle,482462,5,3.9
+BUYER0141,1972-02-01,Female,Corporate,Latin America,Investment,Yes,Referral,Low,3747254,2,4.5
+BUYER0142,1956-12-16,Male,Corporate,Europe,Primary Residence,Yes,Broker,Low,727338,4,2.9
+BUYER0143,1984-05-03,Male,International,North America,Primary Residence,No,Online,Very High,726054,3,4.9
+BUYER0144,1987-09-08,Male,Corporate,Asia Pacific,Investment,Yes,Direct,Low,3175554,1,3.7
+BUYER0145,1977-07-01,Female,Corporate,Asia Pacific,Second Home,No,Referral,High,1094128,4,3.7
+BUYER0146,1991-07-25,Female,Individual,Middle East,Primary Residence,No,Direct,Middle,512657,5,4.9
+BUYER0147,1952-02-20,Female,Individual,Europe,Investment,Yes,Direct,Middle,580902,3,3.5
+BUYER0148,1992-05-23,Male,Corporate,Latin America,Investment,Yes,Social Media,Middle,3486294,1,3.5
+BUYER0149,1977-06-15,Male,Corporate,Asia Pacific,Investment,No,Social Media,High,4895190,1,4.0
+BUYER0150,1975-04-04,Female,Individual,Europe,Investment,Yes,Direct,Very High,1270743,3,2.8
