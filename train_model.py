@@ -25,6 +25,13 @@ for folder in (PROCESSED, REPORTS, VISUALS, MODEL_PATH.parent):
 # 1. Load and clean
 raw = pd.read_csv(RAW)
 df = raw.drop_duplicates(subset=["client_id"]).copy()
+df["country"] = df["region"].map({
+    "North America": "United States",
+    "Europe": "Germany",
+    "Asia Pacific": "India",
+    "Middle East": "United Arab Emirates",
+    "Latin America": "Brazil"
+}).fillna("Other")
 for col in ["gender", "referral_channel"]:
     if df[col].isna().any():
         df[col] = df[col].fillna(df[col].mode(dropna=True)[0])
@@ -39,7 +46,7 @@ df = df.drop(columns=["date_of_birth"])
 df.to_csv(PROCESSED / "real_estate_buyers_clean.csv", index=False)
 
 # 2. Transform features
-cat = ["client_type", "region", "acquisition_purpose", "loan_applied", "referral_channel", "income_bracket"]
+cat = ["client_type", "region", "country", "acquisition_purpose", "loan_applied", "referral_channel", "income_bracket"]
 num = ["age", "satisfaction_score", "property_budget_usd", "units_interested"]
 features = cat + num
 preprocessor = ColumnTransformer([
