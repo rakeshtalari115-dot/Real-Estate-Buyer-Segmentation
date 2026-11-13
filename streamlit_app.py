@@ -23,7 +23,7 @@ if not DATA.exists():
             text=True,
         )
     if result.returncode != 0:
-        st.error("The data preparation step failed. Open a terminal in the project folder and run: python train_model.py.
+        st.error("The data preparation step failed. Open a terminal in the project folder and run: python train_model.py.")
         st.code(result.stderr or result.stdout)
         st.stop()
 
