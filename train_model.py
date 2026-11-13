@@ -25,6 +25,15 @@ for folder in (PROCESSED, REPORTS, VISUALS, MODEL_PATH.parent):
 # 1. Load and clean
 raw = pd.read_csv(RAW)
 df = raw.drop_duplicates(subset=["client_id"]).copy()
+# Add country based on synthetic buyer region
+country_map = {
+    "North America": "United States",
+    "Europe": "Germany",
+    "Asia Pacific": "India",
+    "Middle East": "United Arab Emirates",
+    "Latin America": "Brazil",
+}
+df["country"] = df["region"].map(country_map).fillna("Other")
 df["country"] = df["region"].map({
     "North America": "United States",
     "Europe": "Germany",
