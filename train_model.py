@@ -97,9 +97,9 @@ for cluster, row in profile.iterrows():
         label = "First-Time / Home Buyers"
     else:
         label = "Investment-Oriented Buyers"
-    if label in names.values():
-    label = f"{label} (Segment {int(cluster) + 1})"
-names[int(cluster)] = label
+        if label in names.values():
+        label = f"{label} (Segment {int(cluster) + 1})"
+    names[int(cluster)] = label
 df["buyer_segment"] = df["cluster"].map(names)
 df.to_csv(PROCESSED / "real_estate_buyers_segmented.csv", index=False)
 profile["buyer_segment"] = [names[int(i)] for i in profile.index]
