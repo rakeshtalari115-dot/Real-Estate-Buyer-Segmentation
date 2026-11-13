@@ -97,7 +97,9 @@ for cluster, row in profile.iterrows():
         label = "First-Time / Home Buyers"
     else:
         label = "Investment-Oriented Buyers"
-        if label in names.values():
+                if label in names.values():
+            label = f"{label} (Segment {int(cluster) + 1})"
+    names[int(cluster)] = label
         label = f"{label} (Segment {int(cluster) + 1})"
     names[int(cluster)] = label
 df["buyer_segment"] = df["cluster"].map(names)
