@@ -39,7 +39,7 @@ required_columns = {
 missing_columns = sorted(required_columns.difference(df.columns))
 if missing_columns:
     st.error("The processed dataset is missing required columns: " + ", ".join(missing_columns))
-    st.info("Run `python train_model.py. from the project root, then refresh this page.")
+    st.info("Run `python train_model.py` from the project root, then refresh this page.")
     st.stop()
 st.sidebar.header("Buyer filters")
 countries = st.sidebar.multiselect("Country", sorted(df.country.dropna().unique()), default=[])
