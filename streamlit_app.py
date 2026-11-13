@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "processed" / "real_estate_buyers_segmented.csv"
 
 st.set_page_config(page_title="Real Estate Buyer Intelligence", page_icon="🏙️", layout="wide")
@@ -17,13 +17,13 @@ st.caption("Synthetic demonstration dataset | Decision-support prototype | USD")
 if not DATA.exists():
     with st.spinner("Preparing the dataset and model for the dashboard..."):
         result = subprocess.run(
-            [sys.executable, str(ROOT / "train_model.py")],
+            [sys.executable, str(ROOT / "src" / "train_model.py")],
             cwd=ROOT,
             capture_output=True,
             text=True,
         )
     if result.returncode != 0:
-        st.error("The data preparation step failed. Open a terminal in the project folder and run: python train_model.py.")
+        st.error("The data preparation step failed. Open a terminal in the project folder and run: python src/train_model.py")
         st.code(result.stderr or result.stdout)
         st.stop()
 
@@ -39,7 +39,7 @@ required_columns = {
 missing_columns = sorted(required_columns.difference(df.columns))
 if missing_columns:
     st.error("The processed dataset is missing required columns: " + ", ".join(missing_columns))
-    st.info("Run `python train_model.py` from the project root, then refresh this page.")
+    st.info("Run `python src/train_model.py` from the project root, then refresh this page.")
     st.stop()
 st.sidebar.header("Buyer filters")
 countries = st.sidebar.multiselect("Country", sorted(df.country.dropna().unique()), default=[])
