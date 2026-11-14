@@ -17,7 +17,7 @@ st.caption("Synthetic demonstration dataset | Decision-support prototype | USD")
 if not DATA.exists():
     with st.spinner("Preparing the dataset and model for the dashboard..."):
         result = subprocess.run(
-            [sys.executable, str(ROOT / "src" / "train_model.py")],
+            [sys.executable, str(ROOT / "train_model.py")
             cwd=ROOT,
             capture_output=True,
             text=True,
