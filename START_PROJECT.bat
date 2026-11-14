@@ -29,7 +29,7 @@ python -m pip install -r requirements.txt
 if errorlevel 1 goto :error
 
 echo [3/4] Rebuilding cleaned data, model, metrics and charts...
-python src\train_model.py
+python train_model.py
 if errorlevel 1 goto :error
 
 echo [4/4] Starting Streamlit dashboard...
