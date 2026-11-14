@@ -23,7 +23,7 @@ if not DATA.exists():
             text=True,
         )
     if result.returncode != 0:
-        st.error("The data preparation step failed. Open a terminal in the project folder and run: python src/train_model.py")
+        st.error("The data preparation step failed. Open a terminal in the project folder and run: python train_model.py
         st.code(result.stderr or result.stdout)
         st.stop()
 
@@ -39,7 +39,7 @@ required_columns = {
 missing_columns = sorted(required_columns.difference(df.columns))
 if missing_columns:
     st.error("The processed dataset is missing required columns: " + ", ".join(missing_columns))
-    st.info("Run `python src/train_model.py` from the project root, then refresh this page.")
+    st.info("Run python train_model.py from the project root, then refresh this page.")
     st.stop()
 st.sidebar.header("Buyer filters")
 countries = st.sidebar.multiselect("Country", sorted(df.country.dropna().unique()), default=[])
